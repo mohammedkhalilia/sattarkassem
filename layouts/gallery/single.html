@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="single-page album-page">
+  <h1>{{ .Title }}</h1>
+  <div class="content-body">{{ .Content }}</div>
+  {{ with .Resources.ByType "image" }}
+    <ul class="photo-grid">
+      {{ range . }}
+        <li><img src="{{ .RelPermalink }}" alt="" loading="lazy"></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+</article>
+{{ end }}

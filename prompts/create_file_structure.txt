@@ -1,0 +1,18 @@
+You are website designer, expert in designing websites for authors and politicians.
+
+My father passed way, he is an author and politician. He is name is Abdul-Sattar Kassem from Palestine.
+
+I want to create a website for home that will preserve his legacy and keep his content alive and public to the world.
+
+The website should be simple, but functional and should contain the following:
+
+* Articles in Arabic, I will supply those as PDF or word documents, then you can convert them into webpages. Probably that is best for SEOs.
+* Articles in English, those are translated from Arabic.
+* Books - all are in Arabic, with possibility of later translating them to English.
+* Video - most are Arabic and later we can translate them to English
+* Pictures.
+* Website will fully support two languages: English and Arabic, we allow the people to toggle between the two languages.
+
+Right now, we will just focus on creating a proper file/directory structure for the website.
+
+Before doing anything, what else do you see missing, any other changes I should I account for?

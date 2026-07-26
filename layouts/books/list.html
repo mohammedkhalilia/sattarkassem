@@ -1,0 +1,27 @@
+{{ define "main" }}
+<article class="section-page books-page">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ $pages := .Pages }}
+  {{ if $pages }}
+    <ul class="book-grid">
+      {{ range $pages.ByTitle }}
+        {{ $book := . }}
+        <li class="book-card">
+          <a href="{{ $book.RelPermalink }}">
+            {{ with $book.Params.cover }}
+              {{ with $book.Resources.GetMatch . }}
+                <img src="{{ .RelPermalink }}" alt="{{ $book.Title }}" loading="lazy">
+              {{ end }}
+            {{ end }}
+            <span class="book-title">{{ $book.Title }}</span>
+          </a>
+          {{ with $book.Params.publish_year }}<span class="book-year">{{ . }}</span>{{ end }}
+        </li>
+      {{ end }}
+    </ul>
+  {{ else }}
+    <p class="empty-note">{{ T "no_content_yet" }}</p>
+  {{ end }}
+</article>
+{{ end }}

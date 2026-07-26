@@ -1,0 +1,38 @@
+[nav_home]
+other = "Home"
+
+[nav_about]
+other = "Biography"
+
+[nav_articles]
+other = "Articles"
+
+[nav_books]
+other = "Books"
+
+[nav_videos]
+other = "Videos"
+
+[nav_gallery]
+other = "Gallery"
+
+[nav_quotes]
+other = "Quotes"
+
+[nav_press]
+other = "Press"
+
+[nav_tributes]
+other = "Tributes"
+
+[nav_contact]
+other = "Contact"
+
+[download_pdf]
+other = "Download original PDF"
+
+[read_in]
+other = "Read in {{.Language}}"
+
+[no_content_yet]
+other = "Content coming soon."

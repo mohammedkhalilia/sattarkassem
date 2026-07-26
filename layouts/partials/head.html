@@ -1,0 +1,9 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if not .IsHome }}{{ .Title }} &middot; {{ end }}{{ site.Title }}</title>
+{{ with site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+<link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+<link rel="alternate" hreflang="{{ site.Language.Lang }}" href="{{ .Permalink }}">
+{{ range .Translations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+{{ end }}

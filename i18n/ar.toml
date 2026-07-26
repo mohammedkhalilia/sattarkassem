@@ -1,0 +1,38 @@
+[nav_home]
+other = "الرئيسية"
+
+[nav_about]
+other = "السيرة الذاتية"
+
+[nav_articles]
+other = "المقالات"
+
+[nav_books]
+other = "الكتب"
+
+[nav_videos]
+other = "الفيديو"
+
+[nav_gallery]
+other = "معرض الصور"
+
+[nav_quotes]
+other = "أقوال"
+
+[nav_press]
+other = "الصحافة"
+
+[nav_tributes]
+other = "كلمات تأبين"
+
+[nav_contact]
+other = "اتصل بنا"
+
+[download_pdf]
+other = "تحميل الملف الأصلي PDF"
+
+[read_in]
+other = "اقرأ بلغة {{.Language}}"
+
+[no_content_yet]
+other = "المحتوى قادم قريبًا."

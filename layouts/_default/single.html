@@ -1,0 +1,22 @@
+{{ define "main" }}
+<article class="single-page">
+  <h1>{{ .Title }}</h1>
+  {{ if .Date }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>{{ end }}
+  {{ with .Params.original_file }}
+    <p><a href="{{ . | relURL }}">{{ T "download_pdf" }}</a></p>
+  {{ end }}
+  {{ with .Params.video_url }}
+    <div class="video-embed"><iframe src="{{ . }}" loading="lazy" allowfullscreen></iframe></div>
+  {{ end }}
+  <div class="content-body">
+    {{ .Content }}
+  </div>
+  {{ if .IsTranslated }}
+    <p class="translations">
+      {{ range .Translations }}
+        <a href="{{ .Permalink }}">{{ T "read_in" (dict "Language" .Language.Label) }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+</article>
+{{ end }}

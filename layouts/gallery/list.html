@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article class="section-page gallery-page">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ $pages := .Pages }}
+  {{ if $pages }}
+    <ul class="album-grid">
+      {{ range $pages.ByDate.Reverse }}
+        {{ $album := . }}
+        <li class="album-card">
+          <a href="{{ $album.RelPermalink }}">
+            {{ with $album.Resources.ByType "image" }}
+              {{ with index . 0 }}
+                <img src="{{ .RelPermalink }}" alt="{{ $album.Title }}" loading="lazy">
+              {{ end }}
+            {{ end }}
+            <span class="album-title">{{ $album.Title }}</span>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  {{ else }}
+    <p class="empty-note">{{ T "no_content_yet" }}</p>
+  {{ end }}
+</article>
+{{ end }}

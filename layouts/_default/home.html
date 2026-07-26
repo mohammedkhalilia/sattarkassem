@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>{{ site.Title }}</h1>
+  {{ .Content }}
+</section>
+<nav class="section-cards" aria-label="Sections">
+  <ul>
+    {{ range (slice "about" "articles" "books" "videos" "gallery" "quotes" "press" "tributes") }}
+      {{ $section := . }}
+      {{ with site.GetPage $section }}
+        <li><a href="{{ .RelPermalink }}">{{ T (printf "nav_%s" $section) }}</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</nav>
+{{ end }}
