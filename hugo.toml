@@ -31,3 +31,6 @@ enableRobotsTXT = true
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+
+[permalinks]
+  categories = '/articles/category/:slug/'

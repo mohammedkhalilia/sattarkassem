@@ -1,0 +1,21 @@
+{{ define "main" }}
+<article class="section-page articles-page">
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<div class="content-body">{{ . }}</div>{{ end }}
+  {{ $categories := .Site.Taxonomies.categories }}
+  {{ if $categories }}
+    <ul class="category-grid">
+      {{ range $categories.Alphabetical }}
+        <li class="category-card">
+          <a href="{{ .Page.RelPermalink }}">
+            <span class="category-name">{{ .Page.Title }}</span>
+            <span class="category-count">{{ .Count }}</span>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  {{ else }}
+    <p class="empty-note">{{ T "no_content_yet" }}</p>
+  {{ end }}
+</article>
+{{ end }}

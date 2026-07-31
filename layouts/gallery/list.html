@@ -5,13 +5,16 @@
   {{ $pages := .Pages }}
   {{ if $pages }}
     <ul class="album-grid">
+      {{ $exts := slice ".jpg" ".jpeg" ".png" ".gif" ".webp" }}
       {{ range $pages.ByDate.Reverse }}
         {{ $album := . }}
+        {{ $folder := $album.Params.image_folder | default $album.File.ContentBaseName }}
+        {{ $dir := printf "images/gallery/%s" $folder }}
         <li class="album-card">
           <a href="{{ $album.RelPermalink }}">
-            {{ with $album.Resources.ByType "image" }}
-              {{ with index . 0 }}
-                <img src="{{ .RelPermalink }}" alt="{{ $album.Title }}" loading="lazy">
+            {{ range first 1 (readDir (printf "static/%s" $dir)) }}
+              {{ if in $exts (lower (path.Ext .Name)) }}
+                <img src="{{ printf "/%s/%s" $dir .Name | relURL }}" alt="{{ $album.Title }}" loading="lazy">
               {{ end }}
             {{ end }}
             <span class="album-title">{{ $album.Title }}</span>

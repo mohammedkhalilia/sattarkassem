@@ -36,3 +36,12 @@ other = "اقرأ بلغة {{.Language}}"
 
 [no_content_yet]
 other = "المحتوى قادم قريبًا."
+
+[lightbox_close]
+other = "إغلاق"
+
+[lightbox_previous]
+other = "الصورة السابقة"
+
+[lightbox_next]
+other = "الصورة التالية"

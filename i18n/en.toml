@@ -36,3 +36,12 @@ other = "Read in {{.Language}}"
 
 [no_content_yet]
 other = "Content coming soon."
+
+[lightbox_close]
+other = "Close"
+
+[lightbox_previous]
+other = "Previous image"
+
+[lightbox_next]
+other = "Next image"
