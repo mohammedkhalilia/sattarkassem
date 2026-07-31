@@ -356,6 +356,17 @@ body.lightbox-open {
   font-size: 0.85rem;
 }
 
+/* About page */
+
+.about-page .profile-photo {
+  display: block;
+  width: 10rem;
+  height: 10rem;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 1rem auto 1.5rem;
+}
+
 /* Single article/book pages */
 
 .single-page time {
