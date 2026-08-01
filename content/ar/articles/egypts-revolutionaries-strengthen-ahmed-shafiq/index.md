@@ -1,6 +1,6 @@
 ---
 title: "ثوار مصر يعززون أحمد شفيق"
-date: 2011-01-25
+date: 2012-06-03
 draft: false
 categories: ["الشأن العربي"]
 tags: []

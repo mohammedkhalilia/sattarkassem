@@ -5,7 +5,7 @@
 </head>
 <body>
   {{ partial "header.html" . }}
-  <main class="site-main">
+  <main class="site-main{{ with .Params.layout }} site-main--{{ . }}{{ end }}">
     {{ block "main" . }}{{ end }}
   </main>
   {{ partial "footer.html" . }}

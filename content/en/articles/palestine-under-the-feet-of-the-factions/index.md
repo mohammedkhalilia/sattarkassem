@@ -1,6 +1,6 @@
 ---
 title: "Palestine Under the Feet of the Factions"
-date: 2000-07-17
+date: 2005-06-04
 draft: false
 categories: ["Palestinian Politics"]
 tags: []

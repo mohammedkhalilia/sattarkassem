@@ -1,6 +1,6 @@
 ---
 title: "Egypt's Revolutionaries Strengthen Ahmed Shafiq"
-date: 2011-01-25
+date: 2012-06-03
 draft: false
 categories: ["Arab Affairs"]
 tags: []

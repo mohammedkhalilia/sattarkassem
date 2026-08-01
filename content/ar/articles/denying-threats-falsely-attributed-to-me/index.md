@@ -80,31 +80,17 @@ HYPERLINK "http://www.maannews.net/arb/Search.aspx"  بحث متقدم
 
 .:: التـعـليـقـات غـيـر مـفـعـلـة ::.
 
-●
-
 HYPERLINK "http://www.maannews.net/arb/ViewDetails.aspx?ID=270064" الاحتلال يعتقل فتى من الخليل ويطالب عائلته بدفع غرامة مالية
-
-●
 
 HYPERLINK "http://www.maannews.net/arb/ViewDetails.aspx?ID=270106" الكشف عن 4 شبكات تجسس جديدة للموساد بلبنان
 
-●
-
 HYPERLINK "http://www.maannews.net/arb/ViewDetails.aspx?ID=270103" العتيلي يلتقي السفيرة ليلى شهيد مفوضة فلسطين لدى الاتحاد الأوروبي
-
-●
 
 HYPERLINK "http://www.maannews.net/arb/ViewDetails.aspx?ID=270104" معبر الكرامة خلال اسبوع: تنقل 15 ألف مسافر واعتقال 14 مطلوبا للعدالة
 
-●
-
 HYPERLINK "http://www.maannews.net/arb/ViewDetails.aspx?ID=270092" منتدى الإعلاميين ينتقد القرار الأمريكي فرض عقوبات على فضائية الاقصى
 
-●
-
 HYPERLINK "http://www.maannews.net/arb/ViewDetails.aspx?ID=270085" اعتقال شابين مقدسيين من حي الواد وحارة السعدية
-
-●
 
 HYPERLINK "http://www.maannews.net/arb/ViewDetails.aspx?ID=270084" قوات الاحتلال تغلق كافة مداخل قرية بردلة
 

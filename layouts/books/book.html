@@ -1,0 +1,21 @@
+{{ define "main" }}
+<article class="single-page book-page">
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.cover }}
+    {{ with $.Resources.GetMatch . }}
+      <img class="book-cover" src="{{ .RelPermalink }}" alt="{{ $.Title }}">
+    {{ end }}
+  {{ end }}
+  {{ with .Params.author }}<p class="book-author">{{ . }}</p>{{ end }}
+  {{ with .Params.publish_year }}<p class="book-year">{{ . }}</p>{{ end }}
+  <div class="content-body">{{ .Content }}</div>
+  {{ with .Pages.ByWeight }}
+    <h2>{{ T "chapters" }}</h2>
+    <ol class="chapter-list">
+      {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ol>
+  {{ end }}
+</article>
+{{ end }}

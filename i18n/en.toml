@@ -45,3 +45,6 @@ other = "Previous image"
 
 [lightbox_next]
 other = "Next image"
+
+[chapters]
+other = "Chapters"

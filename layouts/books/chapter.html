@@ -1,0 +1,43 @@
+{{ define "main" }}
+<div class="chapter-layout">
+  <nav class="chapter-sidebar" aria-label="{{ T "chapters" }}">
+    <a class="chapter-sidebar-book" href="{{ .Parent.RelPermalink }}">&larr; {{ .Parent.Title }}</a>
+    <ol class="chapter-sidebar-list">
+      {{ range .Parent.Pages.ByWeight }}
+        <li{{ if eq .RelPermalink $.RelPermalink }} class="current" aria-current="page"{{ end }}>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ol>
+  </nav>
+  <article class="single-page chapter-page">
+    <p class="chapter-book-link"><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.original_file }}
+      <p><a href="{{ . | relURL }}">{{ T "download_pdf" }}</a></p>
+    {{ end }}
+    <div class="content-body">{{ .Content }}</div>
+    {{ $siblings := .Parent.Pages.ByWeight }}
+    {{ $current := $.RelPermalink }}
+    {{ $index := -1 }}
+    {{ range $i, $p := $siblings }}
+      {{ if eq $p.RelPermalink $current }}{{ $index = $i }}{{ end }}
+    {{ end }}
+    <nav class="chapter-pager">
+      {{ if gt $index 0 }}
+        {{ with index $siblings (sub $index 1) }}<a class="chapter-pager-prev" href="{{ .RelPermalink }}">&larr; {{ .Title }}</a>{{ end }}
+      {{ end }}
+      {{ if and (ge $index 0) (lt $index (sub (len $siblings) 1)) }}
+        {{ with index $siblings (add $index 1) }}<a class="chapter-pager-next" href="{{ .RelPermalink }}">{{ .Title }} &rarr;</a>{{ end }}
+      {{ end }}
+    </nav>
+    {{ if .IsTranslated }}
+      <p class="translations">
+        {{ range .Translations }}
+          <a href="{{ .Permalink }}">{{ T "read_in" (dict "Language" .Language.Label) }}</a>
+        {{ end }}
+      </p>
+    {{ end }}
+  </article>
+</div>
+{{ end }}
