@@ -48,3 +48,6 @@ other = "Next image"
 
 [chapters]
 other = "Chapters"
+
+[toggle_theme]
+other = "Toggle theme"

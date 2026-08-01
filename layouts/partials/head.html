@@ -2,6 +2,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ if not .IsHome }}{{ .Title }} &middot; {{ end }}{{ site.Title }}</title>
 {{ with site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+<link rel="preload" href="{{ "fonts/noto-naskh-arabic-400-normal-arabic.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
 <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 <link rel="alternate" hreflang="{{ site.Language.Lang }}" href="{{ .Permalink }}">
 {{ range .Translations }}

@@ -10,9 +10,7 @@
         <li class="book-card">
           <a href="{{ $book.RelPermalink }}">
             {{ with $book.Params.cover }}
-              {{ with $book.Resources.GetMatch . }}
-                <img src="{{ .RelPermalink }}" alt="{{ $book.Title }}" loading="lazy">
-              {{ end }}
+              <img src="{{ . | relURL }}" alt="{{ $book.Title }}" loading="lazy">
             {{ end }}
             <span class="book-title">{{ $book.Title }}</span>
           </a>

@@ -2,9 +2,7 @@
 <article class="single-page book-page">
   <h1>{{ .Title }}</h1>
   {{ with .Params.cover }}
-    {{ with $.Resources.GetMatch . }}
-      <img class="book-cover" src="{{ .RelPermalink }}" alt="{{ $.Title }}">
-    {{ end }}
+    <img class="book-cover" src="{{ . | relURL }}" alt="{{ $.Title }}">
   {{ end }}
   {{ with .Params.author }}<p class="book-author">{{ . }}</p>{{ end }}
   {{ with .Params.publish_year }}<p class="book-year">{{ . }}</p>{{ end }}

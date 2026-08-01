@@ -2,6 +2,7 @@
 title: "الطريق إلى الهزيمة"
 author: "الدكتور عبد الستار قاسم"
 publish_year: "1998"
+cover: "/images/books/road-to-defeat-font-cover.jpg"
 layout: "book"
 original_language: "ar"
 translation_status: "not_started"

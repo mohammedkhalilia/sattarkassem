@@ -1,0 +1,23 @@
+{{- $map := dict
+  "السياسة الفلسطينية" "cat-1"
+  "Palestinian Politics" "cat-1"
+  "الصراع الفلسطيني الإسرائيلي" "cat-2"
+  "Israeli-Palestinian Conflict" "cat-2"
+  "الشأن العربي" "cat-3"
+  "Arab Affairs" "cat-3"
+  "السياسة الدولية" "cat-4"
+  "International Politics" "cat-4"
+  "سوريا" "cat-5"
+  "Syria" "cat-5"
+  "إيران" "cat-6"
+  "Iran" "cat-6"
+  "لبنان وحزب الله" "cat-7"
+  "Lebanon and Hezbollah" "cat-7"
+  "الفكر الإسلامي" "cat-8"
+  "Islamic Thought" "cat-8"
+  "الشأن الأكاديمي" "cat-9"
+  "Academic Affairs" "cat-9"
+  "قضايا شخصية وقانونية" "cat-10"
+  "Personal and Legal Affairs" "cat-10"
+-}}
+{{- index $map . | default "cat-1" -}}

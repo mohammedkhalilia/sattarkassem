@@ -1,7 +1,12 @@
 {{ define "main" }}
 <section class="hero">
-  <h1>{{ site.Title }}</h1>
-  {{ .Content }}
+  {{ with .Params.photo }}
+    <img class="hero-photo" src="{{ . | relURL }}" alt="{{ $.Site.Title }}">
+  {{ end }}
+  <div class="hero-text">
+    <h1>{{ site.Title }}</h1>
+    {{ .Content }}
+  </div>
 </section>
 <nav class="section-cards" aria-label="Sections">
   <ul>

@@ -1,9 +1,12 @@
 {{ define "main" }}
-<article class="section-page">
-  {{ with site.GetPage "/articles" }}
-    <p class="breadcrumb"><a href="{{ .RelPermalink }}">&larr; {{ T "nav_articles" }}</a></p>
-  {{ end }}
-  <h1>{{ .Title }}</h1>
+{{ $colorClass := partial "category-color.html" .Title }}
+<article class="section-page term-page">
+  <div class="term-header {{ $colorClass }}">
+    {{ with site.GetPage "/articles" }}
+      <p class="breadcrumb"><a href="{{ .RelPermalink }}">&larr; {{ T "nav_articles" }}</a></p>
+    {{ end }}
+    <h1>{{ .Title }}</h1>
+  </div>
   <ul class="content-list">
     {{ range .Pages.ByDate.Reverse }}
       <li>

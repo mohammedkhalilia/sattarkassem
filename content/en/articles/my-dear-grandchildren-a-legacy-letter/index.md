@@ -2,7 +2,7 @@
 title: "My Dear Grandchildren"
 date: 2004-08-22
 draft: false
-categories: ["Personal & Legal Matters"]
+categories: ["Personal and Legal Affairs"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%88%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9%20%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%89%20%D8%B3%D9%8A%D8%AF%20%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%84%D9%8A%D9%86%20%D9%85%D8%AD%D9%85%D8%AF.doc"
