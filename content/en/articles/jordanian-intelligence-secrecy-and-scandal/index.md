@@ -1,0 +1,39 @@
+---
+title: "Jordanian Intelligence: Secrecy and Scandal"
+date: 2010-01-11
+draft: false
+categories: ["Arab Affairs"]
+tags: []
+original_language: "ar"
+original_file: "/originals/articles/%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AA%D9%83%D8%AA%D9%85%20%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%8A%D8%AD%D8%A9.doc"
+source_name: ""
+source_url: ""
+translated_from: "jordanian-intelligence-secrecy-and-scandal"
+translation_status: "complete"
+---
+
+### by Dr. Abdul-Sattar Kassem
+
+Arab regimes keep silent about a great many disgraces they commit against the Arab nation and its peoples, and they always try to appear as devoted, conscientious protectors through media propaganda or marginal deeds that leave a favorable impression on the public. For example, many Arab regimes conspire against Arab and Islamic resistance, yet they fill the world with clamor over sacks of flour and boxes of aspirin they send to brothers in Lebanon and Palestine. Many Arab regimes stood alongside Israel against Hezbollah, and with Israel against Gaza, yet they turned bold as lions once the war laid down its burdens and it was time to hand out relief flour. These are regimes that never speak of their own disgraces, yet dwell at length promoting their charitable works, without which — they would have us believe — their brothers would have died and their loved ones vanished.
+
+Then, as usual, comes the role of the Western and Israeli media, and the statements of certain Western and Israeli officials, to tell us the extent of the cooperation that the so-called "moderate" regimes maintain with Israeli and Western security and intelligence agencies generally. The Arab regimes are then caught out in their own misdeeds and begin to make excuses and dodge the issue, or else confess brazenly, as has increasingly happened in recent years.
+
+I remember perfectly well when Jordanian intelligence arrested a professor of economics at the University of Jordan in 1978/1979 because he had mistakenly published an article in the Jordanian newspaper Al-Ra'i, reprinted from the Palestinian newspaper Al-Fajr, about King Hussein's visits to Israel. They arrested him and humiliated him on the grounds that he was spreading lies to mislead the rightly-guided public — but it later turned out, with official Jordanian acknowledgment, that the king had indeed visited Israel repeatedly. The professor, whose name I no longer recall — perhaps it was Ismail — paid the price for it.
+
+It was rumored, back in the 1970s, that King Hussein was working for the American Central Intelligence Agency (CIA), and the regime came down hard on anyone who so much as mentioned the subject. The Washington Post published, in 1975, a list of names of Jordanian CIA agents on both banks, and His Exalted Majesty's name headed the list. At that point the director of Jordanian television stood up and gave an official statement that the King had cooperated with the CIA and had received funds on behalf of the Jordanian people. It was also rumored that the King had dealt directly with Israel, particularly regarding the 1973 war, and that he had passed Israel secrets about the war. The regime denied this until the age of satellite television arrived, and photographs were published of the King's plane landing at Lod airport and of him meeting Golda Meir. At that point the regime admitted that the King had passed on the information that Syria and Egypt were going to attack Israel, though he had not specified the date — of course he could not specify the date, because he did not know it himself.
+
+...and handed over Jerusalem. In other words, the matter was a trade-off: Damascus in exchange for Jerusalem. But Damascus did not fall, the military coup engineered during the war failed, and the price was paid by the Jordanian people and by the widows and orphans of the brave Jordanian soldiers who were martyred. Nor did the Jordanian regime hesitate to recognize Israel and open an embassy for it in Amman, even though it was the very regime that had surrendered the West Bank and bore responsibility for reclaiming it. Many Arab peoples, the Jordanian people among them, have suffered for decades because His Excellency the regime nursed a dream of establishing a kingdom whose capital would be Damascus.
+
+On television screens and in the media, the Jordanian regime — together with other Arab regimes complicit in these crimes — sheds tears over Jerusalem and wages campaigns against its Judaization. Does the one who handed over Jerusalem want to reclaim Jerusalem? And will America listen to Arab and Palestinian leaders and pressure Israel to halt its measures in Jerusalem?
+
+What happened in Afghanistan is not strange coming from Jordanian intelligence or the Jordanian regime. The role of Jordanian intelligence has been exposed in a scandalous manner, in a way that reveals just how foolish and naive Jordanian intelligence truly is. And the agency has learned nothing at all — it has kept concealing the name of the Jordanian intelligence officer who was killed in the operation. (Is he a member of the ruling family?) The Jordanian regime is a fundamental partner in every American and Israeli battle in the Arab-Islamic region, and it takes part wherever America wants it to take part. It is a partner in hunting down every Arab who might pose a danger to Israel, and in hunting down the Iraqi resistance, or the Sunni resistance in Iraq, where many reports indicate that Jordanian intelligence was the principal instrument in the killing of Zarqawi.
+
+Don't be upset, Jordanian intelligence — many Arab intelligence services play the very same disgraceful role you play. And so that your upset may be lighter, let me tell you that elements of the Palestine Liberation Organization in Lebanon, back in what was called the "revolution," used to deal with the CIA with the full knowledge of the organization's chairman. But we have gone one step further than you now: we work with the CIA openly, and the CIA itself recruits Palestinian agents and trains them right out in the open, in full view of the people. There are many Arab intelligence agencies that cannot outbid or undercut you — you are all partners in a disgrace that drags the nation into the mire of defeats. And it is important that you not take offense at these terms of shame, because if you did not yourselves see disgrace in your deeds, you would announce them openly, feel no shame, and not wait for your scandals to come to you from others.
+
+But has any one of you ever asked himself, before drifting off to sleep at night: are the pleasures you obtain worth betraying the nation? Every one of you — not only in Jordanian intelligence, but in most Arab regimes — betrays his wife, his mother, and his father, and trades in people's blood so that the American fool and, alongside him, the Zionist dwarf, may rise higher. Do you never think about the shameful acts that crush an entire nation and turn it into a beast of burden for whoever rides it? And if the regimes are traitors, is it your national and patriotic duty to betray as well?
+
+Your deeds have a short rope — wake up to yourselves before the people drag you through the streets. This is an age that turns and turns again: neither the regimes will last, nor the intelligence services, and truth rises above all and is never surpassed.
+
+---
+
+**Source:** Translated from the original Arabic, ["المخابرات الأردنية: التكتم والفضيحة"]({{< ref "/articles/jordanian-intelligence-secrecy-and-scandal" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AA%D9%83%D8%AA%D9%85%20%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%8A%D8%AD%D8%A9.doc).

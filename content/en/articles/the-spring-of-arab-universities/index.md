@@ -1,0 +1,69 @@
+---
+title: "The Spring of Arab Universities"
+date: 2012-07-07
+draft: false
+categories: ["Academic Affairs"]
+tags: []
+original_language: "ar"
+original_file: "/originals/articles/%D8%B1%D8%A8%D9%8A%D8%B9%20%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.doc"
+source_name: ""
+source_url: ""
+translated_from: "the-spring-of-arab-universities"
+translation_status: "complete"
+---
+
+### by Dr. Abdul-Sattar Kassem
+
+The Arab regimes have left no facet of life untouched without working to sabotage and corrupt it, in order to manufacture sick Arab psyches that surrender to narrow self-interest and tremble before the ruler — a state of affairs that prolongs the life of the regime. Universities were no exception; on the contrary, Arab rulers exerted continuous, determined, and intense efforts to ensure that universities remained form without substance, and stayed a controlled instrument to be used for the purposes of the rulers and their allies. The rulers invested vast sums of money in building universities that were modern in their architecture, decorating them and making them pleasing to the eye, but they also spent money to empty them of substance, so that they became, for the most part, mere places for issuing degrees to students and paying salaries to staff. They did not leave them devoid of knowledge altogether, but they worked to ensure that whatever knowledge was available served the rule and stability of the regime.
+
+The Historic Leadership Role of Universities
+
+Universities played a pioneering role in Arab and Islamic history in terms of scientific progress, development, and societal impact. Al-Mustansiriya University produced scholars, as did al-Azhar, al-Qarawiyyin, and Isfahan, and every student was a scholar in the making, being prepared to serve the nation, not the ruling regime. The Islamic nation preceded the rest of the world in establishing universities whose purpose was to advance the nation scientifically and intellectually, thereby contributing to human civilization and scientific progress. Its scholarly bodies were known for their breadth of knowledge, learning, and creativity, and for their courage in scientific research and in speaking truth to the ruler. The nation's civilizational role did not shrink until rulers decided to subjugate scholars and throw them into prisons, or to bend them to serve their own private ends.
+
+In modern history, universities in Western states emerged as pioneers of social, political, and economic change, and as an advanced cultural and intellectual platform offering what was new in scientific thought and critical analysis. Western universities developed to enjoy independence from the political sphere, becoming the principal force influencing society and shaping public policy, and their professors emerged as authorities of scholarly opinion, seeking the truth, whom decision-makers turn to for enlightenment through their ideas, analyses, and findings.
+
+At the student level, universities became a source of fear for rulers in general, who were therefore careful to adopt policies that would not stir public opinion, particularly among university students. University students frequently played the role of watchdog, tracking the actions of politicians — rulers and legislative councils alike — and did not hesitate to express their positions and their criticism of political performance through various means, such as seminars and demonstrations. University students in a number of Western countries, such as France and America, went out in protest demonstrations and made sacrifices in order to correct political courses and bend rulers toward what they saw as the public interest. They succeeded in many cases, in Europe, Latin America, and Asia. This is in addition to the efforts of students and faculty bodies in monitoring the work of university administrations, out of concern for scientific development and academic excellence.
+
+Arab Universities, Left Behind
+
+The observer notices that universities are almost entirely absent from the current movement of the Arab street, expressed as it is through the Arab Spring. Universities are not leading the Arab street today; their professors do not occupy a prominent place in the confrontation, and students are not able to be at the vanguard of the popular movement. Some stirring did precede the popular movement in a number of Egyptian universities, but the level of mobilization was modest, and it failed to spread into the street because of the regime's measures and the weakness of the willingness to make the sacrifices needed for change. These days, we are witnessing a student movement at the University of Nouakchott, with a fever of arrests pursuing the students.
+
+Many university students took part in sit-ins, demonstrations, and various activities of the Arab movement, but in their capacity as ordinary members of the public, not as part of a distinct university-based movement. The Arab observer noted the participation of some university professors, in some Arab states, in seminars and televised analytical discussions, but this took place within a personal dimension, not within a distinct university framework. Student unions have been absent from the scene of the movement, as have the unions of university professors and various teaching bodies. It was also observed that some university professors served as propaganda mouthpieces for the existing political regime, while some students became tools for resisting the popular movement.
+
+The picture of a university scene lagging behind the rest is even clearer in the West Bank and the Gaza Strip. After Palestinian universities had once been the spearhead in confronting the occupation and making sacrifices for freedom and independence, they became strongholds of control for the powers that be, biased in their favor at the expense of the Palestinian people. Student unions are no longer effective on the Palestinian scene, and in some Palestinian universities the labor unions have turned into tools in the hands of university administrations and the security services; universities have lost their capacity for initiative and for influencing the course of events, whether socially or politically. Corruption has spread throughout the areas occupied in '67, and students and teachers alike have remained either mere spectators or participants in it. The picture has not differed across the various Arab countries.
+
+Control Over the Universities
+
+...forward and to achieve progress in the various fields of life. The ruling regimes adopted numerous university policies that stripped the university of its role; I mention some of them here:
+
+Bringing security apparatuses — chief among them the intelligence services — into the university campus, into the lecture halls, seminars, and classes, with the aim of surveillance and deterrence, and ensuring that the educational process proceeds according to the requirements of preserving the existing political regime. The security services recruited many teachers and students to serve their purposes, and produced university administrations that serve the interests of the regime at the expense of creative education and critical analytical thinking. The security services infiltrated widely, striking terror into teachers and students, and managed to wear down the teaching process, particularly in the humanities and social science colleges, reducing it to a mere scrapbook devoid of creativity and renewal. Security men among the students, teachers, and administrators enjoyed many privileges, such as obtaining senior positions in the university, in the case of teachers, and high grades, in the case of students, who for the most part did not fulfill their academic obligations.
+
+Appointing university administrations that fall in line with the regime, meet its demands, and watch over its security and intellectual comfort. In most Arab universities, the university president, his deputies, his assistants, and the deans are loyal to the ruling regime and flatter it, and facilitate the missions of its agents from the security services, and so on. Very often, the university president is a member of the ruling party, the ruling tribe, or the powerful clique; he is as far removed from scholarship as can be, and as close to a gang as can be. Around him he establishes a clique, or a powerful gang, that controls the necks of the teachers, drawing close whomever it wishes, pushing away whomever it wishes, and expelling whomever it wishes.
+
+Turning student councils and staff unions into political tools serving the university administration and the ruling regime. The security services intervened, and university administrations responded by establishing student unions subordinate to the university administrations, without regard for students' interests, and by establishing staff unions that defend the administrations more than they defend the staff and their rights. And of course, members of student councils and union bodies were lured in with privileges.
+
+Persecuting the creative and rewarding the failed, because the creative person is unwilling to be a hypocrite or a charlatan, while the failed person wishes to be exactly that, fully aware that his continued presence at the university depends on his capacity for hypocrisy, not on his academic or administrative abilities. And as is the case in most Arab institutions, the failed person gains a privileged standing, while the creative person suffers persecution, pursuit, defamation, and vilification.
+
+The Revolution of the Universities
+
+Just as the Arab peoples are rising against tyranny, universities too must be revolutionized in order to occupy their rightful place and standing in the intellectual, educational, and cultural leadership of society. The primary responsibility for defending scholarship, scholars, and places of learning falls first on the people of scholarship themselves, and their scholarly responsibility ought to compel them to stand against policies of enforced ignorance, rote indoctrination, and the suppression of thought, and to restore to universities their proper standing, so that they become factories producing researchers, scholars, and thinkers.
+
+There are many facets that a "spring of Arab universities" might address; here I point to a few important points:
+
+Focusing on removing security apparatuses from universities, and establishing a protective fence, built by academics themselves, around those teachers and students summoned by the security services for interrogation, or whose lives are obstructed because of their scholarly and educational activities and their social and political positions. The fear that grips teachers and students because of the security services and politicians must be eliminated if scholarly interaction is to reach its full potential, and this can only happen through collective, firm positions taken by the teaching staff and student councils.
+
+Establishing university administrations on professional foundations decided by senior university professors (those holding the rank of full professor), with administrators, including the university president, appointed accordingly. The university president must not be appointed on political grounds, but according to professional, scholarly, and administrative criteria decided by a competent university council made up of those who hold high academic rank. This is so that the university is run professionally, not according to security considerations.
+
+Freeing student councils and unions from the dominance of university administrations — something that will follow naturally once university administrations become professional.
+
+Academic promotion must proceed only according to scholarly achievement, not according to unprofessional administrative and political whims. There are many failed academics across the Arab world who obtained academic promotions through decisions of boards of trustees or university presidents, or through stolen research, and who now lead universities. What is needed is the establishment of clear standards of reward and punishment: whoever works is rewarded, and whoever fails to produce scholarly work is held accountable.
+
+Egypt's President and the Universities
+
+It is a fine thing that the Egyptian president delivered his first speech from Cairo University, the most venerable of the modern Arab universities, and it is a fine thing that he gave scientific research a share of his focus. Egypt's president has the resources and the means to elevate Egypt's universities, and Arab universities in general, if he pays full attention to the importance of scholarship in the making of nations, particularly the humanities. The fallen regimes focused on killing off education in the faculties of education, political science, sociology, media, sharia, economics, and philosophy, in order to guarantee intellectual dullness, and the Egyptian president is in a position to restore to these faculties their respect and their prestige, so that they may produce the new human being capable of driving development across the various fields of life.
+
+But the president alone cannot work miracles; he needs the efforts of academics and students so that the roles complement one another. And if there is no president pushing in the direction of change, then academics releasing themselves from their own roles means stripping away the very responsibility that gives meaning to the degrees they hold.
+
+---
+
+**Source:** Translated from the original Arabic, ["ربيع الجامعات العربية"]({{< ref "/articles/the-spring-of-arab-universities" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B1%D8%A8%D9%8A%D8%B9%20%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.doc).
