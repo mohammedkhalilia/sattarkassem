@@ -34,4 +34,4 @@ And so we shall remain behind the nations.
 
 ---
 
-**Source:** Translated from the original Arabic, ["من مآسي المؤتمرات العلمية العربية"]({{< ref "/articles/tragedies-of-arab-academic-conferences" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D9%86%20%D9%85%D8%A2%D8%B3%D9%8A%20%D8%A7%D9%84%D9%85%D8%A4%D8%AA%D9%85%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["من مآسي المؤتمرات العلمية العربية"]({{< ref path="/articles/tragedies-of-arab-academic-conferences" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

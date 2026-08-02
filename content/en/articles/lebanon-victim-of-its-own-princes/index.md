@@ -26,4 +26,4 @@ Lebanon's leaders could have simply agreed on hiring an "elections contractor" t
 
 ---
 
-**Source:** Translated from the original Arabic, ["دولة لبنان ضحية أمرائها"]({{< ref "/articles/lebanon-victim-of-its-own-princes" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AF%D9%88%D9%84%D8%A9%20%D9%84%D8%A8%D9%86%D8%A7%D9%86%20%D8%B6%D8%AD%D9%8A%D8%A9%20%D8%A3%D9%85%D8%B1%D8%A7%D8%A6%D9%87%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["دولة لبنان ضحية أمرائها"]({{< ref path="/articles/lebanon-victim-of-its-own-princes" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

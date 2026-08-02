@@ -30,4 +30,4 @@ Disappointment has come to all who thought well of Israel and America — so do 
 
 ---
 
-**Source:** Translated from the original Arabic, ["إلى سلطة الضفة بلسان فصيح"]({{< ref "/articles/to-the-west-bank-authority-plainly" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D9%84%D9%89%20%D8%B3%D9%84%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B6%D9%81%D8%A9%20%D8%A8%D9%84%D8%B3%D8%A7%D9%86%20%D9%81%D8%B5%D9%8A%D8%AD.doc).
+**Source:** Translated from the original Arabic, ["إلى سلطة الضفة بلسان فصيح"]({{< ref path="/articles/to-the-west-bank-authority-plainly" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

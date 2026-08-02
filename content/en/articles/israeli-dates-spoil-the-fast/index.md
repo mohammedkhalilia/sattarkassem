@@ -32,4 +32,4 @@ And I repeat: eating Israeli dates spoils the fast.
 
 ---
 
-**Source:** Translated from the original Arabic, ["التمر الإسرائيلي يفسد الصوم"]({{< ref "/articles/israeli-dates-spoil-the-fast" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AA%D9%85%D8%B1%20%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%20%D9%8A%D9%81%D8%B3%D8%AF%20%D8%A7%D9%84%D8%B5%D9%88%D9%85.doc).
+**Source:** Translated from the original Arabic, ["التمر الإسرائيلي يفسد الصوم"]({{< ref path="/articles/israeli-dates-spoil-the-fast" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

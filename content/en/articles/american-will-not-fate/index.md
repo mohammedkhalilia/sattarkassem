@@ -38,4 +38,4 @@ The poor state of Arab affairs, at both the official and partisan levels, is pla
 
 ---
 
-**Source:** Translated from the original Arabic article, ["الإرادة الأمريكية ليست قدرا"]({{< ref "/articles/american-will-not-fate" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%A5%D8%B1%D8%A7%D8%AF%D8%A9_%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9_%D9%84%D9%8A%D8%B3%D8%AA_%D9%82%D8%AF%D8%B1%D8%A7.doc).
+**Source:** Translated from the original Arabic article, ["الإرادة الأمريكية ليست قدرا"]({{< ref path="/articles/american-will-not-fate" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

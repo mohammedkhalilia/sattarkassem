@@ -36,4 +36,4 @@ The Palestinian people must move to open the schools. We had a pioneering experi
 
 ---
 
-**Source:** Translated from the original Arabic, ["تعطيل المدارس تدمير لفلسطين"]({{< ref "/articles/shutting-down-schools-destroys-palestine" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D8%B9%D8%B7%D9%8A%D9%84%20%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3%20%D8%AA%D8%AF%D9%85%D9%8A%D8%B1%20%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["تعطيل المدارس تدمير لفلسطين"]({{< ref path="/articles/shutting-down-schools-destroys-palestine" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

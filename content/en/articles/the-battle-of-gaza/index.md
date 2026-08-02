@@ -76,4 +76,4 @@ The steadfastness of Palestinian resistance is victory in itself, and if it is a
 
 ---
 
-**Source:** Translated from the original Arabic, ["معركة غزة"]({{< ref "/articles/the-battle-of-gaza" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%B9%D8%B1%D9%83%D8%A9%20%D8%BA%D8%B2%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["معركة غزة"]({{< ref path="/articles/the-battle-of-gaza" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

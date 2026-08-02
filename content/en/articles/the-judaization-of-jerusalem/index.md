@@ -70,4 +70,4 @@ With this collapsing spirit, and the inability of Arabs and Palestinians to conf
 
 ---
 
-**Source:** Translated from the original Arabic, ["تهويد القدس"]({{< ref "/articles/the-judaization-of-jerusalem" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D9%87%D9%88%D9%8A%D8%AF%20%D8%A7%D9%84%D9%82%D8%AF%D8%B3.doc).
+**Source:** Translated from the original Arabic, ["تهويد القدس"]({{< ref path="/articles/the-judaization-of-jerusalem" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

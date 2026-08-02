@@ -26,4 +26,4 @@ Finally, let me offer a piece of political advice: leave the mistake to others.
 
 ---
 
-**Source:** Translated from the original Arabic, ["اتركوا الفتحاويين يشاركون"]({{< ref "/articles/let-fatah-members-participate" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D8%AA%D8%B1%D9%83%D9%88%D8%A7%20%D8%A7%D9%84%D9%81%D8%AA%D8%AD%D8%A7%D9%88%D9%8A%D9%8A%D9%86%20%D9%8A%D8%B4%D8%A7%D8%B1%D9%83%D9%88%D9%86.doc).
+**Source:** Translated from the original Arabic, ["اتركوا الفتحاويين يشاركون"]({{< ref path="/articles/let-fatah-members-participate" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

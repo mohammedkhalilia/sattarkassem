@@ -40,4 +40,4 @@ Do we want Palestine? The matter is simple: only iron blunts iron; no people who
 
 ---
 
-**Source:** Translated from the original Arabic, ["تقسيم فلسطين والتضامن معها"]({{< ref "/articles/partition-of-palestine-and-solidarity" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D9%82%D8%B3%D9%8A%D9%85%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D9%88%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86%20%D9%85%D8%B9%D9%87%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["تقسيم فلسطين والتضامن معها"]({{< ref path="/articles/partition-of-palestine-and-solidarity" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

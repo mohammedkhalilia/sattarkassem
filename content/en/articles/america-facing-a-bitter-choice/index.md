@@ -68,4 +68,4 @@ The American president has an important way out before him, and that is Congress
 
 ---
 
-**Source:** Translated from the original Arabic, ["أمريكا أمام خيار مرّ"]({{< ref "/articles/america-facing-a-bitter-choice" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7%20%D8%A3%D9%85%D8%A7%D9%85%20%D8%AE%D9%8A%D8%A7%D8%B1%20%D9%85%D8%B1%D9%91.doc).
+**Source:** Translated from the original Arabic, ["أمريكا أمام خيار مرّ"]({{< ref path="/articles/america-facing-a-bitter-choice" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

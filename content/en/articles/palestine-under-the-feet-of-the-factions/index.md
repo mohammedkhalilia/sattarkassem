@@ -30,4 +30,4 @@ Good intentions are not enough to restore the health of the homeland and its cit
 
 ---
 
-**Source:** Translated from the original Arabic, ["فلسطين تحت أقدام الفصائل"]({{< ref "/articles/palestine-under-the-feet-of-the-factions" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D8%AA%D8%AD%D8%AA%20%D8%A3%D9%82%D8%AF%D8%A7%D9%85%20%D8%A7%D9%84%D9%81%D8%B5%D8%A7%D8%A6%D9%84.doc).
+**Source:** Translated from the original Arabic, ["فلسطين تحت أقدام الفصائل"]({{< ref path="/articles/palestine-under-the-feet-of-the-factions" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

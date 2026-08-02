@@ -54,4 +54,4 @@ sattarkassem@hotmail.com
 
 ---
 
-**Source:** Translated from the original Arabic, ["الحرب ضد العرب والمسلمين"]({{< ref "/articles/the-war-against-arabs-and-muslims" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D8%B6%D8%AF%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%20%D9%88%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["الحرب ضد العرب والمسلمين"]({{< ref path="/articles/the-war-against-arabs-and-muslims" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

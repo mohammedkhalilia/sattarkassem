@@ -144,4 +144,4 @@ The triumvirate mentioned above is the one that decides how the budget is arrang
 
 ---
 
-**Source:** Translated from the original Arabic, ["فياض: سيد أم أداة"]({{< ref "/articles/fayyad-master-or-tool" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%81%D9%8A%D8%A7%D8%B6%20%D8%B3%D9%8A%D8%AF%20%D8%A3%D9%85%20%D8%A3%D8%AF%D8%A7%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["فياض: سيد أم أداة"]({{< ref path="/articles/fayyad-master-or-tool" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

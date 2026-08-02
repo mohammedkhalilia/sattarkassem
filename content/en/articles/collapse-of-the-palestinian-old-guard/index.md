@@ -28,4 +28,4 @@ We must stand with boldness and courage to confront these corrupt figures who sp
 
 ---
 
-**Source:** Translated from the original Arabic, ["انهيار نظام الأبوات الفلسطيني"]({{< ref "/articles/collapse-of-the-palestinian-old-guard" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1%20%D9%86%D8%B8%D8%A7%D9%85%20%D8%A7%D9%84%D8%A3%D8%A8%D9%88%D8%A7%D8%AA%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["انهيار نظام الأبوات الفلسطيني"]({{< ref path="/articles/collapse-of-the-palestinian-old-guard" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

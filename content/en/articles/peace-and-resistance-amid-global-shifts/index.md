@@ -160,4 +160,4 @@ BBC News, "US Israel Support Unshakable," 17:05, 3 March 2009. news.bbc.co.uk/2/
 
 ---
 
-**Source:** Translated from the original Arabic, ["السلام والمقاومة في ضوء المتغيرات الدولية الآنية"]({{< ref "/articles/peace-and-resistance-amid-global-shifts" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D9%88%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9%20%D9%81%D9%8A%20%D8%B6%D9%88%D8%A1%20%D8%A7%D9%84%D9%85%D8%AA%D8%BA%D9%8A%D8%B1%D8%A7%D8%AA.doc).
+**Source:** Translated from the original Arabic, ["السلام والمقاومة في ضوء المتغيرات الدولية الآنية"]({{< ref path="/articles/peace-and-resistance-amid-global-shifts" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

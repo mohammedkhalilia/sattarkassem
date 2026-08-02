@@ -26,4 +26,4 @@ For this reason the investigation will be a formality; it will remain shrouded i
 
 ---
 
-**Source:** Translated from the original Arabic, ["دحلان لن يصيبه أذى"]({{< ref "/articles/dahlan-will-not-be-harmed" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AF%D8%AD%D9%84%D8%A7%D9%86%20%D9%84%D9%86%20%D9%8A%D8%B5%D9%8A%D8%A8%D9%87%20%D8%A3%D8%B0%D9%89.doc).
+**Source:** Translated from the original Arabic, ["دحلان لن يصيبه أذى"]({{< ref path="/articles/dahlan-will-not-be-harmed" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

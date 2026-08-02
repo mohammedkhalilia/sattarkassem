@@ -70,4 +70,4 @@ In the face of this strife, all Muslims — Sunni and Shia alike — across the 
 
 ---
 
-**Source:** Translated from the original Arabic, ["حزب الله والدفاع عن النفس"]({{< ref "/articles/hezbollah-and-self-defense" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87%20%D9%88%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%20%D8%B9%D9%86%20%D8%A7%D9%84%D9%86%D9%81%D8%B3.doc).
+**Source:** Translated from the original Arabic, ["حزب الله والدفاع عن النفس"]({{< ref path="/articles/hezbollah-and-self-defense" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

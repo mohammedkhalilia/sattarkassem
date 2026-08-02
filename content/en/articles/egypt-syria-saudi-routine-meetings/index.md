@@ -34,4 +34,4 @@ In short, all the experience so far indicates that the Arab regimes are too feeb
 
 ---
 
-**Source:** Translated from the original Arabic, ["مصر وسوريا والسعودية: اجتماعات نمطية"]({{< ref "/articles/egypt-syria-saudi-routine-meetings" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%B5%D8%B1%20%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%20%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%20%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7%D8%AA%20%D9%86%D9%85%D8%B7%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["مصر وسوريا والسعودية: اجتماعات نمطية"]({{< ref path="/articles/egypt-syria-saudi-routine-meetings" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -161,7 +161,3 @@ HYPERLINK "http://www.bignewsnetwork.com/forum/showthread.php?t=241" www.bignews
 Iran Israel relations, Wikipedia, en.wikipedia.org/wiki/Iran-Israel_relations
 
 Defense Industry of Iran, Wikipedia, en.wikipedia.org/wiki/Iranian_military_industr
-
----
-
-**النص الأصلي:** هذا المقال محوّل عن الوثيقة الأصلية بصيغة Word. [تحميل الملف الأصلي](/originals/articles/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D9%88%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9%20%D9%81%D9%8A%20%D8%B6%D9%88%D8%A1%20%D8%A7%D9%84%D9%85%D8%AA%D8%BA%D9%8A%D8%B1%D8%A7%D8%AA.doc)

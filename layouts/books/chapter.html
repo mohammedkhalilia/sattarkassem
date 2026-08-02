@@ -13,9 +13,6 @@
   <article class="single-page chapter-page">
     <p class="chapter-book-link"><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></p>
     <h1>{{ .Title }}</h1>
-    {{ with .Params.original_file }}
-      <p><a href="{{ . | relURL }}">{{ T "download_pdf" }}</a></p>
-    {{ end }}
     <div class="content-body">{{ .Content }}</div>
     {{ $siblings := .Parent.Pages.ByWeight }}
     {{ $current := $.RelPermalink }}

@@ -28,4 +28,4 @@ The masses of the nation came out driven by their genuine national zeal, leaving
 
 ---
 
-**Source:** Translated from the original Arabic, ["ثورة اللاجئين الفلسطينيين"]({{< ref "/articles/the-revolution-of-palestinian-refugees" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AB%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["ثورة اللاجئين الفلسطينيين"]({{< ref path="/articles/the-revolution-of-palestinian-refugees" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

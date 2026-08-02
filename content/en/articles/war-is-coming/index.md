@@ -86,4 +86,4 @@ Striking Syria and Hezbollah first serves as a trial balloon to gauge some of th
 
 ---
 
-**Source:** Translated from the original Arabic, ["الحرب آتية"]({{< ref "/articles/war-is-coming" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D8%A2%D8%AA%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["الحرب آتية"]({{< ref path="/articles/war-is-coming" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

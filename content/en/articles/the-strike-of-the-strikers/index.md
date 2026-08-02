@@ -42,4 +42,4 @@ We need arms that build, mattocks that dig, and saplings that are planted, so th
 
 ---
 
-**Source:** Translated from the original Arabic, ["إضراب المضربين"]({{< ref "/articles/the-strike-of-the-strikers" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D8%B6%D8%B1%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D8%B6%D8%B1%D8%A8%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["إضراب المضربين"]({{< ref path="/articles/the-strike-of-the-strikers" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

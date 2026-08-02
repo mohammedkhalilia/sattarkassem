@@ -30,4 +30,4 @@ The march of progress requires, first and foremost, moral advancement — meanin
 
 ---
 
-**Source:** Translated from the original Arabic, ["الأرضية الأخلاقية للتقدم"]({{< ref "/articles/the-moral-foundation-for-progress" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%A3%D8%B1%D8%B6%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A9%20%D9%84%D9%84%D8%AA%D9%82%D8%AF%D9%85.doc).
+**Source:** Translated from the original Arabic, ["الأرضية الأخلاقية للتقدم"]({{< ref path="/articles/the-moral-foundation-for-progress" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

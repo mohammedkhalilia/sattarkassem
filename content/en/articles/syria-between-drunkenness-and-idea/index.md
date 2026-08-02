@@ -40,4 +40,4 @@ Every warring party in Syria has succeeded in internationalizing the conflict an
 
 ---
 
-**Source:** Translated from the original Arabic, ["سوريا بين السكرة والفكرة"]({{< ref "/articles/syria-between-drunkenness-and-idea" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%20%D8%A8%D9%8A%D9%86%20%D8%A7%D9%84%D8%B3%D9%83%D8%B1%D8%A9%20%D9%88%D8%A7%D9%84%D9%81%D9%83%D8%B1%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["سوريا بين السكرة والفكرة"]({{< ref path="/articles/syria-between-drunkenness-and-idea" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

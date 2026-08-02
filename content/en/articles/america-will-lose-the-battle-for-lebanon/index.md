@@ -32,4 +32,4 @@ The most important matter remains in Syria's hands: will Syria hold firm against
 
 ---
 
-**Source:** Translated from the original Arabic, ["أمريكا ستخسر معركة لبنان"]({{< ref "/articles/america-will-lose-the-battle-for-lebanon" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7%20%D8%B3%D8%AA%D8%AE%D8%B3%D8%B1%20%D9%85%D8%B9%D8%B1%D9%83%D8%A9%20%D9%84%D8%A8%D9%86%D8%A7%D9%86.doc).
+**Source:** Translated from the original Arabic, ["أمريكا ستخسر معركة لبنان"]({{< ref path="/articles/america-will-lose-the-battle-for-lebanon" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

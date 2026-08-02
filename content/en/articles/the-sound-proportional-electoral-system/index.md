@@ -54,4 +54,4 @@ If we are seeking even more precise representation, we can adopt a runoff system
 
 ---
 
-**Source:** Translated from the original Arabic, ["النظام الانتخابي النسبي السليم"]({{< ref "/articles/the-sound-proportional-electoral-system" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D9%8A%20%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85.doc).
+**Source:** Translated from the original Arabic, ["النظام الانتخابي النسبي السليم"]({{< ref path="/articles/the-sound-proportional-electoral-system" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -40,4 +40,4 @@ On the anniversary of the shameful June defeat, we must renew the covenant, and 
 
 ---
 
-**Source:** Translated from the original Arabic, ["لا شرعية إلا شرعية الصاروخ"]({{< ref "/articles/no-legitimacy-but-the-rocket" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D8%A7%20%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9%20%D8%A5%D9%84%D8%A7%20%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B5%D8%A7%D8%B1%D9%88%D8%AE.docx).
+**Source:** Translated from the original Arabic, ["لا شرعية إلا شرعية الصاروخ"]({{< ref path="/articles/no-legitimacy-but-the-rocket" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

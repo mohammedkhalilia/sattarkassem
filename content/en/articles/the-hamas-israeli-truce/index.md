@@ -70,4 +70,4 @@ The truce fits within each side's own vision of the pulls and clashes underway a
 
 ---
 
-**Source:** Translated from the original Arabic, ["التهدئة الحمساوية-الإسرائيلية"]({{< ref "/articles/the-hamas-israeli-truce" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D8%A6%D8%A9%20%D8%A7%D9%84%D8%AD%D9%85%D8%B3%D8%A7%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["التهدئة الحمساوية-الإسرائيلية"]({{< ref path="/articles/the-hamas-israeli-truce" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

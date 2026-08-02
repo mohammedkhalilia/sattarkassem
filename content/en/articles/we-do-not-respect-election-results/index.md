@@ -40,4 +40,4 @@ This, while I am well aware of the degree of deviation Western democracy itself 
 
 ---
 
-**Source:** Translated from the original Arabic, ["نحن لا نحترم نتائج الانتخابات"]({{< ref "/articles/we-do-not-respect-election-results" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%86%D8%AD%D9%86%20%D9%84%D8%A7%20%D9%86%D8%AD%D8%AA%D8%B1%D9%85%20%D9%86%D8%AA%D8%A7%D8%A6%D8%AC%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA.doc).
+**Source:** Translated from the original Arabic, ["نحن لا نحترم نتائج الانتخابات"]({{< ref path="/articles/we-do-not-respect-election-results" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

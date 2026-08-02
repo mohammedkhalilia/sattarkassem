@@ -70,4 +70,4 @@ Abdul-Sattar Kassem, Prof.
 
 ---
 
-**Source:** Translated from the original Arabic, ["لدى معزة وكيل نيابة نابلس المحترم"]({{< ref "/articles/to-the-nablus-deputy-prosecutor" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D8%AF%D9%89%20%D9%85%D8%B9%D8%B2%D8%A9%20%D9%88%D9%83%D9%8A%D9%84%20%D9%86%D9%8A%D8%A7%D8%A8%D8%A9%20%D9%86%D8%A7%D8%A8%D9%84%D8%B3%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%B1%D9%85.doc).
+**Source:** Translated from the original Arabic, ["لدى معزة وكيل نيابة نابلس المحترم"]({{< ref path="/articles/to-the-nablus-deputy-prosecutor" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

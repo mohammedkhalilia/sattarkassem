@@ -474,6 +474,12 @@ hr {
   transition: box-shadow 0.15s ease;
 }
 
+.album-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
 .book-card a:hover img, .album-card a:hover img {
   box-shadow: var(--shadow-card-hover);
 }
@@ -733,6 +739,11 @@ body.lightbox-open {
   font-size: 2rem;
 }
 
+.lightbox-nav svg {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
 .lightbox-prev {
   left: 1rem;
 }
@@ -793,6 +804,13 @@ body.lightbox-open {
   margin-block-start: 2rem;
   padding-block-start: 1rem;
   border-block-start: 1px solid var(--color-border);
+}
+
+.ai-translation-notice {
+  margin-block-start: 1rem;
+  font-size: 0.875rem;
+  font-style: italic;
+  color: var(--color-muted);
 }
 
 /* Footer */

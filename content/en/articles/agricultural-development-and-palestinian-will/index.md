@@ -86,4 +86,4 @@ Dehghan, Ahmad, "Agriculture and Food Security in Iran," Agricultural Planning a
 
 ---
 
-**Source:** Translated from the original Arabic, ["التطوير الزراعي وتحرير الإرادة الفلسطينية"]({{< ref "/articles/agricultural-development-and-palestinian-will" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%20%D9%88%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A5%D8%B1%D8%A7%D8%AF%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["التطوير الزراعي وتحرير الإرادة الفلسطينية"]({{< ref path="/articles/agricultural-development-and-palestinian-will" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

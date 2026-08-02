@@ -30,4 +30,4 @@ As for the right to visit, there are those who take trips to occupied Palestine 
 
 ---
 
-**Source:** Translated from the original Arabic, ["حق الرؤية بدل حق العودة"]({{< ref "/articles/right-to-visit-instead-of-return" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D9%82%20%D8%A7%D9%84%D8%B1%D8%A4%D9%8A%D8%A9%20%D8%A8%D8%AF%D9%84%20%D8%AD%D9%82%20%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["حق الرؤية بدل حق العودة"]({{< ref path="/articles/right-to-visit-instead-of-return" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

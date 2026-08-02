@@ -26,4 +26,4 @@ No thanks are owed to Bassil, because what is required of us is to follow his ex
 
 ---
 
-**Source:** Translated from the original Arabic, ["جبران باسيل يطرد سفير إسرائيل"]({{< ref "/articles/gebran-bassil-expels-israels-ambassador" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AC%D8%A8%D8%B1%D8%A7%D9%86%20%D8%A8%D8%A7%D8%B3%D9%8A%D9%84%20%D9%8A%D8%B7%D8%B1%D8%AF%20%D8%B3%D9%81%D9%8A%D8%B1%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84.doc).
+**Source:** Translated from the original Arabic, ["جبران باسيل يطرد سفير إسرائيل"]({{< ref path="/articles/gebran-bassil-expels-israels-ambassador" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

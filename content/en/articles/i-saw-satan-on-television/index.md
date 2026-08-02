@@ -34,4 +34,4 @@ Perhaps it is necessary for a person to know how these men distort the Islamic r
 
 ---
 
-**Source:** Translated from the original Arabic, ["رأيت إبليس"]({{< ref "/articles/i-saw-satan-on-television" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B1%D8%A3%D9%8A%D8%AA%20%D8%A5%D8%A8%D9%84%D9%8A%D8%B3.doc).
+**Source:** Translated from the original Arabic, ["رأيت إبليس"]({{< ref path="/articles/i-saw-satan-on-television" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

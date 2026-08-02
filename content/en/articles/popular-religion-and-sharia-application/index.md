@@ -66,4 +66,4 @@ In practical terms, most Islamic movements are off-putting, and they drive peopl
 
 ---
 
-**Source:** Translated from the original Arabic, ["الدين الشعبي وتطبيق الشريعة"]({{< ref "/articles/popular-religion-and-sharia-application" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A%20%D9%88%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%B9%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["الدين الشعبي وتطبيق الشريعة"]({{< ref path="/articles/popular-religion-and-sharia-application" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

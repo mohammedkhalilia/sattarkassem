@@ -22,4 +22,4 @@ The Palestinian arena needs to put its leadership institution in order, because 
 
 ---
 
-**Source:** Translated from the original Arabic, ["الإبعاد والتلاعب بالرأي العام"]({{< ref "/articles/deportation-and-manipulating-public-opinion" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%A5%D8%A8%D8%B9%D8%A7%D8%AF%20%D9%88%D8%A7%D9%84%D8%AA%D9%84%D8%A7%D8%B9%D8%A8%20%D8%A8%D8%A7%D9%84%D8%B1%D8%A3%D9%8A%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85.doc).
+**Source:** Translated from the original Arabic, ["الإبعاد والتلاعب بالرأي العام"]({{< ref path="/articles/deportation-and-manipulating-public-opinion" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

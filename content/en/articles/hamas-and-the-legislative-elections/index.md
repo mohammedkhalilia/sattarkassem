@@ -36,4 +36,4 @@ The conclusion is that whoever wants to contest the Palestinian legislative elec
 
 ---
 
-**Source:** Translated from the original Arabic, ["حماس وانتخابات التشريعي"]({{< ref "/articles/hamas-and-the-legislative-elections" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D9%85%D8%A7%D8%B3%20%D9%88%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["حماس وانتخابات التشريعي"]({{< ref path="/articles/hamas-and-the-legislative-elections" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

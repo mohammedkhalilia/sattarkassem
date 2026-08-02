@@ -26,4 +26,4 @@ I believe it is necessary to pay attention to this term, and not to let it slip 
 
 ---
 
-**Source:** Translated from the original Arabic, ["مصطلح الأراضي الفلسطينية اللئيم"]({{< ref "/articles/the-malicious-term-palestinian-territories" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%B5%D8%B7%D9%84%D8%AD%20%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9%20%D8%A7%D9%84%D9%84%D8%A6%D9%8A%D9%85.doc).
+**Source:** Translated from the original Arabic, ["مصطلح الأراضي الفلسطينية اللئيم"]({{< ref path="/articles/the-malicious-term-palestinian-territories" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

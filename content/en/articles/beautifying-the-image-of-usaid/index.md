@@ -72,4 +72,4 @@ To read the articles, research, and books of Dr. Abdul-Sattar Kassem on the webs
 
 ---
 
-**Source:** Translated from the original Arabic, ["تجميل صورة ال US AID"]({{< ref "/articles/beautifying-the-image-of-usaid" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D8%AC%D9%85%D9%8A%D9%84%20%D8%B5%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%20US%20AID.doc).
+**Source:** Translated from the original Arabic, ["تجميل صورة ال US AID"]({{< ref path="/articles/beautifying-the-image-of-usaid" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

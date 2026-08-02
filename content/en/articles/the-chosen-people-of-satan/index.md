@@ -34,4 +34,4 @@ Herein lies a lesson for the Palestinians and the Arabs who imagine that peace i
 
 ---
 
-**Source:** Translated from the original Arabic, ["شعب الشيطان المختار"]({{< ref "/articles/the-chosen-people-of-satan" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B4%D8%B9%D8%A8%20%D8%A7%D9%84%D8%B4%D9%8A%D8%B7%D8%A7%D9%86%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1.doc).
+**Source:** Translated from the original Arabic, ["شعب الشيطان المختار"]({{< ref path="/articles/the-chosen-people-of-satan" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

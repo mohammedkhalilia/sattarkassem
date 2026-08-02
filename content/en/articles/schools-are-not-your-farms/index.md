@@ -26,4 +26,4 @@ Do you want to show broad popular support for Mr. Abu Mazen? Your methods only m
 
 ---
 
-**Source:** Translated from the original Arabic, ["المدارس ليست مزارعكم"]({{< ref "/articles/schools-are-not-your-farms" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3%20%D9%84%D9%8A%D8%B3%D8%AA%20%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%83%D9%85.doc).
+**Source:** Translated from the original Arabic, ["المدارس ليست مزارعكم"]({{< ref path="/articles/schools-are-not-your-farms" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

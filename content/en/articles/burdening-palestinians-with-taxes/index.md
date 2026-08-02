@@ -60,4 +60,4 @@ The path of reform is clear, and whoever chooses to walk it will find the people
 
 ---
 
-**Source:** Translated from the original Arabic, ["إثقال الفلسطيني بالضرائب"]({{< ref "/articles/burdening-palestinians-with-taxes" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D8%AB%D9%82%D8%A7%D9%84%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%20%D8%A8%D8%A7%D9%84%D8%B6%D8%B1%D8%A7%D8%A6%D8%A8.doc).
+**Source:** Translated from the original Arabic, ["إثقال الفلسطيني بالضرائب"]({{< ref path="/articles/burdening-palestinians-with-taxes" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

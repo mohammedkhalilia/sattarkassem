@@ -54,4 +54,4 @@ An-Najah National University
 
 ---
 
-**Source:** Translated from the original Arabic, ["الدكتور وزير المالية المحترم"]({{< ref "/articles/dear-mr-finance-minister" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1%20%D9%88%D8%B2%D9%8A%D8%B1%20%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%B1%D9%85.doc).
+**Source:** Translated from the original Arabic, ["الدكتور وزير المالية المحترم"]({{< ref path="/articles/dear-mr-finance-minister" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -44,4 +44,4 @@ There are major questions surrounding Hariri's assassination and its intended ai
 
 ---
 
-**Source:** Translated from the original Arabic, ["المحكمة الدولية الخاصة باغتيال الحريري"]({{< ref "/articles/the-hariri-assassination-tribunal" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9%20%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9%20%D8%A8%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["المحكمة الدولية الخاصة باغتيال الحريري"]({{< ref path="/articles/the-hariri-assassination-tribunal" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

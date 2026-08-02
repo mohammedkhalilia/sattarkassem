@@ -40,4 +40,4 @@ We must not imagine that the Israeli army is an easy morsel, simple to swallow. 
 
 ---
 
-**Source:** Translated from the original Arabic, ["حزب الله موجود في الجليل"]({{< ref "/articles/hezbollah-is-present-in-the-galilee" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87%20%D9%85%D9%88%D8%AC%D9%88%D8%AF%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D9%84.doc).
+**Source:** Translated from the original Arabic, ["حزب الله موجود في الجليل"]({{< ref path="/articles/hezbollah-is-present-in-the-galilee" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

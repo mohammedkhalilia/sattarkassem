@@ -78,4 +78,4 @@ Eighth: focusing on cultural transformation, in a manner consistent with the req
 
 ---
 
-**Source:** Translated from the original Arabic, ["الخروج من المأزق الفلسطيني"]({{< ref "/articles/escaping-the-palestinian-impasse" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D8%AC%20%D9%85%D9%86%20%D8%A7%D9%84%D9%85%D8%A3%D8%B2%D9%82%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["الخروج من المأزق الفلسطيني"]({{< ref path="/articles/escaping-the-palestinian-impasse" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -40,4 +40,4 @@ Tunisian, Egyptian, Yemeni, Libyan, Syrian, and Lebanese youth are raising the b
 
 ---
 
-**Source:** Translated from the original Arabic, ["ثورة شباب فلسطين: زحف قادم"]({{< ref "/articles/palestines-youth-revolution-a-coming-march" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AB%D9%88%D8%B1%D8%A9%20%D8%B4%D8%A8%D8%A7%D8%A8%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D8%B2%D8%AD%D9%81%20%D9%82%D8%A7%D8%AF%D9%85.doc).
+**Source:** Translated from the original Arabic, ["ثورة شباب فلسطين: زحف قادم"]({{< ref path="/articles/palestines-youth-revolution-a-coming-march" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

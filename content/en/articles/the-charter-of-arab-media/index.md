@@ -68,4 +68,4 @@ In this world, whose space has been compressed by means of communication and the
 
 ---
 
-**Source:** Translated from the original Arabic, ["وثيقة الإعلام العربية"]({{< ref "/articles/the-charter-of-arab-media" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%88%D8%AB%D9%8A%D9%82%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["وثيقة الإعلام العربية"]({{< ref path="/articles/the-charter-of-arab-media" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

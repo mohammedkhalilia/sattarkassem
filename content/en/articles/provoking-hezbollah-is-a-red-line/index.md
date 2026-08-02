@@ -28,4 +28,4 @@ Perhaps Jumblatt ought to reconsider everything he is doing. If a civil war brok
 
 ---
 
-**Source:** Translated from the original Arabic, ["احمرار المسّ بحزب الله"]({{< ref "/articles/provoking-hezbollah-is-a-red-line" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D8%AD%D9%85%D8%B1%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%B3%D9%91%20%D8%A8%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87.doc).
+**Source:** Translated from the original Arabic, ["احمرار المسّ بحزب الله"]({{< ref path="/articles/provoking-hezbollah-is-a-red-line" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

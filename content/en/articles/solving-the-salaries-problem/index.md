@@ -30,4 +30,4 @@ If we adopt this solution, we will have carried out a legendary, heroic act that
 
 ---
 
-**Source:** Translated from the original Arabic, ["حل مشكلة الرواتب"]({{< ref "/articles/solving-the-salaries-problem" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D9%84%20%D9%85%D8%B4%D9%83%D9%84%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AA%D8%A8.doc).
+**Source:** Translated from the original Arabic, ["حل مشكلة الرواتب"]({{< ref path="/articles/solving-the-salaries-problem" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

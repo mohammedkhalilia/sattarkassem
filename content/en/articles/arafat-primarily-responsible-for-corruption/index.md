@@ -22,4 +22,4 @@ This corruption present in Palestine is deliberate and premeditated. There is no
 
 ---
 
-**Source:** Translated from the original Arabic, ["عرفات هو المسؤول الأول عن الفساد والفوضى"]({{< ref "/articles/arafat-primarily-responsible-for-corruption" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B9%D8%B1%D9%81%D8%A7%D8%AA%20%D9%87%D9%88%20%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%20%D8%B9%D9%86%20%D8%A7%D9%84%D9%81%D8%B3%D8%A7%D8%AF.doc).
+**Source:** Translated from the original Arabic, ["عرفات هو المسؤول الأول عن الفساد والفوضى"]({{< ref path="/articles/arafat-primarily-responsible-for-corruption" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -50,4 +50,4 @@ For this reason we must be very cautious, and we must not be deceived by Obama's
 
 ---
 
-**Source:** Translated from the original Arabic, ["لا ثقة بأمريكا"]({{< ref "/articles/no-trust-in-america" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D8%A7%20%D8%AB%D9%82%D8%A9%20%D8%A8%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["لا ثقة بأمريكا"]({{< ref path="/articles/no-trust-in-america" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -28,4 +28,4 @@ The Arab regimes are always angered by Al Jazeera, and no Arab media outlet has 
 
 ---
 
-**Source:** Translated from the original Arabic, ["نبش قبور القادة"]({{< ref "/articles/exhuming-the-graves-of-leaders" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%86%D8%A8%D8%B4%20%D9%82%D8%A8%D9%88%D8%B1%20%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["نبش قبور القادة"]({{< ref path="/articles/exhuming-the-graves-of-leaders" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

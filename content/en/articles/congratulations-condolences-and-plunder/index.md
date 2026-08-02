@@ -26,4 +26,4 @@ It could legally be permitted for the institution to which the deceased, or the 
 
 ---
 
-**Source:** Translated from the original Arabic, ["التهاني والتعازي ونهب أموال الشعب"]({{< ref "/articles/congratulations-condolences-and-plunder" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D9%86%D9%8A%20%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%B2%D9%8A%20%D9%88%D9%86%D9%87%D8%A8%20%D8%A3%D9%85%D9%88%D8%A7%D9%84%20%D8%A7%D9%84%D8%B4%D8%B9%D8%A8.doc).
+**Source:** Translated from the original Arabic, ["التهاني والتعازي ونهب أموال الشعب"]({{< ref path="/articles/congratulations-condolences-and-plunder" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

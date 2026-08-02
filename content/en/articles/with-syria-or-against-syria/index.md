@@ -42,4 +42,4 @@ No Islamic, nationalist, or patriotic force can be in the same alliance in which
 
 ---
 
-**Source:** Translated from the original Arabic, ["مع سوريا أو ضد سوريا"]({{< ref "/articles/with-syria-or-against-syria" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%B9%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%20%D8%A3%D9%88%20%D8%B6%D8%AF%20%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["مع سوريا أو ضد سوريا"]({{< ref path="/articles/with-syria-or-against-syria" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

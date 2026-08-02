@@ -34,4 +34,4 @@ Let us all remember that family is not sacred. Social bonds are certainly cheris
 
 ---
 
-**Source:** Translated from the original Arabic, ["وصاح المفسد: أريد إصلاحا"]({{< ref "/articles/the-corrupter-cries-i-want-reform" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%88%D8%B5%D8%A7%D8%AD%20%D8%A7%D9%84%D9%85%D9%81%D8%B3%D8%AF%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A5%D8%B5%D9%84%D8%A7%D8%AD%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["وصاح المفسد: أريد إصلاحا"]({{< ref path="/articles/the-corrupter-cries-i-want-reform" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

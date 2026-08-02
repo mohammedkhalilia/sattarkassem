@@ -66,4 +66,4 @@ On the whole, Arab resistance has developed in Gaza and southern Lebanon, and th
 
 ---
 
-**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/6/3/القضية-الفلسطينية-وحسابات-روسيا-تجاه) on 2018-06-03. Translated from the original Arabic, ["القضية الفلسطينية وحسابات روسيا تجاه إسرائيل"]({{< ref "/articles/palestinian-cause-russia-calculations" >}}). [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-%D9%88%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%AC%D8%A7%D9%87.docx).
+**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/6/3/القضية-الفلسطينية-وحسابات-روسيا-تجاه) on 2018-06-03. Translated from the original Arabic, ["القضية الفلسطينية وحسابات روسيا تجاه إسرائيل"]({{< ref path="/articles/palestinian-cause-russia-calculations" lang="ar" >}}).

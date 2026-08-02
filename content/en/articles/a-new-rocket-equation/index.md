@@ -24,4 +24,4 @@ What matters now is that Israel's Iron Dome missile system is achieving success 
 
 ---
 
-**Source:** Translated from the original Arabic, ["معادلة صاروخية جديدة"]({{< ref "/articles/a-new-rocket-equation" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9%20%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A%D8%A9%20%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["معادلة صاروخية جديدة"]({{< ref path="/articles/a-new-rocket-equation" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

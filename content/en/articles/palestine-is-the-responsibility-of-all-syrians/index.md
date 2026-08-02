@@ -52,4 +52,4 @@ All of Syria is being targeted. America and its agents want to bring Lesser Syri
 
 ---
 
-**Source:** Translated from the original Arabic, ["فلسطين مسؤولية كل السوريين"]({{< ref "/articles/palestine-is-the-responsibility-of-all-syrians" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9%20%D9%83%D9%84%20%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["فلسطين مسؤولية كل السوريين"]({{< ref path="/articles/palestine-is-the-responsibility-of-all-syrians" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

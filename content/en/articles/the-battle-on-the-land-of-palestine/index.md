@@ -40,4 +40,4 @@ The resistance is steadfast, and will remain so, God willing, and its steadfastn
 
 ---
 
-**Source:** Translated from the original Arabic, ["المعركة على أرض فلسطين"]({{< ref "/articles/the-battle-on-the-land-of-palestine" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%83%D8%A9%20%D8%B9%D9%84%D9%89%20%D8%A3%D8%B1%D8%B6%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["المعركة على أرض فلسطين"]({{< ref path="/articles/the-battle-on-the-land-of-palestine" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

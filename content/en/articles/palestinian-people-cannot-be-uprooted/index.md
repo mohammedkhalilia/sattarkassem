@@ -66,4 +66,4 @@ It is essential that the people not submit meekly to the force of history, logic
 
 ---
 
-**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/7/17/شعب-فلسطين-عصي-على-الاقتلاع) on 2018-07-17. Translated from the original Arabic, ["شعب فلسطين عصي على الاقتلاع"]({{< ref "/articles/palestinian-people-cannot-be-uprooted" >}}). [Download the original Word document](/originals/articles/%D8%B4%D8%B9%D8%A8-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%B9%D8%B5%D9%8A-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D9%84%D8%A7%D8%B9.docx).
+**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/7/17/شعب-فلسطين-عصي-على-الاقتلاع) on 2018-07-17. Translated from the original Arabic, ["شعب فلسطين عصي على الاقتلاع"]({{< ref path="/articles/palestinian-people-cannot-be-uprooted" lang="ar" >}}).

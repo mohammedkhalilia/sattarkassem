@@ -36,4 +36,4 @@ America finds in our backs a mount to ride, and we are obedient to it. If we wis
 
 ---
 
-**Source:** Translated from the original Arabic, ["محاكمة محمد بن عبد الله"]({{< ref "/articles/the-trial-of-the-prophet-muhammad" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%A9%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87.doc).
+**Source:** Translated from the original Arabic, ["محاكمة محمد بن عبد الله"]({{< ref path="/articles/the-trial-of-the-prophet-muhammad" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

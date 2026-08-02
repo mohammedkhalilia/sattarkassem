@@ -36,4 +36,4 @@ When we rely on ourselves and our capacities develop, the West will pay us money
 
 ---
 
-**Source:** Translated from the original Arabic, ["التخلص من الدعم الغربي"]({{< ref "/articles/getting-rid-of-western-support" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D8%B5%20%D9%85%D9%86%20%D8%A7%D9%84%D8%AF%D8%B9%D9%85%20%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["التخلص من الدعم الغربي"]({{< ref path="/articles/getting-rid-of-western-support" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

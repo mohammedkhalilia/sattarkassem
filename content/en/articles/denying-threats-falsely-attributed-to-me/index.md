@@ -110,4 +110,4 @@ HYPERLINK "http://www.maannews.net/arb/ViewDetails.aspx?ID=270084" Occupation fo
 
 ---
 
-**Source:** Translated from the original Arabic, ["نشر موقع فراس بريس بتاريخ 20/آذار/2010 على لساني تهديدا لأشخاص معينين سبق أن أقاموا علي قضايا."]({{< ref "/articles/denying-threats-falsely-attributed-to-me" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%86%D8%B4%D8%B1%20%D9%85%D9%88%D9%82%D8%B9%20%D9%81%D8%B1%D8%A7%D8%B3%20%D8%A8%D8%B1%D9%8A%D8%B3%20%D8%A8%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%2020%20%D8%A2%D8%B0%D8%A7%D8%B1%202010%20%D8%B9%D9%84%D9%89.doc).
+**Source:** Translated from the original Arabic, ["نشر موقع فراس بريس بتاريخ 20/آذار/2010 على لساني تهديدا لأشخاص معينين سبق أن أقاموا علي قضايا."]({{< ref path="/articles/denying-threats-falsely-attributed-to-me" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

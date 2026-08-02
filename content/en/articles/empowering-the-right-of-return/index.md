@@ -58,4 +58,4 @@ The commemoration of the sixty-third anniversary of the Nakba is nothing but a b
 
 ---
 
-**Source:** Translated from the original Arabic, ["تمكين حق العودة"]({{< ref "/articles/empowering-the-right-of-return" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D9%85%D9%83%D9%8A%D9%86%20%D8%AD%D9%82%20%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["تمكين حق العودة"]({{< ref path="/articles/empowering-the-right-of-return" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

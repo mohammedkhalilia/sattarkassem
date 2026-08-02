@@ -52,4 +52,4 @@ So wherever we see a European Union advertisement, let us remember that these ar
 
 ---
 
-**Source:** Translated from the original Arabic, ["أولويات الاتحاد الأوروبي ليست أولوياتنا"]({{< ref "/articles/eu-priorities-are-not-our-priorities" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%20%D9%84%D9%8A%D8%B3%D8%AA.doc).
+**Source:** Translated from the original Arabic, ["أولويات الاتحاد الأوروبي ليست أولوياتنا"]({{< ref path="/articles/eu-priorities-are-not-our-priorities" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

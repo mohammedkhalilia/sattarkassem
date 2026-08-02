@@ -44,4 +44,4 @@ The Qur'an unites us, and sects tear us apart.
 
 ---
 
-**Source:** Translated from the original Arabic, ["فتن التاريخ تقصم ظهر المسلمين"]({{< ref "/articles/strifes-of-history-break-muslims-backs" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%81%D8%AA%D9%86%20%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%AA%D9%82%D8%B5%D9%85%20%D8%B8%D9%87%D8%B1%20%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["فتن التاريخ تقصم ظهر المسلمين"]({{< ref path="/articles/strifes-of-history-break-muslims-backs" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

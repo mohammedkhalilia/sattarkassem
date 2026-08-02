@@ -68,4 +68,4 @@ The Palestinian people are the people most subjected to displacement, killing, d
 
 ---
 
-**Source:** Translated from the original Arabic, ["فلسطين بدولار"]({{< ref "/articles/palestine-for-a-dollar" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D8%A8%D8%AF%D9%88%D9%84%D8%A7%D8%B1.doc).
+**Source:** Translated from the original Arabic, ["فلسطين بدولار"]({{< ref path="/articles/palestine-for-a-dollar" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

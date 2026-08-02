@@ -32,4 +32,4 @@ This is certainly what Israel wants: to kill Palestinians without any response w
 
 ---
 
-**Source:** Translated from the original Arabic, ["الصمت مقابل القتل"]({{< ref "/articles/silence-in-exchange-for-killing" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B5%D9%85%D8%AA%20%D9%85%D9%82%D8%A7%D8%A8%D9%84%20%D8%A7%D9%84%D9%82%D8%AA%D9%84.doc).
+**Source:** Translated from the original Arabic, ["الصمت مقابل القتل"]({{< ref path="/articles/silence-in-exchange-for-killing" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -72,4 +72,4 @@ There are those who see in Islam a rampant evil and are ready to fight it, and t
 
 ---
 
-**Source:** Translated from the original Arabic, ["العرب قراطية"]({{< ref "/articles/the-age-of-arabocracy" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%20%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["العرب قراطية"]({{< ref path="/articles/the-age-of-arabocracy" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

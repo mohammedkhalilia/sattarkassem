@@ -30,4 +30,4 @@ Please share this on Facebook.
 
 ---
 
-**Source:** Translated from the original Arabic, ["تمزيق اتفاقية أوسلو"]({{< ref "/articles/tearing-up-the-oslo-accords" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D9%85%D8%B2%D9%8A%D9%82%20%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9%20%D8%A3%D9%88%D8%B3%D9%84%D9%88.doc).
+**Source:** Translated from the original Arabic, ["تمزيق اتفاقية أوسلو"]({{< ref path="/articles/tearing-up-the-oslo-accords" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

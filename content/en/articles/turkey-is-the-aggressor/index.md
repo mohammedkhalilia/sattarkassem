@@ -34,4 +34,4 @@ As Arabs, we may disagree about the situation in Syria, but we must not disagree
 
 ---
 
-**Source:** Translated from the original Arabic, ["تركيا هي المعتدية"]({{< ref "/articles/turkey-is-the-aggressor" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%20%D9%87%D9%8A%20%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D8%AF%D9%8A%D8%A9.docx).
+**Source:** Translated from the original Arabic, ["تركيا هي المعتدية"]({{< ref path="/articles/turkey-is-the-aggressor" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

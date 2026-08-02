@@ -72,4 +72,4 @@ It was never to be expected that Russia's nerves would flare up against Israel a
 
 ---
 
-**Source:** Translated from the original Arabic, ["الصمت الروسي حول غزة"]({{< ref "/articles/russian-silence-on-gaza" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B5%D9%85%D8%AA%20%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%20%D8%AD%D9%88%D9%84%20%D8%BA%D8%B2%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["الصمت الروسي حول غزة"]({{< ref path="/articles/russian-silence-on-gaza" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

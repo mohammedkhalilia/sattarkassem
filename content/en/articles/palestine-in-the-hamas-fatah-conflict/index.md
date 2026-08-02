@@ -74,4 +74,4 @@ In the historical reading, and according to the objective data on the nature of 
 
 ---
 
-**Source:** Translated from the original Arabic, ["فلسطين في جدلية الصراع الحمساوي-الفتحاوي"]({{< ref "/articles/palestine-in-the-hamas-fatah-conflict" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%AC%D8%AF%D9%84%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9.doc).
+**Source:** Translated from the original Arabic, ["فلسطين في جدلية الصراع الحمساوي-الفتحاوي"]({{< ref path="/articles/palestine-in-the-hamas-fatah-conflict" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

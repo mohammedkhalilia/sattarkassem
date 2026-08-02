@@ -66,4 +66,4 @@ But the president alone cannot work miracles; he needs the efforts of academics 
 
 ---
 
-**Source:** Translated from the original Arabic, ["ربيع الجامعات العربية"]({{< ref "/articles/the-spring-of-arab-universities" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B1%D8%A8%D9%8A%D8%B9%20%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["ربيع الجامعات العربية"]({{< ref path="/articles/the-spring-of-arab-universities" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

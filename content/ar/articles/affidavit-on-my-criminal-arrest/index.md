@@ -61,7 +61,3 @@ translation_status: "complete"
 09 2537982, 09 2537617
 
 sattarkassem@hotmail.com
-
----
-
-**النص الأصلي:** هذا المقال محوّل عن الوثيقة الأصلية بصيغة Word. [تحميل الملف الأصلي](/originals/articles/%D8%A5%D9%81%D8%A7%D8%AF%D8%A9%20%D8%AD%D9%88%D9%84%20%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%D9%8A%20%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A7.doc)

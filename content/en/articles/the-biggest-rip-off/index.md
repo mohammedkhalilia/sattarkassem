@@ -32,4 +32,4 @@ What the Palestinian people need right now is to search for a way to free themse
 
 ---
 
-**Source:** Translated from the original Arabic, ["أكبر خازوق"]({{< ref "/articles/the-biggest-rip-off" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D9%83%D8%A8%D8%B1%20%D8%AE%D8%A7%D8%B2%D9%88%D9%82.doc).
+**Source:** Translated from the original Arabic, ["أكبر خازوق"]({{< ref path="/articles/the-biggest-rip-off" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

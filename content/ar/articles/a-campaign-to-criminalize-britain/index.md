@@ -33,7 +33,3 @@ translation_status: "complete"
 بريد إليكتروني: watanuna2008@yahoo.com
 
 Watanuna2008@hotmail.com
-
----
-
-**النص الأصلي:** هذا المقال محوّل عن الوثيقة الأصلية بصيغة Word. [تحميل الملف الأصلي](/originals/articles/%D8%AD%D9%85%D9%84%D8%A9%20%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D9%85%20%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7.doc)

@@ -54,4 +54,4 @@ There are a number of parties invested in weakening Hamas, and they spare no eff
 
 ---
 
-**Source:** Translated from the original Arabic, ["أسباب تراجع حماس الانتخابي"]({{< ref "/articles/hamas-electoral-decline" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8%20%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9%20%D8%AD%D9%85%D8%A7%D8%B3%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["أسباب تراجع حماس الانتخابي"]({{< ref path="/articles/hamas-electoral-decline" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

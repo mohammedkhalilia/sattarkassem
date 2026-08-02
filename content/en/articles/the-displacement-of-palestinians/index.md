@@ -70,4 +70,4 @@ What is required is for the leaderships to set themselves straight, and to pay a
 
 ---
 
-**Source:** Translated from the original Arabic, ["تهجير الفلسطينيين"]({{< ref "/articles/the-displacement-of-palestinians" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D9%87%D8%AC%D9%8A%D8%B1%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["تهجير الفلسطينيين"]({{< ref path="/articles/the-displacement-of-palestinians" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

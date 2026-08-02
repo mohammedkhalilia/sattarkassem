@@ -72,4 +72,4 @@ Working to bring about a Palestinian cultural revolution could be the best polic
 
 ---
 
-**Source:** Translated from the original Arabic, ["مقاطعة البضائع الصهيونية"]({{< ref "/articles/boycotting-zionist-goods" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B6%D8%A7%D8%A6%D8%B9%20%D8%A7%D9%84%D8%B5%D9%87%D9%8A%D9%88%D9%86%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["مقاطعة البضائع الصهيونية"]({{< ref path="/articles/boycotting-zionist-goods" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

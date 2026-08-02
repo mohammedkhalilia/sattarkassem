@@ -28,4 +28,4 @@ What is the solution? It would be best for Hamas to manufacture a crisis, so tha
 
 ---
 
-**Source:** Translated from the original Arabic, ["غزة ليست على الرف"]({{< ref "/articles/gaza-is-not-on-the-shelf" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%BA%D8%B2%D8%A9%20%D9%84%D9%8A%D8%B3%D8%AA%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%B1%D9%81.doc).
+**Source:** Translated from the original Arabic, ["غزة ليست على الرف"]({{< ref path="/articles/gaza-is-not-on-the-shelf" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

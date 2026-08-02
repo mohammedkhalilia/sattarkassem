@@ -58,4 +58,4 @@ Do not fear them. These people send no one to Paradise, and the keys to Hell are
 
 ---
 
-**Source:** Translated from the original Arabic, ["زحمة المفتين تُهلك المسلمين"]({{< ref "/articles/the-crowd-of-muftis-is-destroying-muslims" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B2%D8%AD%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%8A%D9%86%20%D8%AA%D9%8F%D9%87%D9%84%D9%83%20%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["زحمة المفتين تُهلك المسلمين"]({{< ref path="/articles/the-crowd-of-muftis-is-destroying-muslims" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

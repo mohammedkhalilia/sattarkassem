@@ -36,4 +36,4 @@ And what does Jordanian intelligence think of my divorcing Umm Muhammad after tw
 
 ---
 
-**Source:** Translated from the original Arabic, ["بين المخابرات الأردنية والإسرائيلية"]({{< ref "/articles/between-jordanian-and-israeli-intelligence" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A8%D9%8A%D9%86%20%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["بين المخابرات الأردنية والإسرائيلية"]({{< ref path="/articles/between-jordanian-and-israeli-intelligence" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -30,4 +30,4 @@ The matter calls for a bit of shame, and it would be better still with a bit of 
 
 ---
 
-**Source:** Translated from the original Arabic, ["متى سيعقل زعماء لبنان؟"]({{< ref "/articles/when-will-lebanons-leaders-wise-up" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%AA%D9%89%20%D8%B3%D9%8A%D8%B9%D9%82%D9%84%20%D8%B2%D8%B9%D9%85%D8%A7%D8%A1%20%D9%84%D8%A8%D9%86%D8%A7%D9%86%D8%9F.doc).
+**Source:** Translated from the original Arabic, ["متى سيعقل زعماء لبنان؟"]({{< ref path="/articles/when-will-lebanons-leaders-wise-up" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

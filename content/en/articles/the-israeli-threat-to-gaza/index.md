@@ -30,4 +30,4 @@ There are those who say that Israel is capable of destroying the entire Gaza Str
 
 ---
 
-**Source:** Translated from the original Arabic, ["التهديد الإسرائيلي ل غزة"]({{< ref "/articles/the-israeli-threat-to-gaza" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%20%D9%84%20%D8%BA%D8%B2%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["التهديد الإسرائيلي ل غزة"]({{< ref path="/articles/the-israeli-threat-to-gaza" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

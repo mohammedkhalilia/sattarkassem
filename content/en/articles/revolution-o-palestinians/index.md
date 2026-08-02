@@ -30,4 +30,4 @@ The people in the West Bank are afflicted with persecution, repression, and abus
 
 ---
 
-**Source:** Translated from the original Arabic, ["الثورة أيها الفلسطينيون"]({{< ref "/articles/revolution-o-palestinians" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9%20%D8%A3%D9%8A%D9%87%D8%A7%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86.doc).
+**Source:** Translated from the original Arabic, ["الثورة أيها الفلسطينيون"]({{< ref path="/articles/revolution-o-palestinians" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

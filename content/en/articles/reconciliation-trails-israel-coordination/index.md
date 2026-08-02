@@ -64,4 +64,4 @@ The two big factions continue to recite beautiful poetry about reconciliation an
 
 ---
 
-**Source:** Translated from the original Arabic, ["المصالحة الفلسطينية في ذيل التنسيق مع إسرائيل"]({{< ref "/articles/reconciliation-trails-israel-coordination" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD%D8%A9%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B0%D9%8A%D9%84%20%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%20%D9%85%D8%B9.doc).
+**Source:** Translated from the original Arabic, ["المصالحة الفلسطينية في ذيل التنسيق مع إسرائيل"]({{< ref path="/articles/reconciliation-trails-israel-coordination" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

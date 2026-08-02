@@ -36,4 +36,4 @@ The responsibility does not rest on the Palestinian Authority's shoulders alone;
 
 ---
 
-**Source:** Translated from the original Arabic, ["أوسلو تحت أقدامنا"]({{< ref "/articles/oslo-under-our-feet" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D9%88%D8%B3%D9%84%D9%88%20%D8%AA%D8%AD%D8%AA%20%D8%A3%D9%82%D8%AF%D8%A7%D9%85%D9%86%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["أوسلو تحت أقدامنا"]({{< ref path="/articles/oslo-under-our-feet" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

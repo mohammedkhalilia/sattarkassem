@@ -42,4 +42,4 @@ If we want a prayer to be answered, we have no choice but to work toward change.
 
 ---
 
-**Source:** Translated from the original Arabic, ["جدل القمة"]({{< ref "/articles/the-summit-controversy" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AC%D8%AF%D9%84%20%D8%A7%D9%84%D9%82%D9%85%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["جدل القمة"]({{< ref path="/articles/the-summit-controversy" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -50,4 +50,4 @@ For this reason, we must insist on the freedom of the Arab human being and his l
 
 ---
 
-**Source:** Translated from the original Arabic, ["أنظمة الخيانة وأنظمة الجهالة"]({{< ref "/articles/regimes-of-betrayal-and-ignorance" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D9%86%D8%B8%D9%85%D8%A9%20%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%86%D8%A9%20%D9%88%D8%A3%D9%86%D8%B8%D9%85%D8%A9%20%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D9%84%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["أنظمة الخيانة وأنظمة الجهالة"]({{< ref path="/articles/regimes-of-betrayal-and-ignorance" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

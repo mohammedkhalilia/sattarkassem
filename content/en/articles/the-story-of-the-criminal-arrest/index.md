@@ -58,4 +58,4 @@ As for the one who wronged me the most, it was His Excellency General Adnan al-D
 
 ---
 
-**Source:** Translated from the original Arabic, ["قصة الاعتقال الجنائي"]({{< ref "/articles/the-story-of-the-criminal-arrest" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%82%D8%B5%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["قصة الاعتقال الجنائي"]({{< ref path="/articles/the-story-of-the-criminal-arrest" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

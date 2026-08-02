@@ -26,4 +26,4 @@ The tragedy does not lie only in the leadership's conduct — most members of th
 
 ---
 
-**Source:** Translated from the original Arabic, ["لا شرعية لرئيس الوزراء الفلسطيني"]({{< ref "/articles/no-legitimacy-for-the-palestinian-pm" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D8%A7%20%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9%20%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%20%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["لا شرعية لرئيس الوزراء الفلسطيني"]({{< ref path="/articles/no-legitimacy-for-the-palestinian-pm" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

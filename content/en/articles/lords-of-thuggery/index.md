@@ -42,4 +42,4 @@ Setting aside his political position on peace with Israel, I would guess that Mr
 
 ---
 
-**Source:** Translated from the original Arabic, ["أمراء الزعرنة"]({{< ref "/articles/lords-of-thuggery" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D9%85%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B2%D8%B9%D8%B1%D9%86%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["أمراء الزعرنة"]({{< ref path="/articles/lords-of-thuggery" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

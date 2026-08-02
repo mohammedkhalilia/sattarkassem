@@ -68,4 +68,4 @@ Israel's lifespan is very short, and you must reckon for yourself how you will f
 
 ---
 
-**Source:** Translated from the original Arabic, ["النضال القديم والخيانة"]({{< ref "/articles/the-old-struggle-and-betrayal" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%86%D8%B6%D8%A7%D9%84%20%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85%20%D9%88%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%86%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["النضال القديم والخيانة"]({{< ref path="/articles/the-old-struggle-and-betrayal" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

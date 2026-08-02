@@ -30,4 +30,4 @@ Since 1917, the Palestinian people, the people of Bilad al-Sham, and all Arabs a
 
 ---
 
-**Source:** Translated from the original Arabic, ["انكماش العرب أمام نجاد"]({{< ref "/articles/arabs-shrink-before-ahmadinejad" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%86%D9%83%D9%85%D8%A7%D8%B4%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%20%D8%A3%D9%85%D8%A7%D9%85%20%D9%86%D8%AC%D8%A7%D8%AF.doc).
+**Source:** Translated from the original Arabic, ["انكماش العرب أمام نجاد"]({{< ref path="/articles/arabs-shrink-before-ahmadinejad" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

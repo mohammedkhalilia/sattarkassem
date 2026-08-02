@@ -28,4 +28,4 @@ Matters have reached a point that exceeds Hezbollah's capacity to overlook or to
 
 ---
 
-**Source:** Translated from the original Arabic, ["لبنان أمام ساعة الحسم"]({{< ref "/articles/lebanon-facing-the-hour-of-reckoning" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D8%A8%D9%86%D8%A7%D9%86%20%D8%A3%D9%85%D8%A7%D9%85%20%D8%B3%D8%A7%D8%B9%D8%A9%20%D8%A7%D9%84%D8%AD%D8%B3%D9%85.doc).
+**Source:** Translated from the original Arabic, ["لبنان أمام ساعة الحسم"]({{< ref path="/articles/lebanon-facing-the-hour-of-reckoning" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

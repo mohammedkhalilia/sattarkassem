@@ -28,4 +28,4 @@ With respect.
 
 ---
 
-**Source:** Translated from the original Arabic, ["ماذا يصنع اللواء عمر سليمان؟"]({{< ref "/articles/what-is-general-omar-suleiman-up-to" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%A7%D8%B0%D8%A7%20%D9%8A%D8%B5%D9%86%D8%B9%20%D8%A7%D9%84%D9%84%D9%88%D8%A7%D8%A1%20%D8%B9%D9%85%D8%B1%20%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D8%9F.doc).
+**Source:** Translated from the original Arabic, ["ماذا يصنع اللواء عمر سليمان؟"]({{< ref path="/articles/what-is-general-omar-suleiman-up-to" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

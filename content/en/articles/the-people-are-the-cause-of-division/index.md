@@ -26,4 +26,4 @@ For this reason, the people of Palestine, at home and abroad, must rise up again
 
 ---
 
-**Source:** Translated from the original Arabic, ["الشعب سبب الانقسام"]({{< ref "/articles/the-people-are-the-cause-of-division" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%20%D8%B3%D8%A8%D8%A8%20%D8%A7%D9%84%D8%A7%D9%86%D9%82%D8%B3%D8%A7%D9%85.doc).
+**Source:** Translated from the original Arabic, ["الشعب سبب الانقسام"]({{< ref path="/articles/the-people-are-the-cause-of-division" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

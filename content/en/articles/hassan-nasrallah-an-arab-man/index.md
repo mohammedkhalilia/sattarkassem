@@ -46,4 +46,4 @@ Even though Sayyed Hassan Nasrallah is a firm and courageous man, that does not 
 
 ---
 
-**Source:** Translated from the original Arabic, ["حسن نصر الله: رجل عربي"]({{< ref "/articles/hassan-nasrallah-an-arab-man" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D8%B3%D9%86%20%D9%86%D8%B5%D8%B1%20%D8%A7%D9%84%D9%84%D9%87%20%D8%B1%D8%AC%D9%84%20%D8%B9%D8%B1%D8%A8%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["حسن نصر الله: رجل عربي"]({{< ref path="/articles/hassan-nasrallah-an-arab-man" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

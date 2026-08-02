@@ -30,4 +30,4 @@ It is required of all of us to take back the reins of the initiative.
 
 ---
 
-**Source:** Translated from the original Arabic, ["حياؤنا  محبوس وظهرنا محلوس"]({{< ref "/articles/our-dignity-imprisoned-our-backs-lashed" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D9%8A%D8%A7%D8%A4%D9%86%D8%A7%20%D9%85%D8%AD%D8%A8%D9%88%D8%B3%20%D9%88%D8%B8%D9%87%D8%B1%D9%86%D8%A7%20%D9%85%D8%AD%D9%84%D9%88%D8%B3.doc).
+**Source:** Translated from the original Arabic, ["حياؤنا  محبوس وظهرنا محلوس"]({{< ref path="/articles/our-dignity-imprisoned-our-backs-lashed" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

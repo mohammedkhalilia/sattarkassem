@@ -32,4 +32,4 @@ Will we learn the lesson this time, and decide that our free political will is m
 
 ---
 
-**Source:** Translated from the original Arabic, ["حجز الأموال والإرادة الفلسطينية"]({{< ref "/articles/freezing-funds-and-palestinian-will" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D8%AC%D8%B2%20%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84%20%D9%88%D8%A7%D9%84%D8%A5%D8%B1%D8%A7%D8%AF%D8%A9%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["حجز الأموال والإرادة الفلسطينية"]({{< ref path="/articles/freezing-funds-and-palestinian-will" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

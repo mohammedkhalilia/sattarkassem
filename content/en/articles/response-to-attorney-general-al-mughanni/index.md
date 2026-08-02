@@ -46,4 +46,4 @@ I demand a public apology. And if that proves too difficult for you, I will take
 
 ---
 
-**Source:** Translated from the original Arabic, ["رد على المدعي العام الفلسطيني السيد المغني"]({{< ref "/articles/response-to-attorney-general-al-mughanni" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B1%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%85%D8%AF%D8%B9%D9%8A%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%20%D8%A7%D9%84%D8%B3%D9%8A%D8%AF.doc).
+**Source:** Translated from the original Arabic, ["رد على المدعي العام الفلسطيني السيد المغني"]({{< ref path="/articles/response-to-attorney-general-al-mughanni" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

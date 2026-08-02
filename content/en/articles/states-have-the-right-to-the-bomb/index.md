@@ -32,4 +32,4 @@ From a moral standpoint, if there is even a single state in this world that poss
 
 ---
 
-**Source:** Translated from the original Arabic, ["من حق الدول امتلاك القنبلة"]({{< ref "/articles/states-have-the-right-to-the-bomb" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D9%86%20%D8%AD%D9%82%20%D8%A7%D9%84%D8%AF%D9%88%D9%84%20%D8%A7%D9%85%D8%AA%D9%84%D8%A7%D9%83%20%D8%A7%D9%84%D9%82%D9%86%D8%A8%D9%84%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["من حق الدول امتلاك القنبلة"]({{< ref path="/articles/states-have-the-right-to-the-bomb" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

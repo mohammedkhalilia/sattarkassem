@@ -42,4 +42,4 @@ We must not underestimate Israel's strength, but neither must we exaggerate it; 
 
 ---
 
-**Source:** Translated from the original Arabic, ["إسرائيل تجثو"]({{< ref "/articles/israel-brought-to-its-knees" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%20%D8%AA%D8%AC%D8%AB%D9%88.doc).
+**Source:** Translated from the original Arabic, ["إسرائيل تجثو"]({{< ref path="/articles/israel-brought-to-its-knees" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

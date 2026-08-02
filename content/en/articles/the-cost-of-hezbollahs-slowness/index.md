@@ -36,4 +36,4 @@ It is important to preserve this fragile accommodation, but it is also important
 
 ---
 
-**Source:** Translated from the original Arabic, ["ثمن تباطؤ حزب الله"]({{< ref "/articles/the-cost-of-hezbollahs-slowness" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AB%D9%85%D9%86%20%D8%AA%D8%A8%D8%A7%D8%B7%D8%A4%20%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87.doc).
+**Source:** Translated from the original Arabic, ["ثمن تباطؤ حزب الله"]({{< ref path="/articles/the-cost-of-hezbollahs-slowness" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

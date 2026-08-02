@@ -22,4 +22,4 @@ What is needed is to abandon the commitments made toward Israel, and to reorgani
 
 ---
 
-**Source:** Translated from the original Arabic, ["عرفات يتحمل المسؤولية"]({{< ref "/articles/arafat-bears-the-responsibility" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B9%D8%B1%D9%81%D8%A7%D8%AA%20%D9%8A%D8%AA%D8%AD%D9%85%D9%84%20%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["عرفات يتحمل المسؤولية"]({{< ref path="/articles/arafat-bears-the-responsibility" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

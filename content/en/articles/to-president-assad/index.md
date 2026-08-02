@@ -32,4 +32,4 @@ The key is now in your hand, and the Syrian people will not fail you if they see
 
 ---
 
-**Source:** Translated from the original Arabic, ["إلى الرئيس الأسد"]({{< ref "/articles/to-president-assad" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D9%84%D9%89%20%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%20%D8%A7%D9%84%D8%A3%D8%B3%D8%AF.doc).
+**Source:** Translated from the original Arabic, ["إلى الرئيس الأسد"]({{< ref path="/articles/to-president-assad" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

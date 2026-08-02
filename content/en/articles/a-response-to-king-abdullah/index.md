@@ -44,4 +44,4 @@ In any case, the King deserves credit for writing at all.
 
 ---
 
-**Source:** Translated from the original Arabic, ["الرد على الملك عبد الله"]({{< ref "/articles/a-response-to-king-abdullah" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B1%D8%AF%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%85%D9%84%D9%83%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87.doc).
+**Source:** Translated from the original Arabic, ["الرد على الملك عبد الله"]({{< ref path="/articles/a-response-to-king-abdullah" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

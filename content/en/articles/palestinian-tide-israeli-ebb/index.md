@@ -62,4 +62,4 @@ Given all this, what will the war of 2017 look like? Will the Palestinian rocket
 
 ---
 
-**Source:** Translated from the original Arabic, ["المدّ الفلسطيني والجزْر الإسرائيلي"]({{< ref "/articles/palestinian-tide-israeli-ebb" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%85%D8%AF%D9%91%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%20%D9%88%D8%A7%D9%84%D8%AC%D8%B2%D9%92%D8%B1%20%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["المدّ الفلسطيني والجزْر الإسرائيلي"]({{< ref path="/articles/palestinian-tide-israeli-ebb" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

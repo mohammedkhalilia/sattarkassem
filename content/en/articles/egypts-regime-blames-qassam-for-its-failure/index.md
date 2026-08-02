@@ -34,4 +34,4 @@ The ruling of the Egyptian court gladdened the hearts of the Israelis, who have 
 
 ---
 
-**Source:** Translated from the original Arabic, ["النظام المصري يغطي فشله باتهام بالقسام"]({{< ref "/articles/egypts-regime-blames-qassam-for-its-failure" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%20%D9%8A%D8%BA%D8%B7%D9%8A%20%D9%81%D8%B4%D9%84%D9%87%20%D8%A8%D8%A7%D8%AA%D9%87%D8%A7%D9%85%20%D8%A8%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85.doc).
+**Source:** Translated from the original Arabic, ["النظام المصري يغطي فشله باتهام بالقسام"]({{< ref path="/articles/egypts-regime-blames-qassam-for-its-failure" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

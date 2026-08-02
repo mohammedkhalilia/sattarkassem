@@ -28,4 +28,4 @@ The hope remains that the people of Lebanon will unite, and will come to underst
 
 ---
 
-**Source:** Translated from the original Arabic, ["الضباط الأربعة: إحباط أمريكي جديد"]({{< ref "/articles/the-four-officers-new-american-failure" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B6%D8%A8%D8%A7%D8%B7%20%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9%20%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7%20%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%20%D8%AC%D8%AF%D9%8A%D8%AF.doc).
+**Source:** Translated from the original Arabic, ["الضباط الأربعة: إحباط أمريكي جديد"]({{< ref path="/articles/the-four-officers-new-american-failure" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

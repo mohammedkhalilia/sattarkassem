@@ -28,4 +28,4 @@ Over long years, the United States was not convinced that Arabs are no different
 
 ---
 
-**Source:** Translated from the original Arabic, ["عودة اللاجئين وليس الدولة"]({{< ref "/articles/return-of-refugees-not-statehood" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B9%D9%88%D8%AF%D8%A9%20%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86%20%D9%88%D9%84%D9%8A%D8%B3%20%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["عودة اللاجئين وليس الدولة"]({{< ref path="/articles/return-of-refugees-not-statehood" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

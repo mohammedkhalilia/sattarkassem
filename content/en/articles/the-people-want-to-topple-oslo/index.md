@@ -26,4 +26,4 @@ The People Want to Topple Oslo
 
 ---
 
-**Source:** Translated from the original Arabic, ["الشعب يريد إسقاط أوسلو"]({{< ref "/articles/the-people-want-to-topple-oslo" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%20%D9%8A%D8%B1%D9%8A%D8%AF%20%D8%A5%D8%B3%D9%82%D8%A7%D8%B7%20%D8%A3%D9%88%D8%B3%D9%84%D9%88.doc).
+**Source:** Translated from the original Arabic, ["الشعب يريد إسقاط أوسلو"]({{< ref path="/articles/the-people-want-to-topple-oslo" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

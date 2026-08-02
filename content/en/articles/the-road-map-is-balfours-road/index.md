@@ -66,4 +66,4 @@ In any case, those who engage in corruption and disregard the people's interests
 
 ---
 
-**Source:** Translated from the original Arabic, ["خريطة الطريق هي طريق بلفور"]({{< ref "/articles/the-road-map-is-balfours-road" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%20%D9%87%D9%8A%20%D8%B7%D8%B1%D9%8A%D9%82%20%D8%A8%D9%84%D9%81%D9%88%D8%B1.doc).
+**Source:** Translated from the original Arabic, ["خريطة الطريق هي طريق بلفور"]({{< ref path="/articles/the-road-map-is-balfours-road" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

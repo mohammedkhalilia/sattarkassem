@@ -64,4 +64,4 @@ It is likely that the American experience in Iraq will end up where the Israeli 
 
 ---
 
-**Source:** Translated from the original Arabic, ["العراق"]({{< ref "/articles/americas-image-problem-in-iraq" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82.doc).
+**Source:** Translated from the original Arabic, ["العراق"]({{< ref path="/articles/americas-image-problem-in-iraq" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

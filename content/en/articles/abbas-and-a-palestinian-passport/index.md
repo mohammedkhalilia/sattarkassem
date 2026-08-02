@@ -30,4 +30,4 @@ I believe that the negotiating track has inflicted enormous damage on us, at the
 
 ---
 
-**Source:** Translated from the original Arabic, ["عباس وجواز سفر فلسطيني"]({{< ref "/articles/abbas-and-a-palestinian-passport" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B9%D8%A8%D8%A7%D8%B3%20%D9%88%D8%AC%D9%88%D8%A7%D8%B2%20%D8%B3%D9%81%D8%B1%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["عباس وجواز سفر فلسطيني"]({{< ref path="/articles/abbas-and-a-palestinian-passport" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

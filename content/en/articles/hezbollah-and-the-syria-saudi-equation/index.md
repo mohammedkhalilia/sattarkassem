@@ -32,4 +32,4 @@ Nor do I think that Hezbollah has forgotten the positions of a number of Arab re
 
 ---
 
-**Source:** Translated from the original Arabic, ["حزب الله ومعادلة ال س س"]({{< ref "/articles/hezbollah-and-the-syria-saudi-equation" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87%20%D9%88%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9%20%D8%A7%D9%84%20%D8%B3%20%D8%B3.doc).
+**Source:** Translated from the original Arabic, ["حزب الله ومعادلة ال س س"]({{< ref path="/articles/hezbollah-and-the-syria-saudi-equation" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

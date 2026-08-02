@@ -32,4 +32,4 @@ We are, without question, committed to rationality and scientific method in seek
 
 ---
 
-**Source:** Translated from the original Arabic, ["إلى سمو أمير قطر"]({{< ref "/articles/to-his-highness-the-emir-of-qatar" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D9%84%D9%89%20%D8%B3%D9%85%D9%88%20%D8%A3%D9%85%D9%8A%D8%B1%20%D9%82%D8%B7%D8%B1.doc).
+**Source:** Translated from the original Arabic, ["إلى سمو أمير قطر"]({{< ref path="/articles/to-his-highness-the-emir-of-qatar" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

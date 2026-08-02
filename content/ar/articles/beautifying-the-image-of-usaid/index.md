@@ -71,7 +71,3 @@ translation_status: "complete"
 لمطالعة مقالات وأبحاث وكتب الدكتور عبد الستار قاسم على موقع جامعة النجاح الوطنية، هذا هو الرابط
 
 HYPERLINK "http://blogs.najah.edu/staff/emp-2092" \t "_blank" http://blogs.najah.edu/staff/emp-2092
-
----
-
-**النص الأصلي:** هذا المقال محوّل عن الوثيقة الأصلية بصيغة Word. [تحميل الملف الأصلي](/originals/articles/%D8%AA%D8%AC%D9%85%D9%8A%D9%84%20%D8%B5%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%20US%20AID.doc).

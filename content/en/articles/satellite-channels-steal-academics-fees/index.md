@@ -36,4 +36,4 @@ Sattarkassem@hotmail.com
 
 ---
 
-**Source:** Translated from the original Arabic, ["فضائيات تسرق مكافآت الأكاديميين والخبراء"]({{< ref "/articles/satellite-channels-steal-academics-fees" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA%20%D8%AA%D8%B3%D8%B1%D9%82%20%D9%85%D9%83%D8%A7%D9%81%D8%A2%D8%AA%20%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["فضائيات تسرق مكافآت الأكاديميين والخبراء"]({{< ref path="/articles/satellite-channels-steal-academics-fees" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

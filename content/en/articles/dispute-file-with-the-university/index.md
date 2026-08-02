@@ -166,4 +166,4 @@ The agreement entailed the need to walk back practical steps that had already be
 
 ---
 
-**Source:** Translated from the original Arabic, ["ملف الخلاف مع الجامعة"]({{< ref "/articles/dispute-file-with-the-university" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D9%84%D9%81%20%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["ملف الخلاف مع الجامعة"]({{< ref path="/articles/dispute-file-with-the-university" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

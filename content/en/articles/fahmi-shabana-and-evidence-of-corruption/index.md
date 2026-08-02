@@ -80,4 +80,4 @@ There were two employees of Palestinian agencies standing near me outside the wa
 
 ---
 
-**Source:** Translated from the original Arabic, ["فهمي شبانة وبينات الفساد"]({{< ref "/articles/fahmi-shabana-and-evidence-of-corruption" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%81%D9%87%D9%85%D9%8A%20%D8%B4%D8%A8%D8%A7%D9%86%D8%A9%20%D9%88%D8%A8%D9%8A%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D9%81%D8%B3%D8%A7%D8%AF.doc).
+**Source:** Translated from the original Arabic, ["فهمي شبانة وبينات الفساد"]({{< ref path="/articles/fahmi-shabana-and-evidence-of-corruption" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

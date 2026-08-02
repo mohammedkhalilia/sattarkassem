@@ -38,4 +38,4 @@ The great observation in all of this is that Israel has, for some time now, stop
 
 ---
 
-**Source:** Translated from the original Arabic, ["يبحثون عن أسرار حزب الله"]({{< ref "/articles/they-search-for-hezbollahs-secrets" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%8A%D8%A8%D8%AD%D8%AB%D9%88%D9%86%20%D8%B9%D9%86%20%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1%20%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87.doc).
+**Source:** Translated from the original Arabic, ["يبحثون عن أسرار حزب الله"]({{< ref path="/articles/they-search-for-hezbollahs-secrets" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

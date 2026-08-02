@@ -30,4 +30,4 @@ Saad Hariri surely realizes that his father's blood does not matter to America a
 
 ---
 
-**Source:** Translated from the original Arabic, ["سعد الحريري"]({{< ref "/articles/saad-hariri-and-lebanons-future" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B3%D8%B9%D8%AF%20%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["سعد الحريري"]({{< ref path="/articles/saad-hariri-and-lebanons-future" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

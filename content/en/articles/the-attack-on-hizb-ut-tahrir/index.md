@@ -28,4 +28,4 @@ Historically, the oppressed have prevailed over their oppressors. And the Palest
 
 ---
 
-**Source:** Translated from the original Arabic, ["الهجوم على حزب التحرير"]({{< ref "/articles/the-attack-on-hizb-ut-tahrir" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85%20%D8%B9%D9%84%D9%89%20%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1.doc).
+**Source:** Translated from the original Arabic, ["الهجوم على حزب التحرير"]({{< ref path="/articles/the-attack-on-hizb-ut-tahrir" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

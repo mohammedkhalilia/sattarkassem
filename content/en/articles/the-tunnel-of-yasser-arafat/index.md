@@ -30,4 +30,4 @@ Despite all the corruption and the policies of waste and recklessness, Arafat ke
 
 ---
 
-**Source:** Translated from the original Arabic, ["نفق عرفات"]({{< ref "/articles/the-tunnel-of-yasser-arafat" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%86%D9%81%D9%82%20%D8%B9%D8%B1%D9%81%D8%A7%D8%AA.doc).
+**Source:** Translated from the original Arabic, ["نفق عرفات"]({{< ref path="/articles/the-tunnel-of-yasser-arafat" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

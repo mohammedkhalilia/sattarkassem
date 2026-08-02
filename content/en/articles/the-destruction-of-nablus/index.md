@@ -38,4 +38,4 @@ The city is patient and steadfast, but it has a grievance; and if it sheds a tea
 
 ---
 
-**Source:** Translated from the original Arabic, ["تدمير نابلس"]({{< ref "/articles/the-destruction-of-nablus" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D8%AF%D9%85%D9%8A%D8%B1%20%D9%86%D8%A7%D8%A8%D9%84%D8%B3.doc).
+**Source:** Translated from the original Arabic, ["تدمير نابلس"]({{< ref path="/articles/the-destruction-of-nablus" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

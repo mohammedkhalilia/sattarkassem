@@ -42,4 +42,4 @@ The circle is closing in on Israel, and the noose is tightening around it, and a
 
 ---
 
-**Source:** Translated from the original Arabic, ["معالم الحرب القادمة"]({{< ref "/articles/features-of-the-coming-war" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%B9%D8%A7%D9%84%D9%85%20%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["معالم الحرب القادمة"]({{< ref path="/articles/features-of-the-coming-war" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

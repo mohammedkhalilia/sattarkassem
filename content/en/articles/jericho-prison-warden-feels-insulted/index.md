@@ -32,4 +32,4 @@ In explaining the warden's behavior, Professor Abdul-Sattar noted that the order
 
 ---
 
-**Source:** Translated from the original Arabic, ["مدير سجن أريحا يشعر بالإهانة"]({{< ref "/articles/jericho-prison-warden-feels-insulted" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%AF%D9%8A%D8%B1%20%D8%B3%D8%AC%D9%86%20%D8%A3%D8%B1%D9%8A%D8%AD%D8%A7%20%D9%8A%D8%B4%D8%B9%D8%B1%20%D8%A8%D8%A7%D9%84%D8%A5%D9%87%D8%A7%D9%86%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["مدير سجن أريحا يشعر بالإهانة"]({{< ref path="/articles/jericho-prison-warden-feels-insulted" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

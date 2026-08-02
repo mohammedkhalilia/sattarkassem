@@ -28,4 +28,4 @@ It must also be noted that there are Syrians — some of whom claim to be leader
 
 ---
 
-**Source:** Translated from the original Arabic, ["السفير الأمريكي في حماة"]({{< ref "/articles/the-american-ambassador-in-hama" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%20%D9%81%D9%8A%20%D8%AD%D9%85%D8%A7%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["السفير الأمريكي في حماة"]({{< ref path="/articles/the-american-ambassador-in-hama" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

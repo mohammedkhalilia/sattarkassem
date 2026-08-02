@@ -68,4 +68,4 @@ A Palestinian charter is to be drawn up, on which Palestinians everywhere they m
 
 ---
 
-**Source:** Translated from the original Arabic, ["ليل الاقتتال ليس قصيرا"]({{< ref "/articles/the-night-of-infighting-is-not-short" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%AA%D8%A7%D9%84%20%D9%84%D9%8A%D8%B3%20%D9%82%D8%B5%D9%8A%D8%B1%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["ليل الاقتتال ليس قصيرا"]({{< ref path="/articles/the-night-of-infighting-is-not-short" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

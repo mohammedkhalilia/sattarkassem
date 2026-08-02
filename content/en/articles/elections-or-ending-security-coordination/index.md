@@ -30,4 +30,4 @@ In general, the Palestinian Authority, and those who call themselves the Palesti
 
 ---
 
-**Source:** Translated from the original Arabic, ["الانتخابات أم إلغاء التنسيق الأمني؟"]({{< ref "/articles/elections-or-ending-security-coordination" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%A3%D9%85%20%D8%A5%D9%84%D8%BA%D8%A7%D8%A1%20%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%20%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%9F.doc).
+**Source:** Translated from the original Arabic, ["الانتخابات أم إلغاء التنسيق الأمني؟"]({{< ref path="/articles/elections-or-ending-security-coordination" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

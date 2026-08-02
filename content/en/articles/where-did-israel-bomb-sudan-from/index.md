@@ -30,4 +30,4 @@ The Arab regimes are not innocent of the equipment that was destroyed, nor of th
 
 ---
 
-**Source:** Translated from the original Arabic, ["من أين قصفت إسرائيل السودان"]({{< ref "/articles/where-did-israel-bomb-sudan-from" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D9%86%20%D8%A3%D9%8A%D9%86%20%D9%82%D8%B5%D9%81%D8%AA%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%20%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86.docx).
+**Source:** Translated from the original Arabic, ["من أين قصفت إسرائيل السودان"]({{< ref path="/articles/where-did-israel-bomb-sudan-from" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -42,4 +42,4 @@ Do you know, Mr. Abul Gheit, who holds the towel at the door of the brothel? It 
 
 ---
 
-**Source:** Translated from the original Arabic, ["الثمن بخس يا أبو الغيط"]({{< ref "/articles/the-price-is-cheap-abul-gheit" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AB%D9%85%D9%86%20%D8%A8%D8%AE%D8%B3%20%D9%8A%D8%A7%20%D8%A3%D8%A8%D9%88%20%D8%A7%D9%84%D8%BA%D9%8A%D8%B7.doc).
+**Source:** Translated from the original Arabic, ["الثمن بخس يا أبو الغيط"]({{< ref path="/articles/the-price-is-cheap-abul-gheit" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -40,4 +40,4 @@ I have offered above only a few examples concerning Sharon's own private god and
 
 ---
 
-**Source:** Translated from the original Arabic, ["شارون وسلام أنبياء اليهود"]({{< ref "/articles/sharon-and-the-peace-of-jewish-prophets" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B4%D8%A7%D8%B1%D9%88%D9%86%20%D9%88%D8%B3%D9%84%D8%A7%D9%85%20%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1%20%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF.doc).
+**Source:** Translated from the original Arabic, ["شارون وسلام أنبياء اليهود"]({{< ref path="/articles/sharon-and-the-peace-of-jewish-prophets" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

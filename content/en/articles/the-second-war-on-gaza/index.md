@@ -64,4 +64,4 @@ The resistance knows that the Palestinian cause hangs on its steadfastness, and 
 
 ---
 
-**Source:** Translated from the original Arabic, ["الحرب الثانية على غزة"]({{< ref "/articles/the-second-war-on-gaza" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9%20%D8%B9%D9%84%D9%89%20%D8%BA%D8%B2%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["الحرب الثانية على غزة"]({{< ref path="/articles/the-second-war-on-gaza" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

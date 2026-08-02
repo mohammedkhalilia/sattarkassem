@@ -26,4 +26,4 @@ This Israeli withdrawal is the fruit of Palestinian steadfastness and of Palesti
 
 ---
 
-**Source:** Translated from the original Arabic, ["يجب ألا نحزن على رحيل الصهاينة من غزة"]({{< ref "/articles/dont-mourn-the-zionists-departure-from-gaza" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%8A%D8%AC%D8%A8%20%D8%A3%D9%84%D8%A7%20%D9%86%D8%AD%D8%B2%D9%86%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AD%D9%8A%D9%84%20%D8%A7%D9%84%D8%B5%D9%87%D8%A7%D9%8A%D9%86%D8%A9%20%D9%85%D9%86%20%D8%BA%D8%B2%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["يجب ألا نحزن على رحيل الصهاينة من غزة"]({{< ref path="/articles/dont-mourn-the-zionists-departure-from-gaza" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

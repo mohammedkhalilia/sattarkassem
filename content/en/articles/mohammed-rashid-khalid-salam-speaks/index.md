@@ -28,4 +28,4 @@ Perhaps you are not a thief, in the sense that the master used to hand you the m
 
 ---
 
-**Source:** Translated from the original Arabic, ["محمد رشيد (خالد سلام) يتكلم"]({{< ref "/articles/mohammed-rashid-khalid-salam-speaks" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B1%D8%B4%D9%8A%D8%AF%20%28%D8%AE%D8%A7%D9%84%D8%AF%20%D8%B3%D9%84%D8%A7%D9%85%29%20%D9%8A%D8%AA%D9%83%D9%84%D9%85.doc).
+**Source:** Translated from the original Arabic, ["محمد رشيد (خالد سلام) يتكلم"]({{< ref path="/articles/mohammed-rashid-khalid-salam-speaks" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

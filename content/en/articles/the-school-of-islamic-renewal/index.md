@@ -36,4 +36,4 @@ The pronouncements of these categories of jurists do not constitute rulings of t
 
 ---
 
-**Source:** Translated from the original Arabic, ["مدرسة التجديد الإسلامي"]({{< ref "/articles/the-school-of-islamic-renewal" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%AF%D8%B1%D8%B3%D8%A9%20%D8%A7%D9%84%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["مدرسة التجديد الإسلامي"]({{< ref path="/articles/the-school-of-islamic-renewal" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -50,4 +50,4 @@ I should note here as well that the prosecution held me for three days among the
 
 ---
 
-**Source:** Translated from the original Arabic, ["عبد الستار قاسم والقضاء الفلسطيني"]({{< ref "/articles/kassem-and-the-palestinian-judiciary" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B3%D8%AA%D8%A7%D8%B1%20%D9%82%D8%A7%D8%B3%D9%85%20%D9%88%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["عبد الستار قاسم والقضاء الفلسطيني"]({{< ref path="/articles/kassem-and-the-palestinian-judiciary" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -24,4 +24,4 @@ God, exalted is He, has said: "They had already desired dissension before and ha
 
 ---
 
-**Source:** Translated from the original Arabic, ["الفتنة أشد من القتل"]({{< ref "/articles/strife-is-worse-than-killing" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%81%D8%AA%D9%86%D8%A9%20%D8%A3%D8%B4%D8%AF%20%D9%85%D9%86%20%D8%A7%D9%84%D9%82%D8%AA%D9%84.doc).
+**Source:** Translated from the original Arabic, ["الفتنة أشد من القتل"]({{< ref path="/articles/strife-is-worse-than-killing" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

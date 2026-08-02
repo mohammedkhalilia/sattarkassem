@@ -28,4 +28,4 @@ What is so disgraceful about the Iranian president's call to set aside a piece o
 
 ---
 
-**Source:** Translated from the original Arabic, ["نجاد يضرب تحت الحزام"]({{< ref "/articles/ahmadinejad-hits-below-the-belt" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%86%D8%AC%D8%A7%D8%AF%20%D9%8A%D8%B6%D8%B1%D8%A8%20%D8%AA%D8%AD%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B2%D8%A7%D9%85.doc).
+**Source:** Translated from the original Arabic, ["نجاد يضرب تحت الحزام"]({{< ref path="/articles/ahmadinejad-hits-below-the-belt" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

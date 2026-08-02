@@ -52,4 +52,4 @@ That is to say, Hamas's regional standing is now pushing it to the forefront of 
 
 ---
 
-**Source:** Translated from the original Arabic, ["حماس في المعادلة الإقليمية"]({{< ref "/articles/hamas-in-the-regional-equation" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D9%85%D8%A7%D8%B3%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9%20%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["حماس في المعادلة الإقليمية"]({{< ref path="/articles/hamas-in-the-regional-equation" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

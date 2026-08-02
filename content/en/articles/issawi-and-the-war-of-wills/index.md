@@ -28,4 +28,4 @@ Is an empty stomach itself a struggle? If we have told al-Issawi yes, then he ex
 
 ---
 
-**Source:** Translated from the original Arabic, ["العيساوي وحرب الإرادات"]({{< ref "/articles/issawi-and-the-war-of-wills" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B9%D9%8A%D8%B3%D8%A7%D9%88%D9%8A%20%D9%88%D8%AD%D8%B1%D8%A8%20%D8%A7%D9%84%D8%A5%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA.doc).
+**Source:** Translated from the original Arabic, ["العيساوي وحرب الإرادات"]({{< ref path="/articles/issawi-and-the-war-of-wills" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

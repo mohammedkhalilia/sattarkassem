@@ -48,4 +48,4 @@ and you owe every one of us an apology. You mock us, and our history, and our sa
 
 ---
 
-**Source:** Translated from the original Arabic, ["أبو مازن يتحدى مشاعر شعب فلسطين"]({{< ref "/articles/abu-mazen-defies-palestinian-sentiment" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D8%A8%D9%88%20%D9%85%D8%A7%D8%B2%D9%86%20%D9%8A%D8%AA%D8%AD%D8%AF%D9%89%20%D9%85%D8%B4%D8%A7%D8%B9%D8%B1%20%D8%B4%D8%B9%D8%A8%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["أبو مازن يتحدى مشاعر شعب فلسطين"]({{< ref path="/articles/abu-mazen-defies-palestinian-sentiment" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -2,15 +2,15 @@
 <article class="single-page">
   <h1>{{ .Title }}</h1>
   {{ if .Date }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>{{ end }}
-  {{ with .Params.original_file }}
-    <p><a href="{{ . | relURL }}">{{ T "download_pdf" }}</a></p>
-  {{ end }}
   {{ with .Params.video_url }}
     <div class="video-embed"><iframe src="{{ . }}" loading="lazy" allowfullscreen></iframe></div>
   {{ end }}
   <div class="content-body">
     {{ .Content }}
   </div>
+  {{ if and (eq .Language.Lang "en") (eq .Params.original_language "ar") }}
+    <p class="ai-translation-notice">{{ T "ai_translation_notice" }}</p>
+  {{ end }}
   {{ if .IsTranslated }}
     <p class="translations">
       {{ range .Translations }}

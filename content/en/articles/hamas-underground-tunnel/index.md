@@ -26,4 +26,4 @@ My conviction is that the matter has to do with the Oslo Accords and everything 
 
 ---
 
-**Source:** Translated from the original Arabic, ["سرداب حماس"]({{< ref "/articles/hamas-underground-tunnel" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B3%D8%B1%D8%AF%D8%A7%D8%A8%20%D8%AD%D9%85%D8%A7%D8%B3.doc).
+**Source:** Translated from the original Arabic, ["سرداب حماس"]({{< ref path="/articles/hamas-underground-tunnel" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

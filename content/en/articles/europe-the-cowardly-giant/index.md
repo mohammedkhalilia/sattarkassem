@@ -74,4 +74,4 @@ The Europeans and the Americans are only strong for as long as hands remain outs
 
 ---
 
-**Source:** Translated from the original Arabic, ["أوروبا: العملاق الجبان"]({{< ref "/articles/europe-the-cowardly-giant" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D9%82%20%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%86.doc).
+**Source:** Translated from the original Arabic, ["أوروبا: العملاق الجبان"]({{< ref path="/articles/europe-the-cowardly-giant" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

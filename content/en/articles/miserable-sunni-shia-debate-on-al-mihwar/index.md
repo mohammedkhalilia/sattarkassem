@@ -32,4 +32,4 @@ Men like these are the ones deciding the direction the nation takes now, and it 
 
 ---
 
-**Source:** Translated from the original Arabic, ["مناظرة بائسة بين سني وشيعي على قناة المحور المصرية"]({{< ref "/articles/miserable-sunni-shia-debate-on-al-mihwar" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A9%20%D8%A8%D8%A7%D8%A6%D8%B3%D8%A9%20%D8%A8%D9%8A%D9%86%20%D8%B3%D9%86%D9%8A%20%D9%88%D8%B4%D9%8A%D8%B9%D9%8A%20%D8%B9%D9%84%D9%89%20%D9%82%D9%86%D8%A7%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["مناظرة بائسة بين سني وشيعي على قناة المحور المصرية"]({{< ref path="/articles/miserable-sunni-shia-debate-on-al-mihwar" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

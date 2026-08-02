@@ -56,4 +56,4 @@ The solution for confronting Netanyahu is to work toward self-reliance. This is 
 
 ---
 
-**Source:** Translated from the original Arabic, ["يمين إسرائيل في الحكم"]({{< ref "/articles/israels-right-wing-in-power" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%8A%D9%85%D9%8A%D9%86%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%AD%D9%83%D9%85.docx).
+**Source:** Translated from the original Arabic, ["يمين إسرائيل في الحكم"]({{< ref path="/articles/israels-right-wing-in-power" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

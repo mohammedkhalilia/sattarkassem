@@ -28,4 +28,4 @@ There is no one on this earth who can insult me — your arrest of me only raise
 
 ---
 
-**Source:** Translated from the original Arabic, ["السيد النائب العام الفلسطيني"]({{< ref "/articles/mr-palestinian-attorney-general" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%20%D8%A7%D9%84%D9%86%D8%A7%D8%A6%D8%A8%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["السيد النائب العام الفلسطيني"]({{< ref path="/articles/mr-palestinian-attorney-general" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

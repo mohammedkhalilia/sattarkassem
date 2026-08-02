@@ -26,4 +26,4 @@ We do not expect miracles from the initiators, but the popular momentum behind t
 
 ---
 
-**Source:** Translated from the original Arabic, ["تأييد الهيئة الفلسطينية للدفاع عن الثوابت"]({{< ref "/articles/support-for-defending-palestinian-constants" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D8%A3%D9%8A%D9%8A%D8%AF%20%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9%20%D9%84%D9%84%D8%AF%D9%81%D8%A7%D8%B9%20%D8%B9%D9%86.doc).
+**Source:** Translated from the original Arabic, ["تأييد الهيئة الفلسطينية للدفاع عن الثوابت"]({{< ref path="/articles/support-for-defending-palestinian-constants" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -52,4 +52,4 @@ It is clear from the course of events in the Gaza Strip in the wars of 2008/2009
 
 ---
 
-**Source:** Translated from the original Arabic, ["حزب الله رتاج الانتصارات العظيم"]({{< ref "/articles/hezbollah-the-great-gateway-of-victories" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87%20%D8%B1%D8%AA%D8%A7%D8%AC%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D8%B8%D9%8A%D9%85.docx).
+**Source:** Translated from the original Arabic, ["حزب الله رتاج الانتصارات العظيم"]({{< ref path="/articles/hezbollah-the-great-gateway-of-victories" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -36,4 +36,4 @@ The Palestinian people are now passing through an ordeal, but history refuses to
 
 ---
 
-**Source:** Translated from the original Arabic, ["امرأة فلسطينية: بين الشباب والفصائل"]({{< ref "/articles/a-palestinian-woman-youth-and-factions" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%85%D8%B1%D8%A3%D8%A9%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9%20%D8%A8%D9%8A%D9%86%20%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8%20%D9%88%D8%A7%D9%84%D9%81%D8%B5%D8%A7%D8%A6%D9%84.doc).
+**Source:** Translated from the original Arabic, ["امرأة فلسطينية: بين الشباب والفصائل"]({{< ref path="/articles/a-palestinian-woman-youth-and-factions" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

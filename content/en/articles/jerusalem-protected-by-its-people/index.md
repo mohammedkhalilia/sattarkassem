@@ -24,4 +24,4 @@ We should have calculated carefully from the very beginning, and we should have 
 
 ---
 
-**Source:** Translated from the original Arabic, ["القدس يحميها أهلها"]({{< ref "/articles/jerusalem-protected-by-its-people" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%82%D8%AF%D8%B3%20%D9%8A%D8%AD%D9%85%D9%8A%D9%87%D8%A7%20%D8%A3%D9%87%D9%84%D9%87%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["القدس يحميها أهلها"]({{< ref path="/articles/jerusalem-protected-by-its-people" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

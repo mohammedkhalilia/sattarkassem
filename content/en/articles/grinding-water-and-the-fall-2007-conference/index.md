@@ -66,4 +66,4 @@ The conference-goers will affirm their love of peace and their determination to 
 
 ---
 
-**Source:** Translated from the original Arabic, ["سياسة طحن الماء ومؤتمر الخريف/2007"]({{< ref "/articles/grinding-water-and-the-fall-2007-conference" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9%20%D8%B7%D8%AD%D9%86%20%D8%A7%D9%84%D9%85%D8%A7%D8%A1%20%D9%88%D9%85%D8%A4%D8%AA%D9%85%D8%B1%20%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D9%81%202007.doc).
+**Source:** Translated from the original Arabic, ["سياسة طحن الماء ومؤتمر الخريف/2007"]({{< ref path="/articles/grinding-water-and-the-fall-2007-conference" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

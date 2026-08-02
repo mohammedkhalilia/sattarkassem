@@ -36,4 +36,4 @@ I note here that the Battle of Gaza is a historic battle, the first battle fough
 
 ---
 
-**Source:** Translated from the original Arabic, ["وصمدت المقاومة"]({{< ref "/articles/and-the-resistance-held-firm" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%88%D8%B5%D9%85%D8%AF%D8%AA%20%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["وصمدت المقاومة"]({{< ref path="/articles/and-the-resistance-held-firm" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

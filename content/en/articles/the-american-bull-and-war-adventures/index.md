@@ -96,4 +96,4 @@ In all likelihood, America will attack, and this is supposed to be the axis of r
 
 ---
 
-**Source:** Translated from the original Arabic, ["الثور الأمريكي والمغامرات الحربية"]({{< ref "/articles/the-american-bull-and-war-adventures" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AB%D9%88%D8%B1%20%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%20%D9%88%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D9%85%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["الثور الأمريكي والمغامرات الحربية"]({{< ref path="/articles/the-american-bull-and-war-adventures" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

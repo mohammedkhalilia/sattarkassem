@@ -28,4 +28,4 @@ The files must be opened, and justice must be done. Our country is full of injus
 
 ---
 
-**Source:** Translated from the original Arabic, ["ترقيات رؤساء الجامعات"]({{< ref "/articles/the-promotions-of-university-presidents" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D8%B1%D9%82%D9%8A%D8%A7%D8%AA%20%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1%20%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA.doc).
+**Source:** Translated from the original Arabic, ["ترقيات رؤساء الجامعات"]({{< ref path="/articles/the-promotions-of-university-presidents" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

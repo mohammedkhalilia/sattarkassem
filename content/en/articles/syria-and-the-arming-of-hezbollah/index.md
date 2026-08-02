@@ -38,4 +38,4 @@ It is America that violates the rights of peoples and states in broad daylight, 
 
 ---
 
-**Source:** Translated from the original Arabic, ["سوريا وتسليح حزب الله"]({{< ref "/articles/syria-and-the-arming-of-hezbollah" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%20%D9%88%D8%AA%D8%B3%D9%84%D9%8A%D8%AD%20%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87.doc).
+**Source:** Translated from the original Arabic, ["سوريا وتسليح حزب الله"]({{< ref path="/articles/syria-and-the-arming-of-hezbollah" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

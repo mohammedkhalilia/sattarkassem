@@ -34,4 +34,4 @@ Israel and America would prefer that a Palestinian law be issued barring certain
 
 ---
 
-**Source:** Translated from the original Arabic, ["التدخل الإسرائيلي في الانتخابات الفلسطينية"]({{< ref "/articles/israeli-interference-in-palestinian-elections" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84%20%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA.doc).
+**Source:** Translated from the original Arabic, ["التدخل الإسرائيلي في الانتخابات الفلسطينية"]({{< ref path="/articles/israeli-interference-in-palestinian-elections" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

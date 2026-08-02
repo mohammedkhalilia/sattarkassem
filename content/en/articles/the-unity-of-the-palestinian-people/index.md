@@ -62,4 +62,4 @@ It is hard to find a Palestinian who objects to reconciliation, but the matter i
 
 ---
 
-**Source:** Translated from the original Arabic, ["وحدة الشعب الفلسطيني"]({{< ref "/articles/the-unity-of-the-palestinian-people" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%88%D8%AD%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["وحدة الشعب الفلسطيني"]({{< ref path="/articles/the-unity-of-the-palestinian-people" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

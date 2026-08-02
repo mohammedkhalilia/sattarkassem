@@ -64,4 +64,4 @@ The friends of Arab rulers are not our friends, and their enemies are not our en
 
 ---
 
-**Source:** Translated from the original Arabic, ["التطاول على حزب الله"]({{< ref "/articles/the-assault-on-hezbollah" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AA%D8%B7%D8%A7%D9%88%D9%84%20%D8%B9%D9%84%D9%89%20%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87.doc).
+**Source:** Translated from the original Arabic, ["التطاول على حزب الله"]({{< ref path="/articles/the-assault-on-hezbollah" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

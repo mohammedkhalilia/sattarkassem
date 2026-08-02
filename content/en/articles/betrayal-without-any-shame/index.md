@@ -30,4 +30,4 @@ In sum, we are in a tragedy. This is a tragedy that nothing will resolve except 
 
 ---
 
-**Source:** Translated from the original Arabic, ["الخيانة بوقاحة"]({{< ref "/articles/betrayal-without-any-shame" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%86%D8%A9%20%D8%A8%D9%88%D9%82%D8%A7%D8%AD%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["الخيانة بوقاحة"]({{< ref path="/articles/betrayal-without-any-shame" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

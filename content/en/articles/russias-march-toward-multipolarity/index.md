@@ -72,4 +72,4 @@ Russia can exploit the matter as a point of strength in its favor, and focus on 
 
 ---
 
-**Source:** Translated from the original Arabic, ["مسيرة روسيا نحو القطبية"]({{< ref "/articles/russias-march-toward-multipolarity" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%B3%D9%8A%D8%B1%D8%A9%20%D8%B1%D9%88%D8%B3%D9%8A%D8%A7%20%D9%86%D8%AD%D9%88%20%D8%A7%D9%84%D9%82%D8%B7%D8%A8%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["مسيرة روسيا نحو القطبية"]({{< ref path="/articles/russias-march-toward-multipolarity" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

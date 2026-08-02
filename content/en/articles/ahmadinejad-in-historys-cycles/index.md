@@ -76,4 +76,4 @@ This is an argument that history has already discredited, because the strong do 
 
 ---
 
-**Source:** Translated from the original Arabic, ["أحمدي نجاد في حلقات التاريخ"]({{< ref "/articles/ahmadinejad-in-historys-cycles" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D8%AD%D9%85%D8%AF%D9%8A%20%D9%86%D8%AC%D8%A7%D8%AF%20%D9%81%D9%8A%20%D8%AD%D9%84%D9%82%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE.doc).
+**Source:** Translated from the original Arabic, ["أحمدي نجاد في حلقات التاريخ"]({{< ref path="/articles/ahmadinejad-in-historys-cycles" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

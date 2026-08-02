@@ -36,4 +36,4 @@ What frightens the Arab rulers, and those behind them, is not the conversion of 
 
 ---
 
-**Source:** Translated from the original Arabic, ["نصر الله ووحدة المسلمين"]({{< ref "/articles/nasrallah-and-muslim-unity" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%86%D8%B5%D8%B1%20%D8%A7%D9%84%D9%84%D9%87%20%D9%88%D9%88%D8%AD%D8%AF%D8%A9%20%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["نصر الله ووحدة المسلمين"]({{< ref path="/articles/nasrallah-and-muslim-unity" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

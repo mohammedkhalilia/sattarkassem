@@ -30,4 +30,4 @@ Or, in my own words: we are betraying God, the homeland, the people, and the gen
 
 ---
 
-**Source:** Translated from the original Arabic, ["أنا أنفق دفاعا عن أمن إسرائيل"]({{< ref "/articles/defending-israels-security-with-our-money" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D9%86%D8%A7%20%D8%A3%D9%86%D9%81%D9%82%20%D8%AF%D9%81%D8%A7%D8%B9%D8%A7%20%D8%B9%D9%86%20%D8%A3%D9%85%D9%86%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84.doc).
+**Source:** Translated from the original Arabic, ["أنا أنفق دفاعا عن أمن إسرائيل"]({{< ref path="/articles/defending-israels-security-with-our-money" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

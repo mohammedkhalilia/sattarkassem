@@ -118,4 +118,4 @@ The Zionists' persistence was the decisive element in achieving their goal. They
 
 ---
 
-**Source:** Translated from the original Arabic, ["تمويل إقامة الوطن القومي اليهودي"]({{< ref "/articles/financing-the-jewish-national-home" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D9%85%D9%88%D9%8A%D9%84%20%D8%A5%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%88%D8%B7%D9%86%20%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A%20%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["تمويل إقامة الوطن القومي اليهودي"]({{< ref path="/articles/financing-the-jewish-national-home" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

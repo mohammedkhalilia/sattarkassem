@@ -60,4 +60,4 @@ If there is anyone who dislikes Hezbollah, then it is good work that competes wi
 
 ---
 
-**Source:** Translated from the original Arabic, ["حزب الله: الظاهرة التاريخية"]({{< ref "/articles/hezbollah-the-historic-phenomenon" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%B8%D8%A7%D9%87%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["حزب الله: الظاهرة التاريخية"]({{< ref path="/articles/hezbollah-the-historic-phenomenon" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

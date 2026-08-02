@@ -104,4 +104,4 @@ Hamas is an Islamic movement that wants to establish the rule of God on earth, b
 
 ---
 
-**Source:** Translated from the original Arabic, ["حماس والأردن"]({{< ref "/articles/hamas-and-jordan" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D9%85%D8%A7%D8%B3%20%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86.doc).
+**Source:** Translated from the original Arabic, ["حماس والأردن"]({{< ref path="/articles/hamas-and-jordan" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

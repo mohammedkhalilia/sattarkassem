@@ -48,4 +48,4 @@ For this reason, talk of defending sovereignty remains a piece of political soph
 
 ---
 
-**Source:** Translated from the original Arabic, ["تطبيع الأكاديميين"]({{< ref "/articles/the-normalization-of-academics" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D8%B7%D8%A8%D9%8A%D8%B9%20%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["تطبيع الأكاديميين"]({{< ref path="/articles/the-normalization-of-academics" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

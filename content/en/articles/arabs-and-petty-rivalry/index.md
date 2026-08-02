@@ -52,4 +52,4 @@ Is there a solution to this tragedy? There are certainly solutions that I, and o
 
 ---
 
-**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/5/5/العرب-وفكر-المناكفات) on 2018-05-05. Translated from the original Arabic, ["العرب وفكر المناكفات"]({{< ref "/articles/arabs-and-petty-rivalry" >}}). [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%88%D9%81%D9%83%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%83%D9%81%D8%A7%D8%AA.docx).
+**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/5/5/العرب-وفكر-المناكفات) on 2018-05-05. Translated from the original Arabic, ["العرب وفكر المناكفات"]({{< ref path="/articles/arabs-and-petty-rivalry" lang="ar" >}}).

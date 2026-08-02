@@ -66,4 +66,4 @@ Toward the end of his speech, Abbas noted that a single weapon must remain in Pa
 
 ---
 
-**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/10/10/خطاب-عباس-في-الأمم-المتحدة-مجرد-لغو) on 2018-10-10. Translated from the original Arabic, ["خطاب عباس في الأمم المتحدة مجرد لغو سياسي"]({{< ref "/articles/abbas-un-speech-empty-rhetoric" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AE%D8%B7%D8%A7%D8%A8-%D8%B9%D8%A8%D8%A7%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%85%D8%AC%D8%B1%D8%AF-%D9%84%D8%BA%D9%88.docx).
+**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/10/10/خطاب-عباس-في-الأمم-المتحدة-مجرد-لغو) on 2018-10-10. Translated from the original Arabic, ["خطاب عباس في الأمم المتحدة مجرد لغو سياسي"]({{< ref path="/articles/abbas-un-speech-empty-rhetoric" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

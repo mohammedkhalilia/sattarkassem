@@ -26,4 +26,4 @@ Note also that the Ma'an News Agency published a statement from a fictitious "br
 
 ---
 
-**Source:** Translated from the original Arabic, ["من أحرق سيارتي"]({{< ref "/articles/who-burned-my-car" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D9%86%20%D8%A3%D8%AD%D8%B1%D9%82%20%D8%B3%D9%8A%D8%A7%D8%B1%D8%AA%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["من أحرق سيارتي"]({{< ref path="/articles/who-burned-my-car" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

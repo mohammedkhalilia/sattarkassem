@@ -44,4 +44,4 @@ The rest of it is that the Americans have been toying with us since 1967, and by
 
 ---
 
-**Source:** Translated from the original Arabic, ["كيري حبيبنا والمفاوض خائبنا"]({{< ref "/articles/kerry-our-darling-our-failed-negotiator" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%83%D9%8A%D8%B1%D9%8A%20%D8%AD%D8%A8%D9%8A%D8%A8%D9%86%D8%A7%20%D9%88%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%20%D8%AE%D8%A7%D8%A6%D8%A8%D9%86%D8%A7.docx).
+**Source:** Translated from the original Arabic, ["كيري حبيبنا والمفاوض خائبنا"]({{< ref path="/articles/kerry-our-darling-our-failed-negotiator" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

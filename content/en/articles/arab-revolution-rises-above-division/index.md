@@ -76,4 +76,4 @@ The defeated have long said that the enemies are strong, that those who covet th
 
 ---
 
-**Source:** Translated from the original Arabic, ["ثورة العرب تعلو فوق فتن التمزيق"]({{< ref "/articles/arab-revolution-rises-above-division" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AB%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%20%D8%AA%D8%B9%D9%84%D9%88%20%D9%81%D9%88%D9%82%20%D9%81%D8%AA%D9%86%20%D8%A7%D9%84%D8%AA%D9%85%D8%B2%D9%8A%D9%82.doc).
+**Source:** Translated from the original Arabic, ["ثورة العرب تعلو فوق فتن التمزيق"]({{< ref path="/articles/arab-revolution-rises-above-division" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

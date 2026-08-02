@@ -28,4 +28,4 @@ Dayton is carrying out actions hostile to the Palestinian people and to the Pale
 
 ---
 
-**Source:** Translated from the original Arabic, ["دايتون مخططا اقتصاديا"]({{< ref "/articles/dayton-as-an-economic-planner" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AF%D8%A7%D9%8A%D8%AA%D9%88%D9%86%20%D9%85%D8%AE%D8%B7%D8%B7%D8%A7%20%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["دايتون مخططا اقتصاديا"]({{< ref path="/articles/dayton-as-an-economic-planner" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

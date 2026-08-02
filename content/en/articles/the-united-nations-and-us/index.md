@@ -30,4 +30,4 @@ Is there anyone who can calculate mathematically how much the Jews suffered and 
 
 ---
 
-**Source:** Translated from the original Arabic, ["الأمم المتحدة"]({{< ref "/articles/the-united-nations-and-us" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%A3%D9%85%D9%85%20%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["الأمم المتحدة"]({{< ref path="/articles/the-united-nations-and-us" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

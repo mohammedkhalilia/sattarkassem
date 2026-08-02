@@ -58,4 +58,4 @@ Forming a non-factional administration in the Gaza Strip, responsible for runnin
 
 ---
 
-**Source:** Translated from the original Arabic, ["الخلل في مفاوضات التهدئة"]({{< ref "/articles/the-flaw-in-truce-negotiations" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AE%D9%84%D9%84%20%D9%81%D9%8A%20%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D8%A6%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["الخلل في مفاوضات التهدئة"]({{< ref path="/articles/the-flaw-in-truce-negotiations" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

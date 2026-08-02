@@ -32,4 +32,4 @@ We achieve our goals only when we hold our heads high, roll up our strong, sun-b
 
 ---
 
-**Source:** Translated from the original Arabic, ["المقاومة توحد شعب فلسطين"]({{< ref "/articles/resistance-unites-the-palestinian-people" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9%20%D8%AA%D9%88%D8%AD%D8%AF%20%D8%B4%D8%B9%D8%A8%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["المقاومة توحد شعب فلسطين"]({{< ref path="/articles/resistance-unites-the-palestinian-people" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

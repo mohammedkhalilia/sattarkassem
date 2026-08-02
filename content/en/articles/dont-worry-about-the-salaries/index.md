@@ -48,4 +48,4 @@ But if you want to stop worrying altogether, we must develop our economic, socia
 
 ---
 
-**Source:** Translated from the original Arabic, ["لا تقلقوا على الرواتب"]({{< ref "/articles/dont-worry-about-the-salaries" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D8%A7%20%D8%AA%D9%82%D9%84%D9%82%D9%88%D8%A7%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AA%D8%A8.doc).
+**Source:** Translated from the original Arabic, ["لا تقلقوا على الرواتب"]({{< ref path="/articles/dont-worry-about-the-salaries" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

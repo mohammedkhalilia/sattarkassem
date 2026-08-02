@@ -36,4 +36,4 @@ Enough contempt for this people.
 
 ---
 
-**Source:** Translated from the original Arabic, ["أرقصوا لعباس: راح ع أميركا، إجا من أميركا"]({{< ref "/articles/dance-for-abbas-america-trip" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D8%B1%D9%82%D8%B5%D9%88%D8%A7%20%D9%84%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%B1%D8%A7%D8%AD%20%D8%B9%20%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7%D8%8C%20%D8%A5%D8%AC%D8%A7%20%D9%85%D9%86.doc).
+**Source:** Translated from the original Arabic, ["أرقصوا لعباس: راح ع أميركا، إجا من أميركا"]({{< ref path="/articles/dance-for-abbas-america-trip" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

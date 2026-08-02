@@ -42,4 +42,4 @@ I do not live in illusions, and what I am calling for will not be achieved excep
 
 ---
 
-**Source:** Translated from the original Arabic, ["الكبرياء الوطني والتغلب على الحصار"]({{< ref "/articles/national-pride-and-overcoming-the-siege" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%8A%D8%A7%D8%A1%20%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%20%D9%88%D8%A7%D9%84%D8%AA%D8%BA%D9%84%D8%A8%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D8%B1.doc).
+**Source:** Translated from the original Arabic, ["الكبرياء الوطني والتغلب على الحصار"]({{< ref path="/articles/national-pride-and-overcoming-the-siege" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

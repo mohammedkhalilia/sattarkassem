@@ -24,4 +24,4 @@ What would you say if the Palestinian factions set aside their pettiness, at lea
 
 ---
 
-**Source:** Translated from the original Arabic, ["فلسطينيون أمام المحكمة العسكرية"]({{< ref "/articles/palestinians-before-the-military-court" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86%20%D8%A3%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["فلسطينيون أمام المحكمة العسكرية"]({{< ref path="/articles/palestinians-before-the-military-court" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

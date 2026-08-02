@@ -30,4 +30,4 @@ If someone had asked you nine years ago about the outcome of an Israeli war on G
 
 ---
 
-**Source:** Translated from the original Arabic, ["ستعودون للقدس فاتحين"]({{< ref "/articles/you-will-return-to-jerusalem-as-conquerors" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B3%D8%AA%D8%B9%D9%88%D8%AF%D9%88%D9%86%20%D9%84%D9%84%D9%82%D8%AF%D8%B3%20%D9%81%D8%A7%D8%AA%D8%AD%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["ستعودون للقدس فاتحين"]({{< ref path="/articles/you-will-return-to-jerusalem-as-conquerors" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

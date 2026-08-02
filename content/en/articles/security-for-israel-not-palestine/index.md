@@ -66,4 +66,4 @@ This is exactly what happened with the Palestinian Authority: it came to know th
 
 ---
 
-**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/7/29/الأمن-لإسرائيل-ولا-أمن-لفلسطين) on 2018-07-29. Translated from the original Arabic, ["الأمن لإسرائيل ولا أمن لفلسطين"]({{< ref "/articles/security-for-israel-not-palestine" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%88%D9%84%D8%A7-%D8%A3%D9%85%D9%86-%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.docx).
+**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/7/29/الأمن-لإسرائيل-ولا-أمن-لفلسطين) on 2018-07-29. Translated from the original Arabic, ["الأمن لإسرائيل ولا أمن لفلسطين"]({{< ref path="/articles/security-for-israel-not-palestine" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

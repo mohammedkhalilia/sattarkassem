@@ -26,4 +26,4 @@ The earth has not grown too narrow for Hamas or for Palestinian resistance. And 
 
 ---
 
-**Source:** Translated from the original Arabic, ["ترويض حماس"]({{< ref "/articles/the-taming-of-hamas" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D8%B1%D9%88%D9%8A%D8%B6%20%D8%AD%D9%85%D8%A7%D8%B3.doc).
+**Source:** Translated from the original Arabic, ["ترويض حماس"]({{< ref path="/articles/the-taming-of-hamas" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

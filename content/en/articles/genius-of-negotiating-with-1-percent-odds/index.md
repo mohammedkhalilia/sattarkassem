@@ -44,4 +44,4 @@ Despite everything said above, I return once more to tell people what I have bee
 
 ---
 
-**Source:** Translated from the original Arabic, ["عبقرية التفاوض باحتمال 1%"]({{< ref "/articles/genius-of-negotiating-with-1-percent-odds" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B9%D8%A8%D9%82%D8%B1%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6%20%D8%A8%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%201%25.doc).
+**Source:** Translated from the original Arabic, ["عبقرية التفاوض باحتمال 1%"]({{< ref path="/articles/genius-of-negotiating-with-1-percent-odds" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

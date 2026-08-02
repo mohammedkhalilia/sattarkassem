@@ -52,4 +52,4 @@ So if the Palestinian resistance in Gaza wants to reach a truce agreement, it mu
 
 ---
 
-**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/8/16/أثمان-الدخول-في-الكواليس-الدولية) on 2018-08-16. Translated from the original Arabic, ["أثمان الدخول في الكواليس الدولية"]({{< ref "/articles/price-of-international-backrooms" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D8%AB%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D8%A7%D9%84%D9%8A%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9.docx).
+**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/8/16/أثمان-الدخول-في-الكواليس-الدولية) on 2018-08-16. Translated from the original Arabic, ["أثمان الدخول في الكواليس الدولية"]({{< ref path="/articles/price-of-international-backrooms" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

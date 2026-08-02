@@ -60,4 +60,4 @@ Will Israel dare attack Gaza again in the future? After this failure it has suff
 
 ---
 
-**Source:** Translated from the original Arabic, ["إسرائيل لن تعود لقتال غزة"]({{< ref "/articles/israel-will-not-return-to-fight-gaza" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%20%D9%84%D9%86%20%D8%AA%D8%B9%D9%88%D8%AF%20%D9%84%D9%82%D8%AA%D8%A7%D9%84%20%D8%BA%D8%B2%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["إسرائيل لن تعود لقتال غزة"]({{< ref path="/articles/israel-will-not-return-to-fight-gaza" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

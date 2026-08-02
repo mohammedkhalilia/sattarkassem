@@ -64,4 +64,4 @@ Iran will close the Strait of Hormuz if the Security Council adopts a resolution
 
 ---
 
-**Source:** Translated from the original Arabic, ["اليوم الموعود بين أمريكا وإيران"]({{< ref "/articles/the-promised-day-between-america-and-iran" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%8A%D9%88%D9%85%20%D8%A7%D9%84%D9%85%D9%88%D8%B9%D9%88%D8%AF%20%D8%A8%D9%8A%D9%86%20%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7%20%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86.doc).
+**Source:** Translated from the original Arabic, ["اليوم الموعود بين أمريكا وإيران"]({{< ref path="/articles/the-promised-day-between-america-and-iran" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

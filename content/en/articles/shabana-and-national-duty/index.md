@@ -30,4 +30,4 @@ You surely receive many calls urging you to stop what you are doing, but you car
 
 ---
 
-**Source:** Translated from the original Arabic, ["شبانة والواجب الوطني"]({{< ref "/articles/shabana-and-national-duty" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B4%D8%A8%D8%A7%D9%86%D8%A9%20%D9%88%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8%20%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["شبانة والواجب الوطني"]({{< ref path="/articles/shabana-and-national-duty" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

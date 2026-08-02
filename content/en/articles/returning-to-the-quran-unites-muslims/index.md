@@ -92,4 +92,4 @@ And the matter is simple: no Muslim can find, in the Holy Quran, any justificati
 
 ---
 
-**Source:** Translated from the original Arabic, ["العودة إلى القرآن الكريم توحد المسلمين"]({{< ref "/articles/returning-to-the-quran-unites-muslims" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9%20%D8%A5%D9%84%D9%89%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85%20%D8%AA%D9%88%D8%AD%D8%AF%20%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["العودة إلى القرآن الكريم توحد المسلمين"]({{< ref path="/articles/returning-to-the-quran-unites-muslims" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

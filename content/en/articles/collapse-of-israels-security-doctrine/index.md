@@ -60,4 +60,4 @@ I do not mean, by this article, that Israel is finished, but I do mean that Arab
 
 ---
 
-**Source:** Translated from the original Arabic, ["انهيار النظرية الأمنية الإسرائيلية"]({{< ref "/articles/collapse-of-israels-security-doctrine" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1%20%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["انهيار النظرية الأمنية الإسرائيلية"]({{< ref path="/articles/collapse-of-israels-security-doctrine" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

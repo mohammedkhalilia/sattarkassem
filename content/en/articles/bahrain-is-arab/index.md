@@ -26,4 +26,4 @@ The Iranian sheikh's statements gave an opening to Arab rulers who sell the nati
 
 ---
 
-**Source:** Translated from the original Arabic, ["البحرين عربية"]({{< ref "/articles/bahrain-is-arab" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86%20%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["البحرين عربية"]({{< ref path="/articles/bahrain-is-arab" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

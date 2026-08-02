@@ -48,4 +48,4 @@ I hate despotism, and I consider myself at the forefront of those inciting again
 
 ---
 
-**Source:** Translated from the original Arabic, ["برهان غليون يسيء لقضيته"]({{< ref "/articles/burhan-ghalioun-harms-his-own-cause" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%BA%D9%84%D9%8A%D9%88%D9%86%20%D9%8A%D8%B3%D9%8A%D8%A1%20%D9%84%D9%82%D8%B6%D9%8A%D8%AA%D9%87.doc).
+**Source:** Translated from the original Arabic, ["برهان غليون يسيء لقضيته"]({{< ref path="/articles/burhan-ghalioun-harms-his-own-cause" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

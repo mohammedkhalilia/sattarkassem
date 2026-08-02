@@ -36,4 +36,4 @@ Before 1948, the Zionist would refuse to buy goods from the Palestinian shop loc
 
 ---
 
-**Source:** Translated from the original Arabic, ["بطيخ جنين والخيانة الوطنية"]({{< ref "/articles/jenins-watermelons-and-national-betrayal" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A8%D8%B7%D9%8A%D8%AE%20%D8%AC%D9%86%D9%8A%D9%86%20%D9%88%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%86%D8%A9%20%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["بطيخ جنين والخيانة الوطنية"]({{< ref path="/articles/jenins-watermelons-and-national-betrayal" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

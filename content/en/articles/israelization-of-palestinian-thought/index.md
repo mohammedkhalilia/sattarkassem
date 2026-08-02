@@ -24,4 +24,4 @@ The strange thing is that the two men who argued against the refugees' return we
 
 ---
 
-**Source:** Translated from the original Arabic, ["أسرلة التفكير الفلسطيني"]({{< ref "/articles/israelization-of-palestinian-thought" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D8%B3%D8%B1%D9%84%D8%A9%20%D8%A7%D9%84%D8%AA%D9%81%D9%83%D9%8A%D8%B1%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["أسرلة التفكير الفلسطيني"]({{< ref path="/articles/israelization-of-palestinian-thought" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

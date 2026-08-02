@@ -42,4 +42,4 @@ Ninth: We will not elect those who carry a VIP card, which stands for "very irre
 
 ---
 
-**Source:** Translated from the original Arabic, ["لن ننتخب هؤلاء:-"]({{< ref "/articles/we-will-not-elect-these-people" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D9%86%20%D9%86%D9%86%D8%AA%D8%AE%D8%A8%20%D9%87%D8%A4%D9%84%D8%A7%D8%A1%20-.doc).
+**Source:** Translated from the original Arabic, ["لن ننتخب هؤلاء:-"]({{< ref path="/articles/we-will-not-elect-these-people" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

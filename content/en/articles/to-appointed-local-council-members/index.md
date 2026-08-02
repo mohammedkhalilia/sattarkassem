@@ -24,4 +24,4 @@ I therefore call on all committees of the appointed local councils, with their h
 
 ---
 
-**Source:** Translated from the original Arabic, ["إلى رؤساء وأعضاء المجالس المحلية المعينين"]({{< ref "/articles/to-appointed-local-council-members" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D9%84%D9%89%20%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1%20%D9%88%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1%20%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84%D8%B3%20%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["إلى رؤساء وأعضاء المجالس المحلية المعينين"]({{< ref path="/articles/to-appointed-local-council-members" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

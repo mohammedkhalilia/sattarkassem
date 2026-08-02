@@ -26,4 +26,4 @@ So what must we do? We must defend ourselves, our rights, and our dignity. And i
 
 ---
 
-**Source:** Translated from the original Arabic, ["سماسرة الوطن أعداء المعلم وأعداء الطالب"]({{< ref "/articles/homeland-brokers-enemies-of-teachers-and-students" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B3%D9%85%D8%A7%D8%B3%D8%B1%D8%A9%20%D8%A7%D9%84%D9%88%D8%B7%D9%86%20%D8%A3%D8%B9%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85%20%D9%88%D8%A3%D8%B9%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8.docx).
+**Source:** Translated from the original Arabic, ["سماسرة الوطن أعداء المعلم وأعداء الطالب"]({{< ref path="/articles/homeland-brokers-enemies-of-teachers-and-students" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

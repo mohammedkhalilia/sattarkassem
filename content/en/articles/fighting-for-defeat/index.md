@@ -30,4 +30,4 @@ The Arab leaders tremble before the onset of defeat, because it means their own 
 
 ---
 
-**Source:** Translated from the original Arabic, ["القتال من أجل الهزيمة"]({{< ref "/articles/fighting-for-defeat" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%82%D8%AA%D8%A7%D9%84%20%D9%85%D9%86%20%D8%A3%D8%AC%D9%84%20%D8%A7%D9%84%D9%87%D8%B2%D9%8A%D9%85%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["القتال من أجل الهزيمة"]({{< ref path="/articles/fighting-for-defeat" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

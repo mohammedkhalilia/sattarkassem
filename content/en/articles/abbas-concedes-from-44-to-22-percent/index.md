@@ -32,4 +32,4 @@ In any case, we must not forget that the salary has come to matter more than the
 
 ---
 
-**Source:** Translated from the original Arabic, ["عباس يتنازل من 44% إلى 22%"]({{< ref "/articles/abbas-concedes-from-44-to-22-percent" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B9%D8%A8%D8%A7%D8%B3%20%D9%8A%D8%AA%D9%86%D8%A7%D8%B2%D9%84%20%D9%85%D9%86%2044%25%20%D8%A5%D9%84%D9%89%2022%25.doc).
+**Source:** Translated from the original Arabic, ["عباس يتنازل من 44% إلى 22%"]({{< ref path="/articles/abbas-concedes-from-44-to-22-percent" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

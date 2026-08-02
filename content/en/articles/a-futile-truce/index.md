@@ -74,4 +74,4 @@ There is no escape for us except to return to ourselves. The Palestinian people 
 
 ---
 
-**Source:** Translated from the original Arabic, ["تهدئة بلا جدوى"]({{< ref "/articles/a-futile-truce" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D9%87%D8%AF%D8%A6%D8%A9%20%D8%A8%D9%84%D8%A7%20%D8%AC%D8%AF%D9%88%D9%89.doc).
+**Source:** Translated from the original Arabic, ["تهدئة بلا جدوى"]({{< ref path="/articles/a-futile-truce" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

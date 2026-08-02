@@ -26,4 +26,4 @@ I call on everyone not to behave in the manner of the Arab regimes, and I call o
 
 ---
 
-**Source:** Translated from the original Arabic, ["راسب في الهندسة المعمارية: دفاعا عن النجاح"]({{< ref "/articles/failing-architecture-in-defense-of-an-najah" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B1%D8%A7%D8%B3%D8%A8%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9%20%D8%A7%D9%84%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D8%A9%20%D8%AF%D9%81%D8%A7%D8%B9%D8%A7%20%D8%B9%D9%86.doc).
+**Source:** Translated from the original Arabic, ["راسب في الهندسة المعمارية: دفاعا عن النجاح"]({{< ref path="/articles/failing-architecture-in-defense-of-an-najah" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

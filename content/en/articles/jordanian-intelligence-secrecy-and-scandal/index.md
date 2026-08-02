@@ -36,4 +36,4 @@ Your deeds have a short rope — wake up to yourselves before the people drag yo
 
 ---
 
-**Source:** Translated from the original Arabic, ["المخابرات الأردنية: التكتم والفضيحة"]({{< ref "/articles/jordanian-intelligence-secrecy-and-scandal" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AA%D9%83%D8%AA%D9%85%20%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%8A%D8%AD%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["المخابرات الأردنية: التكتم والفضيحة"]({{< ref path="/articles/jordanian-intelligence-secrecy-and-scandal" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

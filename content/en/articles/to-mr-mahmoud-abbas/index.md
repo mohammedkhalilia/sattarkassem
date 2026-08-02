@@ -30,4 +30,4 @@ The issues, Mr. President, are very many, so do not dig too deeply into the fail
 
 ---
 
-**Source:** Translated from the original Arabic, ["إلى السيد محمود عباس"]({{< ref "/articles/to-mr-mahmoud-abbas" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D9%84%D9%89%20%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%B9%D8%A8%D8%A7%D8%B3.doc).
+**Source:** Translated from the original Arabic, ["إلى السيد محمود عباس"]({{< ref path="/articles/to-mr-mahmoud-abbas" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -64,4 +64,4 @@ Answering the Western States' Demands Is Lethal
 
 ---
 
-**Source:** Translated from the original Arabic, ["التنازل في الألاح الكيميائي السوري"]({{< ref "/articles/concession-on-syrian-chemical-weapons" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AA%D9%86%D8%A7%D8%B2%D9%84%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%A3%D9%84%D8%A7%D8%AD%20%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%20%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["التنازل في الألاح الكيميائي السوري"]({{< ref path="/articles/concession-on-syrian-chemical-weapons" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

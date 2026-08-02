@@ -30,4 +30,4 @@ Iran does not speak from a void, and what most disturbs the sleep of Americans a
 
 ---
 
-**Source:** Translated from the original Arabic, ["إيران تمتلك السلاح النووي"]({{< ref "/articles/iran-possesses-nuclear-weapons" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%20%D8%AA%D9%85%D8%AA%D9%84%D9%83%20%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD%20%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["إيران تمتلك السلاح النووي"]({{< ref path="/articles/iran-possesses-nuclear-weapons" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

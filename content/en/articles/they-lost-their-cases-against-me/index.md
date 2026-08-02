@@ -34,4 +34,4 @@ It is wise for every person — man and woman, young and old, learned and ignora
 
 ---
 
-**Source:** Translated from the original Arabic, ["خسروا قضاياهم ضدي"]({{< ref "/articles/they-lost-their-cases-against-me" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AE%D8%B3%D8%B1%D9%88%D8%A7%20%D9%82%D8%B6%D8%A7%D9%8A%D8%A7%D9%87%D9%85%20%D8%B6%D8%AF%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["خسروا قضاياهم ضدي"]({{< ref path="/articles/they-lost-their-cases-against-me" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

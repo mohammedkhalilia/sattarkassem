@@ -78,4 +78,4 @@ Then why should the Americans be able to achieve their plans to partition the al
 
 ---
 
-**Source:** Translated from the original Arabic, ["وحدة العرب بدل تقسيمهم"]({{< ref "/articles/arab-unity-instead-of-division" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%88%D8%AD%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%20%D8%A8%D8%AF%D9%84%20%D8%AA%D9%82%D8%B3%D9%8A%D9%85%D9%87%D9%85.doc).
+**Source:** Translated from the original Arabic, ["وحدة العرب بدل تقسيمهم"]({{< ref path="/articles/arab-unity-instead-of-division" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

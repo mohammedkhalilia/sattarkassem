@@ -42,4 +42,4 @@ It does Professor Ghalioun no honor to sit in a conference alongside despotic re
 
 ---
 
-**Source:** Translated from the original Arabic, ["إلى البروفيسور برهان غليون"]({{< ref "/articles/to-professor-burhan-ghalioun" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D9%84%D9%89%20%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%81%D9%8A%D8%B3%D9%88%D8%B1%20%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D8%BA%D9%84%D9%8A%D9%88%D9%86.doc).
+**Source:** Translated from the original Arabic, ["إلى البروفيسور برهان غليون"]({{< ref path="/articles/to-professor-burhan-ghalioun" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -62,4 +62,4 @@ They are also losing in Yemen, just as they lost the battle over the Iranian nuc
 
 ---
 
-**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/4/9/النظام-السعودي-يخسر-إنه-ينتحر) on 2018-04-09. Translated from the original Arabic, ["النظام السعودي يخسر.. إنه ينتحر!"]({{< ref "/articles/saudi-regime-committing-suicide" >}}). [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%8A%D8%AE%D8%B3%D8%B1-%D8%A5%D9%86%D9%87-%D9%8A%D9%86%D8%AA%D8%AD%D8%B1.docx).
+**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/4/9/النظام-السعودي-يخسر-إنه-ينتحر) on 2018-04-09. Translated from the original Arabic, ["النظام السعودي يخسر.. إنه ينتحر!"]({{< ref path="/articles/saudi-regime-committing-suicide" lang="ar" >}}).

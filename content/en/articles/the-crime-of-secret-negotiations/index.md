@@ -54,4 +54,4 @@ But how much longer shall we wait, O people?
 
 ---
 
-**Source:** Translated from the original Arabic, ["جريمة المفاوضات السرية"]({{< ref "/articles/the-crime-of-secret-negotiations" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AC%D8%B1%D9%8A%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%A9.docx).
+**Source:** Translated from the original Arabic, ["جريمة المفاوضات السرية"]({{< ref path="/articles/the-crime-of-secret-negotiations" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

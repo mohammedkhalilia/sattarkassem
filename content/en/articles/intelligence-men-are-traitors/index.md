@@ -52,4 +52,4 @@ This is a horrifying degradation that nothing but revolutions can put an end to,
 
 ---
 
-**Source:** Translated from the original Arabic, ["رجال المخابرات خون"]({{< ref "/articles/intelligence-men-are-traitors" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B1%D8%AC%D8%A7%D9%84%20%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%20%D8%AE%D9%88%D9%86.doc).
+**Source:** Translated from the original Arabic, ["رجال المخابرات خون"]({{< ref path="/articles/intelligence-men-are-traitors" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

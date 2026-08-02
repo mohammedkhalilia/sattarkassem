@@ -28,4 +28,4 @@ Ending the division must not become a certificate of innocence for anyone, and a
 
 ---
 
-**Source:** Translated from the original Arabic, ["إلغاء أوسلو ينهي الانقسام"]({{< ref "/articles/cancelling-oslo-ends-the-division" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D9%84%D8%BA%D8%A7%D8%A1%20%D8%A3%D9%88%D8%B3%D9%84%D9%88%20%D9%8A%D9%86%D9%87%D9%8A%20%D8%A7%D9%84%D8%A7%D9%86%D9%82%D8%B3%D8%A7%D9%85.doc).
+**Source:** Translated from the original Arabic, ["إلغاء أوسلو ينهي الانقسام"]({{< ref path="/articles/cancelling-oslo-ends-the-division" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

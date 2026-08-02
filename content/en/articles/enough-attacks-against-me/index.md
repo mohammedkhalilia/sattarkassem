@@ -24,4 +24,4 @@ Here are the strugglers before you, who are merely a drop in the ocean across th
 
 ---
 
-**Source:** Translated from the original Arabic, ["كفى"]({{< ref "/articles/enough-attacks-against-me" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%83%D9%81%D9%89.doc).
+**Source:** Translated from the original Arabic, ["كفى"]({{< ref path="/articles/enough-attacks-against-me" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

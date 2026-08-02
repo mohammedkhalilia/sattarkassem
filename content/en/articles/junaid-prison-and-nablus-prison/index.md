@@ -32,4 +32,4 @@ The Authority should have restored the place to its intended purpose — that is
 
 ---
 
-**Source:** Translated from the original Arabic, ["سجن جنيد وسجن نابلس"]({{< ref "/articles/junaid-prison-and-nablus-prison" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B3%D8%AC%D9%86%20%D8%AC%D9%86%D9%8A%D8%AF%20%D9%88%D8%B3%D8%AC%D9%86%20%D9%86%D8%A7%D8%A8%D9%84%D8%B3.doc).
+**Source:** Translated from the original Arabic, ["سجن جنيد وسجن نابلس"]({{< ref path="/articles/junaid-prison-and-nablus-prison" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

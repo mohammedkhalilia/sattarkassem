@@ -50,4 +50,4 @@ At the end of this article, I say to our Lebanese people that trusting those who
 
 ---
 
-**Source:** Translated from the original Arabic, ["فرع مخابرات تجنيد مسلمين"]({{< ref "/articles/an-intelligence-branch-recruiting-under-religious-cover" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%81%D8%B1%D8%B9%20%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%20%D8%AA%D8%AC%D9%86%D9%8A%D8%AF%20%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["فرع مخابرات تجنيد مسلمين"]({{< ref path="/articles/an-intelligence-branch-recruiting-under-religious-cover" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

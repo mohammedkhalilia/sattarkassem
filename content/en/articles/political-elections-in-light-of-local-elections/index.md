@@ -54,4 +54,4 @@ It will be difficult for Fatah to wage a successful political election campaign,
 
 ---
 
-**Source:** Translated from the original Arabic, ["جدلية الانتخابات السياسية في ضوء الانتخابات المحلية"]({{< ref "/articles/political-elections-in-light-of-local-elections" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AC%D8%AF%D9%84%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%B6%D9%88%D8%A1.doc).
+**Source:** Translated from the original Arabic, ["جدلية الانتخابات السياسية في ضوء الانتخابات المحلية"]({{< ref path="/articles/political-elections-in-light-of-local-elections" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

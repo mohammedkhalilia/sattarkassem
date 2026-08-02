@@ -24,4 +24,4 @@ In the midst of these feeble days, marked by scrambling self-interest, dependenc
 
 ---
 
-**Source:** Translated from the original Arabic, ["هنية ينقذ ماء وجوهنا"]({{< ref "/articles/haniyeh-saves-our-face" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%87%D9%86%D9%8A%D8%A9%20%D9%8A%D9%86%D9%82%D8%B0%20%D9%85%D8%A7%D8%A1%20%D9%88%D8%AC%D9%88%D9%87%D9%86%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["هنية ينقذ ماء وجوهنا"]({{< ref path="/articles/haniyeh-saves-our-face" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

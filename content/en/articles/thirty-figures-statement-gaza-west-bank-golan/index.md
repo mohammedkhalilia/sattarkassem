@@ -40,4 +40,4 @@ Dr. Abdul-Sattar Kassem, Dr. Yousef Abdul-Haq, Dr. Yasser Abu Safiya, Dr. Ra'ed 
 
 ---
 
-**Source:** Translated from the original Arabic, ["بيان وقعه ثلاثون من شخصيات غزة والضفة والجولان"]({{< ref "/articles/thirty-figures-statement-gaza-west-bank-golan" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A8%D9%8A%D8%A7%D9%86%20%D9%88%D9%82%D8%B9%D9%87%20%D8%AB%D9%84%D8%A7%D8%AB%D9%88%D9%86%20%D9%85%D9%86%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%A7%D8%AA%20%D8%BA%D8%B2%D8%A9%20%D9%88%D8%A7%D9%84%D8%B6%D9%81%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["بيان وقعه ثلاثون من شخصيات غزة والضفة والجولان"]({{< ref path="/articles/thirty-figures-statement-gaza-west-bank-golan" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

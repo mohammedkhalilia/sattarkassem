@@ -26,4 +26,4 @@ The faction leaders in Gaza should not hesitate to build relations with Hezbolla
 
 ---
 
-**Source:** Translated from the original Arabic, ["تمكين غزة من الردع"]({{< ref "/articles/enabling-gazas-deterrence" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D9%85%D9%83%D9%8A%D9%86%20%D8%BA%D8%B2%D8%A9%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B1%D8%AF%D8%B9.doc).
+**Source:** Translated from the original Arabic, ["تمكين غزة من الردع"]({{< ref path="/articles/enabling-gazas-deterrence" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

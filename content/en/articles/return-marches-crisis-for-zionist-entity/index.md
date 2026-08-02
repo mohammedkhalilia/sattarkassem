@@ -68,4 +68,4 @@ Many states defend the right of the refugee to return to his home and property, 
 
 ---
 
-**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/5/19/مسيرات-العودة-وصناعة-الأزمة-للكيان) on 2018-05-19. Translated from the original Arabic, ["مسيرات العودة وصناعة الأزمة للكيان الصهيوني"]({{< ref "/articles/return-marches-crisis-for-zionist-entity" >}}). [Download the original Word document](/originals/articles/%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9-%D9%88%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A9-%D9%84%D9%84%D9%83%D9%8A%D8%A7%D9%86.docx).
+**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/5/19/مسيرات-العودة-وصناعة-الأزمة-للكيان) on 2018-05-19. Translated from the original Arabic, ["مسيرات العودة وصناعة الأزمة للكيان الصهيوني"]({{< ref path="/articles/return-marches-crisis-for-zionist-entity" lang="ar" >}}).

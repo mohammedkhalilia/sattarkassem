@@ -36,4 +36,4 @@ The responsibility remains upon our own shoulders, we the sons of this people, w
 
 ---
 
-**Source:** Translated from the original Arabic, ["عندما يقود المراهقون"]({{< ref "/articles/when-teenagers-lead" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B9%D9%86%D8%AF%D9%85%D8%A7%20%D9%8A%D9%82%D9%88%D8%AF%20%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%87%D9%82%D9%88%D9%86.doc).
+**Source:** Translated from the original Arabic, ["عندما يقود المراهقون"]({{< ref path="/articles/when-teenagers-lead" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

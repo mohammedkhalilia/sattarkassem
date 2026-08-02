@@ -28,4 +28,4 @@ The university elections were held in a largely democratic atmosphere within the
 
 ---
 
-**Source:** Translated from the original Arabic, ["انتخابات جامعات الضفة الغربية"]({{< ref "/articles/west-bank-university-elections" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B6%D9%81%D8%A9%20%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["انتخابات جامعات الضفة الغربية"]({{< ref path="/articles/west-bank-university-elections" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

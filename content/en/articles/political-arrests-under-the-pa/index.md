@@ -80,4 +80,4 @@ Perhaps every Palestinian ought to ask: are the gains the PLO leadership has ach
 
 ---
 
-**Source:** Translated from the original Arabic, ["الاعتقالات السياسية لدى السلطة الفلسطينية"]({{< ref "/articles/political-arrests-under-the-pa" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9%20%D9%84%D8%AF%D9%89%20%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["الاعتقالات السياسية لدى السلطة الفلسطينية"]({{< ref path="/articles/political-arrests-under-the-pa" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

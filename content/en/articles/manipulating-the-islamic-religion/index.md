@@ -80,4 +80,4 @@ Do not fear them. These people send no one to Paradise, and the keys of Hell are
 
 ---
 
-**Source:** Translated from the original Arabic, ["التلاعب بالدين الإسلامي"]({{< ref "/articles/manipulating-the-islamic-religion" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AA%D9%84%D8%A7%D8%B9%D8%A8%20%D8%A8%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["التلاعب بالدين الإسلامي"]({{< ref path="/articles/manipulating-the-islamic-religion" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

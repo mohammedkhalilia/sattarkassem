@@ -30,4 +30,4 @@ What is painful is that Naji Alloush passed away while watching young men, raise
 
 ---
 
-**Source:** Translated from the original Arabic, ["ناجي علوش في ذمة الله"]({{< ref "/articles/naji-alloush-has-passed-away" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%86%D8%A7%D8%AC%D9%8A%20%D8%B9%D9%84%D9%88%D8%B4%20%D9%81%D9%8A%20%D8%B0%D9%85%D8%A9%20%D8%A7%D9%84%D9%84%D9%87.docx).
+**Source:** Translated from the original Arabic, ["ناجي علوش في ذمة الله"]({{< ref path="/articles/naji-alloush-has-passed-away" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

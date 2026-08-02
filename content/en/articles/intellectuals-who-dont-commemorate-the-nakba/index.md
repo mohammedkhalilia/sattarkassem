@@ -116,4 +116,4 @@ The Palestinian cause has become complicated over time, not because of the stren
 
 ---
 
-**Source:** Translated from the original Arabic, ["مثقفون فلسطينيون لا يحيون النكبة"]({{< ref "/articles/intellectuals-who-dont-commemorate-the-nakba" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%AB%D9%82%D9%81%D9%88%D9%86%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86%20%D9%84%D8%A7%20%D9%8A%D8%AD%D9%8A%D9%88%D9%86%20%D8%A7%D9%84%D9%86%D9%83%D8%A8%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["مثقفون فلسطينيون لا يحيون النكبة"]({{< ref path="/articles/intellectuals-who-dont-commemorate-the-nakba" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

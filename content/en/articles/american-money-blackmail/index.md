@@ -54,4 +54,4 @@ Government vehicles ought to be withdrawn and their costs saved; petty-cash disb
 
 ---
 
-**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/9/17/دنس-المال-الأميركي) on 2018-09-17. Translated from the original Arabic, ["المال الأميركي.. ابتزاز وضغوط لتصفية القضية"]({{< ref "/articles/american-money-blackmail" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AF%D9%86%D8%B3-%D8%A7%D9%84%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A.docx).
+**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/9/17/دنس-المال-الأميركي) on 2018-09-17. Translated from the original Arabic, ["المال الأميركي.. ابتزاز وضغوط لتصفية القضية"]({{< ref path="/articles/american-money-blackmail" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

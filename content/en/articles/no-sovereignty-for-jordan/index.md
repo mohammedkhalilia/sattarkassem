@@ -30,4 +30,4 @@ It is notable that the opposition in Jordan continues to deceive itself by const
 
 ---
 
-**Source:** Translated from the original Arabic, ["لا سيادة للأردن"]({{< ref "/articles/no-sovereignty-for-jordan" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D8%A7%20%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9%20%D9%84%D9%84%D8%A3%D8%B1%D8%AF%D9%86.doc).
+**Source:** Translated from the original Arabic, ["لا سيادة للأردن"]({{< ref path="/articles/no-sovereignty-for-jordan" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

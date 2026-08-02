@@ -34,4 +34,4 @@ Do not misread this article of mine, as you misread my words back in 1987.
 
 ---
 
-**Source:** Translated from the original Arabic, ["سقف مطالبي وجنرال إسرائيل"]({{< ref "/articles/my-demands-ceiling-and-israels-general" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B3%D9%82%D9%81%20%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D9%8A%20%D9%88%D8%AC%D9%86%D8%B1%D8%A7%D9%84%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84.doc).
+**Source:** Translated from the original Arabic, ["سقف مطالبي وجنرال إسرائيل"]({{< ref path="/articles/my-demands-ceiling-and-israels-general" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

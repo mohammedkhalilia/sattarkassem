@@ -66,4 +66,4 @@ The champions of the revolution do not agree on a single view, at least from a h
 
 ---
 
-**Source:** Translated from the original Arabic, ["التشكيك بالثورات العربية"]({{< ref "/articles/casting-doubt-on-arab-revolutions" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%83%20%D8%A8%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["التشكيك بالثورات العربية"]({{< ref path="/articles/casting-doubt-on-arab-revolutions" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

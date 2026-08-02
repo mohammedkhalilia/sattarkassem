@@ -40,4 +40,4 @@ Factions not involved in the internal fighting are to be entrusted with forming 
 
 ---
 
-**Source:** Translated from the original Arabic, ["حل الأزمة الفلسطينية"]({{< ref "/articles/resolving-the-palestinian-crisis" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D9%84%20%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A9%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["حل الأزمة الفلسطينية"]({{< ref path="/articles/resolving-the-palestinian-crisis" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

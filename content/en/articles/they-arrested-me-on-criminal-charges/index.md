@@ -26,4 +26,4 @@ The interview also covered two other subjects: Palestinian dialogue, and Egypt's
 
 ---
 
-**Source:** Translated from the original Arabic, ["اعتقلوني جنائيا"]({{< ref "/articles/they-arrested-me-on-criminal-charges" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D8%B9%D8%AA%D9%82%D9%84%D9%88%D9%86%D9%8A%20%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["اعتقلوني جنائيا"]({{< ref path="/articles/they-arrested-me-on-criminal-charges" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

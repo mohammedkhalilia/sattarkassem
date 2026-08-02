@@ -38,4 +38,4 @@ Overcoming the danger whose foundations America is laying depends on the Iraqis 
 
 ---
 
-**Source:** Translated from the original Arabic, ["أمريكا تمهد لاستنزاف إيران والعرب"]({{< ref "/articles/america-paves-way-to-drain-iran-arabs" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7%20%D8%AA%D9%85%D9%87%D8%AF%20%D9%84%D8%A7%D8%B3%D8%AA%D9%86%D8%B2%D8%A7%D9%81%20%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%20%D9%88%D8%A7%D9%84%D8%B9%D8%B1%D8%A8.doc).
+**Source:** Translated from the original Arabic, ["أمريكا تمهد لاستنزاف إيران والعرب"]({{< ref path="/articles/america-paves-way-to-drain-iran-arabs" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

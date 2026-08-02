@@ -32,4 +32,4 @@ The party is not concerned with the method of bringing others down. Bringing som
 
 ---
 
-**Source:** Translated from the original Arabic, ["حزب الله: القدوة وليس الإسقاط"]({{< ref "/articles/hezbollah-a-model-not-a-target" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D9%82%D8%AF%D9%88%D8%A9%20%D9%88%D9%84%D9%8A%D8%B3%20%D8%A7%D9%84%D8%A5%D8%B3%D9%82%D8%A7%D8%B7.doc).
+**Source:** Translated from the original Arabic, ["حزب الله: القدوة وليس الإسقاط"]({{< ref path="/articles/hezbollah-a-model-not-a-target" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

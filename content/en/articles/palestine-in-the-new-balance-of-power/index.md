@@ -64,4 +64,4 @@ If, on the other hand, Israel decides to content itself with threats and refrain
 
 ---
 
-**Source:** Translated from the original Arabic, ["فلسطين في ميزان القوى الجديد"]({{< ref "/articles/palestine-in-the-new-balance-of-power" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D9%81%D9%8A%20%D9%85%D9%8A%D8%B2%D8%A7%D9%86%20%D8%A7%D9%84%D9%82%D9%88%D9%89%20%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.doc).
+**Source:** Translated from the original Arabic, ["فلسطين في ميزان القوى الجديد"]({{< ref path="/articles/palestine-in-the-new-balance-of-power" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

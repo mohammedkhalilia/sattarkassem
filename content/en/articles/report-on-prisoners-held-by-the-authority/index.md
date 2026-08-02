@@ -34,4 +34,4 @@ Sidiq Hassan Mahmoud Odeh, from Saida, Tulkarm. Intelligence arrested him at the
 
 ---
 
-**Source:** Translated from the original Arabic, ["تقرير حول أسرى لدى السلطة"]({{< ref "/articles/report-on-prisoners-held-by-the-authority" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%20%D8%AD%D9%88%D9%84%20%D8%A3%D8%B3%D8%B1%D9%89%20%D9%84%D8%AF%D9%89%20%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["تقرير حول أسرى لدى السلطة"]({{< ref path="/articles/report-on-prisoners-held-by-the-authority" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

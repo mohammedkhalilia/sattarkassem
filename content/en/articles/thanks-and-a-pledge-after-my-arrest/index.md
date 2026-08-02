@@ -24,4 +24,4 @@ And finally I say: these lands are our lands, this country is our country, and P
 
 ---
 
-**Source:** Translated from the original Arabic, ["شكر وعهد"]({{< ref "/articles/thanks-and-a-pledge-after-my-arrest" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B4%D9%83%D8%B1%20%D9%88%D8%B9%D9%87%D8%AF.doc).
+**Source:** Translated from the original Arabic, ["شكر وعهد"]({{< ref path="/articles/thanks-and-a-pledge-after-my-arrest" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

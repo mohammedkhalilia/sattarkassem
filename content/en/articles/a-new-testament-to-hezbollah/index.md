@@ -32,4 +32,4 @@ But the great irony lies in the fact that several Arab and Islamic parties and g
 
 ---
 
-**Source:** Translated from the original Arabic, ["شهادة جديدة لحزب الله"]({{< ref "/articles/a-new-testament-to-hezbollah" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B4%D9%87%D8%A7%D8%AF%D8%A9%20%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9%20%D9%84%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87.doc).
+**Source:** Translated from the original Arabic, ["شهادة جديدة لحزب الله"]({{< ref path="/articles/a-new-testament-to-hezbollah" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

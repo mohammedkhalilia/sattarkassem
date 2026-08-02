@@ -52,4 +52,4 @@ The series is long and dangerous, but the wise are those who correct course in t
 
 ---
 
-**Source:** Translated from the original Arabic, ["الهجوم على الإسلام في الضفة الغربية"]({{< ref "/articles/attack-on-islam-in-the-west-bank" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B6%D9%81%D8%A9%20%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["الهجوم على الإسلام في الضفة الغربية"]({{< ref path="/articles/attack-on-islam-in-the-west-bank" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

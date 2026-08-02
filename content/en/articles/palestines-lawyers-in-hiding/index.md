@@ -26,4 +26,4 @@ Yet the greatest affliction remains factionalism, which blinds people's hearts, 
 
 ---
 
-**Source:** Translated from the original Arabic, ["اختباء محامي فلسطين"]({{< ref "/articles/palestines-lawyers-in-hiding" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%A1%20%D9%85%D8%AD%D8%A7%D9%85%D9%8A%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["اختباء محامي فلسطين"]({{< ref path="/articles/palestines-lawyers-in-hiding" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

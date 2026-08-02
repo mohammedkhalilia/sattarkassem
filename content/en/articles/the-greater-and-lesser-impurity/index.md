@@ -32,4 +32,4 @@ We will most certainly defeat the Zionist entity — but that certain outcome aw
 
 ---
 
-**Source:** Translated from the original Arabic, ["النجاسة الكبرى والنجاسة الصغرى"]({{< ref "/articles/the-greater-and-lesser-impurity" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%B3%D8%A9%20%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89%20%D9%88%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%B3%D8%A9%20%D8%A7%D9%84%D8%B5%D8%BA%D8%B1%D9%89.doc).
+**Source:** Translated from the original Arabic, ["النجاسة الكبرى والنجاسة الصغرى"]({{< ref path="/articles/the-greater-and-lesser-impurity" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -38,4 +38,4 @@ Searching for ways to achieve self-reliance, so that we may rid ourselves of the
 
 ---
 
-**Source:** Translated from the original Arabic, ["تحرك شباب فلسطين"]({{< ref "/articles/the-movement-of-palestines-youth" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D8%AD%D8%B1%D9%83%20%D8%B4%D8%A8%D8%A7%D8%A8%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["تحرك شباب فلسطين"]({{< ref path="/articles/the-movement-of-palestines-youth" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

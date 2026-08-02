@@ -66,4 +66,4 @@ If we want a solution to our problems related to water, or education, or foreign
 
 ---
 
-**Source:** Translated from the original Arabic, ["النيل: همّ عربي ثقيل"]({{< ref "/articles/the-nile-a-heavy-arab-burden" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%86%D9%8A%D9%84%20%D9%87%D9%85%D9%91%20%D8%B9%D8%B1%D8%A8%D9%8A%20%D8%AB%D9%82%D9%8A%D9%84.doc).
+**Source:** Translated from the original Arabic, ["النيل: همّ عربي ثقيل"]({{< ref path="/articles/the-nile-a-heavy-arab-burden" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

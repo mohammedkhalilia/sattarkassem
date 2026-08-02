@@ -28,4 +28,4 @@ One of the corrupt said to another: do not embezzle the money of the martyrs' ch
 
 ---
 
-**Source:** Translated from the original Arabic, ["لماذا الصمت أيها الفلسطينيون"]({{< ref "/articles/why-the-silence-o-palestinians" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D9%85%D8%A7%D8%B0%D8%A7%20%D8%A7%D9%84%D8%B5%D9%85%D8%AA%20%D8%A3%D9%8A%D9%87%D8%A7%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86.doc).
+**Source:** Translated from the original Arabic, ["لماذا الصمت أيها الفلسطينيون"]({{< ref path="/articles/why-the-silence-o-palestinians" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

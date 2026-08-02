@@ -84,4 +84,4 @@ The Arabs have been very slow to rise up against injustice, enslavement, and tyr
 
 ---
 
-**Source:** Translated from the original Arabic, ["الاعتداءات الأمريكية على الثورات العربية"]({{< ref "/articles/american-assaults-on-arab-revolutions" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A7%D8%AA.doc).
+**Source:** Translated from the original Arabic, ["الاعتداءات الأمريكية على الثورات العربية"]({{< ref path="/articles/american-assaults-on-arab-revolutions" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

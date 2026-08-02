@@ -50,4 +50,4 @@ Continuing to look toward Ankara, Moscow, Washington, and Tehran only complicate
 
 ---
 
-**Source:** Translated from the original Arabic, ["قاعدة دجاج عسكرية لحزب الله"]({{< ref "/articles/a-military-chicken-base-for-hezbollah" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%82%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%AF%D8%AC%D8%A7%D8%AC%20%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9%20%D9%84%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87.doc).
+**Source:** Translated from the original Arabic, ["قاعدة دجاج عسكرية لحزب الله"]({{< ref path="/articles/a-military-chicken-base-for-hezbollah" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -26,4 +26,4 @@ The Palestinian resistance is required to set matters straight, and not to fear 
 
 ---
 
-**Source:** Translated from the original Arabic, ["الشكر لإيران وسوريا وحزب الله"]({{< ref "/articles/thanks-to-iran-syria-and-hezbollah" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B4%D9%83%D8%B1%20%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%20%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%20%D9%88%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87.doc).
+**Source:** Translated from the original Arabic, ["الشكر لإيران وسوريا وحزب الله"]({{< ref path="/articles/thanks-to-iran-syria-and-hezbollah" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

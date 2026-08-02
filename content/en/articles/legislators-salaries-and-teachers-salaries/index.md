@@ -30,4 +30,4 @@ I believe the priority now should go to teachers, to workers who are productive,
 
 ---
 
-**Source:** Translated from the original Arabic, ["رواتب التشريعي ورواتب المعلمين"]({{< ref "/articles/legislators-salaries-and-teachers-salaries" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B1%D9%88%D8%A7%D8%AA%D8%A8%20%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D9%8A%20%D9%88%D8%B1%D9%88%D8%A7%D8%AA%D8%A8%20%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["رواتب التشريعي ورواتب المعلمين"]({{< ref path="/articles/legislators-salaries-and-teachers-salaries" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

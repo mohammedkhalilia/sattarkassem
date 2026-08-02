@@ -32,4 +32,4 @@ The more deeply a Palestinian reflects, the more he comes to realize that Israel
 
 ---
 
-**Source:** Translated from the original Arabic, ["عدالة القضاء الفلسطيني"]({{< ref "/articles/the-justice-of-the-palestinian-judiciary" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B9%D8%AF%D8%A7%D9%84%D8%A9%20%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["عدالة القضاء الفلسطيني"]({{< ref path="/articles/the-justice-of-the-palestinian-judiciary" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

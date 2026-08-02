@@ -48,4 +48,4 @@ The masses of the Syrian people are expected to form popular committees in the v
 
 ---
 
-**Source:** Translated from the original Arabic, ["سوريون يهاجمون حزب الله"]({{< ref "/articles/syrians-attack-hezbollah" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86%20%D9%8A%D9%87%D8%A7%D8%AC%D9%85%D9%88%D9%86%20%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87.doc).
+**Source:** Translated from the original Arabic, ["سوريون يهاجمون حزب الله"]({{< ref path="/articles/syrians-attack-hezbollah" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -32,4 +32,4 @@ What is happening now constitutes a historic turning point in the Arab-Islamic r
 
 ---
 
-**Source:** Translated from the original Arabic, ["الثور الأمريكي يتقلص عجلا"]({{< ref "/articles/the-american-bull-shrinks-to-a-calf" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AB%D9%88%D8%B1%20%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%20%D9%8A%D8%AA%D9%82%D9%84%D8%B5%20%D8%B9%D8%AC%D9%84%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["الثور الأمريكي يتقلص عجلا"]({{< ref path="/articles/the-american-bull-shrinks-to-a-calf" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

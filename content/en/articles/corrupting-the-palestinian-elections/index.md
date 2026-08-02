@@ -26,4 +26,4 @@ What is required is for the Central Elections Commission to halt all procedures 
 
 ---
 
-**Source:** Translated from the original Arabic, ["إفساد الانتخابات الفلسطينية"]({{< ref "/articles/corrupting-the-palestinian-elections" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D9%81%D8%B3%D8%A7%D8%AF%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["إفساد الانتخابات الفلسطينية"]({{< ref path="/articles/corrupting-the-palestinian-elections" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

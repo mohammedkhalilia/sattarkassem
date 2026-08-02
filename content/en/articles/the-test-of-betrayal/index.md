@@ -170,4 +170,4 @@ If you have read carefully and found that you carry out ten percent of the items
 
 ---
 
-**Source:** Translated from the original Arabic, ["اختبار الخيانة"]({{< ref "/articles/the-test-of-betrayal" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%86%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["اختبار الخيانة"]({{< ref path="/articles/the-test-of-betrayal" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

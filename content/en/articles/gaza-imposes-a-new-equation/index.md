@@ -30,4 +30,4 @@ Everyone ought to recalculate, and to think about the wellspring of strength, an
 
 ---
 
-**Source:** Translated from the original Arabic, ["غزة تفرض معادلة جديدة"]({{< ref "/articles/gaza-imposes-a-new-equation" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%BA%D8%B2%D8%A9%20%D8%AA%D9%81%D8%B1%D8%B6%20%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9%20%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["غزة تفرض معادلة جديدة"]({{< ref path="/articles/gaza-imposes-a-new-equation" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

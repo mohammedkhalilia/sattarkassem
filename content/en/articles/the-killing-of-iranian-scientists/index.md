@@ -26,4 +26,4 @@ It matters, on the global stage, for a state to carry out assassinations and des
 
 ---
 
-**Source:** Translated from the original Arabic, ["قتل العلماء الإيرانيين"]({{< ref "/articles/the-killing-of-iranian-scientists" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%82%D8%AA%D9%84%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["قتل العلماء الإيرانيين"]({{< ref path="/articles/the-killing-of-iranian-scientists" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

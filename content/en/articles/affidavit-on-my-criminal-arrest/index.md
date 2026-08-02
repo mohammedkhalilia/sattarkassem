@@ -64,4 +64,4 @@ sattarkassem@hotmail.com
 
 ---
 
-**Source:** Translated from the original Arabic, ["إفادة حول اعتقالي جنائيا"]({{< ref "/articles/affidavit-on-my-criminal-arrest" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D9%81%D8%A7%D8%AF%D8%A9%20%D8%AD%D9%88%D9%84%20%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84%D9%8A%20%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["إفادة حول اعتقالي جنائيا"]({{< ref path="/articles/affidavit-on-my-criminal-arrest" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

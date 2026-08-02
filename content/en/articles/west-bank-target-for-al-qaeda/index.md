@@ -26,4 +26,4 @@ What do the Americans have to lose? The Americans are interested in sowing the s
 
 ---
 
-**Source:** Translated from the original Arabic, ["الضفة ستصبح هدفا لنشاط القاعدة"]({{< ref "/articles/west-bank-target-for-al-qaeda" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B6%D9%81%D8%A9%20%D8%B3%D8%AA%D8%B5%D8%A8%D8%AD%20%D9%87%D8%AF%D9%81%D8%A7%20%D9%84%D9%86%D8%B4%D8%A7%D8%B7%20%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%AF%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["الضفة ستصبح هدفا لنشاط القاعدة"]({{< ref path="/articles/west-bank-target-for-al-qaeda" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

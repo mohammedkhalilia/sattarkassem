@@ -48,4 +48,4 @@ sattarkassem@hotmail.com
 
 ---
 
-**Source:** Translated from the original Arabic, ["ثورة شعب فلسطين"]({{< ref "/articles/the-revolution-of-the-palestinian-people" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AB%D9%88%D8%B1%D8%A9%20%D8%B4%D8%B9%D8%A8%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["ثورة شعب فلسطين"]({{< ref path="/articles/the-revolution-of-the-palestinian-people" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -26,4 +26,4 @@ The Arab nation is rising, and its rise will impose itself on the Palestinian ca
 
 ---
 
-**Source:** Translated from the original Arabic, ["حركة المخيمات الفلسطينية"]({{< ref "/articles/the-movement-of-palestinian-refugee-camps" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D8%B1%D9%83%D8%A9%20%D8%A7%D9%84%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["حركة المخيمات الفلسطينية"]({{< ref path="/articles/the-movement-of-palestinian-refugee-camps" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -40,4 +40,4 @@ Let the professors rise, for this is a nation that has entered the age of revolu
 
 ---
 
-**Source:** Translated from the original Arabic, ["التطاول على أساتذة الجامعات: د. أيوب عثمان"]({{< ref "/articles/assailing-professors-dr-ayyub-othman" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AA%D8%B7%D8%A7%D9%88%D9%84%20%D8%B9%D9%84%D9%89%20%D8%A3%D8%B3%D8%A7%D8%AA%D8%B0%D8%A9%20%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA%20%D8%AF.%20%D8%A3%D9%8A%D9%88%D8%A8.doc).
+**Source:** Translated from the original Arabic, ["التطاول على أساتذة الجامعات: د. أيوب عثمان"]({{< ref path="/articles/assailing-professors-dr-ayyub-othman" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

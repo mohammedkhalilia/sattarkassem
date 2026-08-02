@@ -28,4 +28,4 @@ Israel will take its revenge and will strike Gaza, and will kill and destroy bec
 
 ---
 
-**Source:** Translated from the original Arabic, ["هلع جنود إسرائيل"]({{< ref "/articles/the-panic-of-israels-soldiers" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%87%D9%84%D8%B9%20%D8%AC%D9%86%D9%88%D8%AF%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84.doc).
+**Source:** Translated from the original Arabic, ["هلع جنود إسرائيل"]({{< ref path="/articles/the-panic-of-israels-soldiers" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -72,4 +72,4 @@ Israel wants to strike Iran — indeed, its security interests require it to —
 
 ---
 
-**Source:** Translated from the original Arabic, ["عقبات أمام الهجوم على إيران"]({{< ref "/articles/obstacles-to-an-attack-on-iran" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B9%D9%82%D8%A8%D8%A7%D8%AA%20%D8%A3%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85%20%D8%B9%D9%84%D9%89%20%D8%A5%D9%8A%D8%B1%D8%A7%D9%86.doc).
+**Source:** Translated from the original Arabic, ["عقبات أمام الهجوم على إيران"]({{< ref path="/articles/obstacles-to-an-attack-on-iran" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

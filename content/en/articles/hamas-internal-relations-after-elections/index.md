@@ -118,4 +118,4 @@ Hamas won by the strength of the Palestinian people, despite the powers of the e
 
 ---
 
-**Source:** Translated from the original Arabic, ["العلاقات الحمساوية الداخلية بعد الانتخابات"]({{< ref "/articles/hamas-internal-relations-after-elections" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AD%D9%85%D8%B3%D8%A7%D9%88%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9%20%D8%A8%D8%B9%D8%AF.doc).
+**Source:** Translated from the original Arabic, ["العلاقات الحمساوية الداخلية بعد الانتخابات"]({{< ref path="/articles/hamas-internal-relations-after-elections" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

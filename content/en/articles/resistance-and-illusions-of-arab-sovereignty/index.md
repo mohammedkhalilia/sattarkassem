@@ -68,4 +68,4 @@ All these outrages committed against the Arab nation, and all these violations o
 
 ---
 
-**Source:** Translated from the original Arabic, ["المقاومة وأوهام السيادة العربية"]({{< ref "/articles/resistance-and-illusions-of-arab-sovereignty" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9%20%D9%88%D8%A3%D9%88%D9%87%D8%A7%D9%85%20%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.docx).
+**Source:** Translated from the original Arabic, ["المقاومة وأوهام السيادة العربية"]({{< ref path="/articles/resistance-and-illusions-of-arab-sovereignty" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

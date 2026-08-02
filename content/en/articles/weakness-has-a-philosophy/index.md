@@ -34,4 +34,4 @@ I say this so that no one is surprised at the Arabs' subjugation and their repea
 
 ---
 
-**Source:** Translated from the original Arabic, ["للضعف فلسفة"]({{< ref "/articles/weakness-has-a-philosophy" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D9%84%D8%B6%D8%B9%D9%81%20%D9%81%D9%84%D8%B3%D9%81%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["للضعف فلسفة"]({{< ref path="/articles/weakness-has-a-philosophy" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

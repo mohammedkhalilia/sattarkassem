@@ -38,4 +38,4 @@ It is not required of Hezbollah that it enter a war against Israel now, since it
 
 ---
 
-**Source:** Translated from the original Arabic, ["مدد حزب الله لغزة"]({{< ref "/articles/hezbollahs-reinforcement-for-gaza" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D8%AF%D8%AF%20%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87%20%D9%84%D8%BA%D8%B2%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["مدد حزب الله لغزة"]({{< ref path="/articles/hezbollahs-reinforcement-for-gaza" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

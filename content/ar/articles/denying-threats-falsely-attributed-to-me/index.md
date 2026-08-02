@@ -93,7 +93,3 @@ HYPERLINK "http://www.maannews.net/arb/ViewDetails.aspx?ID=270092" منتدى ا
 HYPERLINK "http://www.maannews.net/arb/ViewDetails.aspx?ID=270085" اعتقال شابين مقدسيين من حي الواد وحارة السعدية
 
 HYPERLINK "http://www.maannews.net/arb/ViewDetails.aspx?ID=270084" قوات الاحتلال تغلق كافة مداخل قرية بردلة
-
----
-
-**النص الأصلي:** هذا المقال محوّل عن الوثيقة الأصلية بصيغة Word. [تحميل الملف الأصلي](/originals/articles/%D9%86%D8%B4%D8%B1%20%D9%85%D9%88%D9%82%D8%B9%20%D9%81%D8%B1%D8%A7%D8%B3%20%D8%A8%D8%B1%D9%8A%D8%B3%20%D8%A8%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%2020%20%D8%A2%D8%B0%D8%A7%D8%B1%202010%20%D8%B9%D9%84%D9%89.doc)

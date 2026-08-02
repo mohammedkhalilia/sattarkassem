@@ -32,4 +32,4 @@ Dr. Abdul-Sattar Kassem
 
 ---
 
-**Source:** Translated from the original Arabic, ["نابلس ستعود"]({{< ref "/articles/nablus-will-return" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%86%D8%A7%D8%A8%D9%84%D8%B3%20%D8%B3%D8%AA%D8%B9%D9%88%D8%AF.doc).
+**Source:** Translated from the original Arabic, ["نابلس ستعود"]({{< ref path="/articles/nablus-will-return" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

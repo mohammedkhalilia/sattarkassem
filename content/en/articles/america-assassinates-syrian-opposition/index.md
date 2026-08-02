@@ -88,4 +88,4 @@ And if it is not possible to speak directly with the Syrian regime, then turning
 
 ---
 
-**Source:** Translated from the original Arabic, ["أمريكا تغتال المعارضة السورية"]({{< ref "/articles/america-assassinates-syrian-opposition" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7%20%D8%AA%D8%BA%D8%AA%D8%A7%D9%84%20%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9%20%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["أمريكا تغتال المعارضة السورية"]({{< ref path="/articles/america-assassinates-syrian-opposition" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

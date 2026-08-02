@@ -68,4 +68,4 @@ My final assessment, based on the technical and field developments I follow, is 
 
 ---
 
-**Source:** Translated from the original Arabic, ["الحرب وميزان القوى الجديد"]({{< ref "/articles/war-and-the-new-balance-of-power" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D9%88%D9%85%D9%8A%D8%B2%D8%A7%D9%86%20%D8%A7%D9%84%D9%82%D9%88%D9%89%20%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.doc).
+**Source:** Translated from the original Arabic, ["الحرب وميزان القوى الجديد"]({{< ref path="/articles/war-and-the-new-balance-of-power" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

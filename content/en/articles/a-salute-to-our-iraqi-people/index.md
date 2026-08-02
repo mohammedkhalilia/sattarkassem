@@ -24,4 +24,4 @@ Let everyone stand with our Arab Muslim people in Iraq: in Fallujah, Ramadi, Mos
 
 ---
 
-**Source:** Translated from the original Arabic, ["تحية تعظيم وإكبار لشعبنا العراقي العربي المسلم"]({{< ref "/articles/a-salute-to-our-iraqi-people" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D8%AD%D9%8A%D8%A9%20%D8%AA%D8%B9%D8%B8%D9%8A%D9%85%20%D9%88%D8%A5%D9%83%D8%A8%D8%A7%D8%B1%20%D9%84%D8%B4%D8%B9%D8%A8%D9%86%D8%A7%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["تحية تعظيم وإكبار لشعبنا العراقي العربي المسلم"]({{< ref path="/articles/a-salute-to-our-iraqi-people" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

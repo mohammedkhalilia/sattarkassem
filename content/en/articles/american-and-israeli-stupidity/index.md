@@ -72,4 +72,4 @@ Israel perhaps no longer has room to remedy the situation. Israel could have ext
 
 ---
 
-**Source:** Translated from the original Arabic, ["غباء أمريكي وإسرائيلي"]({{< ref "/articles/american-and-israeli-stupidity" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%BA%D8%A8%D8%A7%D8%A1%20%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%20%D9%88%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["غباء أمريكي وإسرائيلي"]({{< ref path="/articles/american-and-israeli-stupidity" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -52,4 +52,4 @@ Is there anyone who will answer? Is there anyone prepared to stand against all t
 
 ---
 
-**Source:** Translated from the original Arabic, ["الفرار إلى إسرائيل"]({{< ref "/articles/fleeing-to-israel" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%B1%20%D8%A5%D9%84%D9%89%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84.doc).
+**Source:** Translated from the original Arabic, ["الفرار إلى إسرائيل"]({{< ref path="/articles/fleeing-to-israel" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -34,4 +34,4 @@ Will these people succeed in the end? My conviction is that the Palestinian peop
 
 ---
 
-**Source:** Translated from the original Arabic, ["الفوضى تدب في فلسطين"]({{< ref "/articles/chaos-creeps-into-palestine" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D9%81%D9%88%D8%B6%D9%89%20%D8%AA%D8%AF%D8%A8%20%D9%81%D9%8A%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["الفوضى تدب في فلسطين"]({{< ref path="/articles/chaos-creeps-into-palestine" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

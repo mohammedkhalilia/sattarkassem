@@ -26,4 +26,4 @@ As for Palestine, all Palestinians are required to raise the issue of the gas fi
 
 ---
 
-**Source:** Translated from the original Arabic, ["حقول الغاز الفلسطينية واللبنانية"]({{< ref "/articles/palestinian-and-lebanese-gas-fields" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AD%D9%82%D9%88%D9%84%20%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["حقول الغاز الفلسطينية واللبنانية"]({{< ref path="/articles/palestinian-and-lebanese-gas-fields" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -34,4 +34,4 @@ America's haste in supplying Israel with weapons is neither casual nor merely pr
 
 ---
 
-**Source:** Translated from the original Arabic, ["إف 35 لإسرائيل"]({{< ref "/articles/f-35-jets-for-israel" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A5%D9%81%2035%20%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84.doc).
+**Source:** Translated from the original Arabic, ["إف 35 لإسرائيل"]({{< ref path="/articles/f-35-jets-for-israel" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

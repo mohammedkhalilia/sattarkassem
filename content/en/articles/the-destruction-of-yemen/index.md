@@ -32,4 +32,4 @@ We must not accept a new Afghanistan in Yemen, and we must not accept American b
 
 ---
 
-**Source:** Translated from the original Arabic, ["تدمير اليمن"]({{< ref "/articles/the-destruction-of-yemen" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AA%D8%AF%D9%85%D9%8A%D8%B1%20%D8%A7%D9%84%D9%8A%D9%85%D9%86.doc).
+**Source:** Translated from the original Arabic, ["تدمير اليمن"]({{< ref path="/articles/the-destruction-of-yemen" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

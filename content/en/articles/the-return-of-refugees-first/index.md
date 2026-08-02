@@ -68,4 +68,4 @@ From all this, we conclude that the cause of the Palestinian refugees is a victi
 
 ---
 
-**Source:** Translated from the original Arabic, ["عودة اللاجئين أولا"]({{< ref "/articles/the-return-of-refugees-first" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B9%D9%88%D8%AF%D8%A9%20%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86%20%D8%A3%D9%88%D9%84%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["عودة اللاجئين أولا"]({{< ref path="/articles/the-return-of-refugees-first" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -28,4 +28,4 @@ So do not stand by as a mere spectator.
 
 ---
 
-**Source:** Translated from the original Arabic, ["سنهزم الفساد والفاسدين"]({{< ref "/articles/we-will-defeat-corruption-and-the-corrupt" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B3%D9%86%D9%87%D8%B2%D9%85%20%D8%A7%D9%84%D9%81%D8%B3%D8%A7%D8%AF%20%D9%88%D8%A7%D9%84%D9%81%D8%A7%D8%B3%D8%AF%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["سنهزم الفساد والفاسدين"]({{< ref path="/articles/we-will-defeat-corruption-and-the-corrupt" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

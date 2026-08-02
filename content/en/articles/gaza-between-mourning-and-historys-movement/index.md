@@ -64,4 +64,4 @@ America and Israel are now thinking of alternatives, and I believe the idea of s
 
 ---
 
-**Source:** Translated from the original Arabic, ["غزة بين التباكي وحركة التاريخ"]({{< ref "/articles/gaza-between-mourning-and-historys-movement" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%BA%D8%B2%D8%A9%20%D8%A8%D9%8A%D9%86%20%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D9%83%D9%8A%20%D9%88%D8%AD%D8%B1%D9%83%D8%A9%20%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE.doc).
+**Source:** Translated from the original Arabic, ["غزة بين التباكي وحركة التاريخ"]({{< ref path="/articles/gaza-between-mourning-and-historys-movement" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

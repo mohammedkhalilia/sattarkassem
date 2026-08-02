@@ -30,4 +30,4 @@ Our Palestinian people must stand up in its own defense, and intellectuals and t
 
 ---
 
-**Source:** Translated from the original Arabic, ["نحن مراهقون نتلهى"]({{< ref "/articles/we-are-teenagers-amusing-ourselves" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%86%D8%AD%D9%86%20%D9%85%D8%B1%D8%A7%D9%87%D9%82%D9%88%D9%86%20%D9%86%D8%AA%D9%84%D9%87%D9%89.doc).
+**Source:** Translated from the original Arabic, ["نحن مراهقون نتلهى"]({{< ref path="/articles/we-are-teenagers-amusing-ourselves" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

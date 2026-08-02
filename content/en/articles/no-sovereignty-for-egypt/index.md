@@ -40,4 +40,4 @@ It is therefore important that those who appeal to President Hosni Mubarak spare
 
 ---
 
-**Source:** Translated from the original Arabic, ["لا سيادة لمصر"]({{< ref "/articles/no-sovereignty-for-egypt" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D8%A7%20%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9%20%D9%84%D9%85%D8%B5%D8%B1.doc).
+**Source:** Translated from the original Arabic, ["لا سيادة لمصر"]({{< ref path="/articles/no-sovereignty-for-egypt" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

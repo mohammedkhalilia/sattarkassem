@@ -84,4 +84,4 @@ Turkey stands its ground, while the President of the Ramallah Authority insists 
 
 ---
 
-**Source:** Translated from the original Arabic, ["مهلا على تركيا"]({{< ref "/articles/slow-down-turkey" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D9%87%D9%84%D8%A7%20%D8%B9%D9%84%D9%89%20%D8%AA%D8%B1%D9%83%D9%8A%D8%A7.doc).
+**Source:** Translated from the original Arabic, ["مهلا على تركيا"]({{< ref path="/articles/slow-down-turkey" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

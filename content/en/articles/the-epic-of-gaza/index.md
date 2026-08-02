@@ -30,4 +30,4 @@ There are criticisms to be made of Hamas's performance in Gaza, the most importa
 
 ---
 
-**Source:** Translated from the original Arabic, ["ملحمة غزة"]({{< ref "/articles/the-epic-of-gaza" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%85%D9%84%D8%AD%D9%85%D8%A9%20%D8%BA%D8%B2%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["ملحمة غزة"]({{< ref path="/articles/the-epic-of-gaza" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

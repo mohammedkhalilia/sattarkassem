@@ -30,4 +30,4 @@ The forces of the revolution decided to take to the streets in protest against t
 
 ---
 
-**Source:** Translated from the original Arabic, ["ثوار مصر يعززون أحمد شفيق"]({{< ref "/articles/egypts-revolutionaries-strengthen-ahmed-shafiq" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%AB%D9%88%D8%A7%D8%B1%20%D9%85%D8%B5%D8%B1%20%D9%8A%D8%B9%D8%B2%D8%B2%D9%88%D9%86%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%B4%D9%81%D9%8A%D9%82.doc).
+**Source:** Translated from the original Arabic, ["ثوار مصر يعززون أحمد شفيق"]({{< ref path="/articles/egypts-revolutionaries-strengthen-ahmed-shafiq" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

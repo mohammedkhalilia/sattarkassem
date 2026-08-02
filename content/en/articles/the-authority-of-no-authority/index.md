@@ -38,4 +38,4 @@ In the end, I believe the Authority should stop turning this mill, which yields 
 
 ---
 
-**Source:** Translated from the original Arabic, ["سلطة اللاسلطة"]({{< ref "/articles/the-authority-of-no-authority" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B3%D9%84%D8%B7%D8%A9%20%D8%A7%D9%84%D9%84%D8%A7%D8%B3%D9%84%D8%B7%D8%A9.doc).
+**Source:** Translated from the original Arabic, ["سلطة اللاسلطة"]({{< ref path="/articles/the-authority-of-no-authority" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -32,4 +32,4 @@ As far as Israel is concerned, all nations besides the Hebrews are impure and mu
 
 ---
 
-**Source:** Translated from the original Arabic, ["الزحف الإسرائيلي نحو الصين"]({{< ref "/articles/israels-creep-toward-china" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%A7%D9%84%D8%B2%D8%AD%D9%81%20%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%20%D9%86%D8%AD%D9%88%20%D8%A7%D9%84%D8%B5%D9%8A%D9%86.doc).
+**Source:** Translated from the original Arabic, ["الزحف الإسرائيلي نحو الصين"]({{< ref path="/articles/israels-creep-toward-china" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

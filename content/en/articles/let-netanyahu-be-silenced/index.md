@@ -28,4 +28,4 @@ You want to keep building settlements? Go ahead. But I assure you that we will d
 
 ---
 
-**Source:** Translated from the original Arabic, ["لِ يخرس نتنياهو"]({{< ref "/articles/let-netanyahu-be-silenced" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D9%90%20%D9%8A%D8%AE%D8%B1%D8%B3%20%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88.docx).
+**Source:** Translated from the original Arabic, ["لِ يخرس نتنياهو"]({{< ref path="/articles/let-netanyahu-be-silenced" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -42,4 +42,4 @@ In the end, Hezbollah succeeded in taking to the skies over Palestine — a succ
 
 ---
 
-**Source:** Translated from the original Arabic, ["طائرة حزب الله والتوازن الاستراتيجي"]({{< ref "/articles/hezbollahs-drone-and-the-strategic-balance" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9%20%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87%20%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B2%D9%86%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["طائرة حزب الله والتوازن الاستراتيجي"]({{< ref path="/articles/hezbollahs-drone-and-the-strategic-balance" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

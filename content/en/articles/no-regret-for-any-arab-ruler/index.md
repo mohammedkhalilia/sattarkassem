@@ -62,4 +62,4 @@ We face a dual task: to incite against the regimes, and to incite against Wester
 
 ---
 
-**Source:** Translated from the original Arabic, ["لا أسف على أي حاكم عربي"]({{< ref "/articles/no-regret-for-any-arab-ruler" >}}) by Dr. Abdul-Sattar Kassem. [Download the original Word document](/originals/articles/%D9%84%D8%A7%20%D8%A3%D8%B3%D9%81%20%D8%B9%D9%84%D9%89%20%D8%A3%D9%8A%20%D8%AD%D8%A7%D9%83%D9%85%20%D8%B9%D8%B1%D8%A8%D9%8A.doc).
+**Source:** Translated from the original Arabic, ["لا أسف على أي حاكم عربي"]({{< ref path="/articles/no-regret-for-any-arab-ruler" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -68,4 +68,4 @@ Gaza was placed under such a harsh siege in the belief, among the enemies, that 
 
 ---
 
-**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/6/24/غزة-في-معادلة-الخراب-الفلسطيني) on 2018-06-24. Translated from the original Arabic, ["غزة في معادلة الخراب الفلسطيني"]({{< ref "/articles/gaza-in-the-equation-of-ruin" >}}). [Download the original Word document](/originals/articles/%D8%BA%D8%B2%D8%A9-%D9%81%D9%8A-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9-%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%A8-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.docx).
+**Source:** Originally published in [Al Jazeera](https://www.aljazeera.net/opinions/2018/6/24/غزة-في-معادلة-الخراب-الفلسطيني) on 2018-06-24. Translated from the original Arabic, ["غزة في معادلة الخراب الفلسطيني"]({{< ref path="/articles/gaza-in-the-equation-of-ruin" lang="ar" >}}).
