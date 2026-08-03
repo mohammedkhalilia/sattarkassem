@@ -49,5 +49,8 @@ other = "الصورة التالية"
 [chapters]
 other = "الفصول"
 
+[start_reading]
+other = "ابدأ القراءة"
+
 [toggle_theme]
 other = "تبديل المظهر"

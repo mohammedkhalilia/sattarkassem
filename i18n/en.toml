@@ -49,6 +49,9 @@ other = "Next image"
 [chapters]
 other = "Chapters"
 
+[start_reading]
+other = "Start Reading"
+
 [toggle_theme]
 other = "Toggle theme"
 

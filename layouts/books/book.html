@@ -1,19 +1,24 @@
 {{ define "main" }}
 <article class="single-page book-page">
-  <h1>{{ .Title }}</h1>
-  {{ with .Params.cover }}
-    <img class="book-cover" src="{{ . | relURL }}" alt="{{ $.Title }}">
-  {{ end }}
-  {{ with .Params.author }}<p class="book-author">{{ . }}</p>{{ end }}
-  {{ with .Params.publish_year }}<p class="book-year">{{ . }}</p>{{ end }}
-  <div class="content-body">{{ .Content }}</div>
+  <header class="book-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.author }}<p class="book-author">{{ . }}</p>{{ end }}
+    {{ with .Params.publish_year }}<p class="book-year">{{ . }}</p>{{ end }}
+  </header>
+  <div class="book-layout">
+    <div class="book-intro content-body">{{ .Content }}</div>
+    {{ with .Params.cover }}
+      <div class="book-cover-col">
+        <img class="book-cover" src="{{ . | relURL }}" alt="{{ $.Title }}">
+      </div>
+    {{ end }}
+  </div>
   {{ with .Pages.ByWeight }}
-    <h2>{{ T "chapters" }}</h2>
-    <ol class="chapter-list">
-      {{ range . }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-      {{ end }}
-    </ol>
+    {{ with index . 0 }}
+      <p class="book-start-reading">
+        <a class="book-start-reading-link" href="{{ .RelPermalink }}">{{ T "start_reading" }} &larr;</a>
+      </p>
+    {{ end }}
   {{ end }}
 </article>
 {{ end }}

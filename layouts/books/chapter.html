@@ -9,6 +9,9 @@
         </li>
       {{ end }}
     </ol>
+    {{ with .Parent.Params.cover }}
+      <img class="chapter-sidebar-cover" src="{{ . | relURL }}" alt="{{ $.Parent.Title }}">
+    {{ end }}
   </nav>
   <article class="single-page chapter-page">
     <p class="chapter-book-link"><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></p>
