@@ -1,0 +1,23 @@
+{{ define "main" }}
+<article class="section-page audio-page">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ $pages := .Pages }}
+  {{ if $pages }}
+    <div class="audio-list">
+      {{ range $pages.ByDate.Reverse }}
+        <div class="audio-item">
+          <h2>{{ .Title }}</h2>
+          {{ if .Date }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>{{ end }}
+          {{ with .Params.audio_file }}
+            <audio controls preload="none" src="{{ . | relURL }}"></audio>
+          {{ end }}
+          {{ with .Params.source_name }}<p class="audio-source">{{ . }}</p>{{ end }}
+        </div>
+      {{ end }}
+    </div>
+  {{ else }}
+    <p class="empty-note">{{ T "no_content_yet" }}</p>
+  {{ end }}
+</article>
+{{ end }}

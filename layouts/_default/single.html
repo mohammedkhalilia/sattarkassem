@@ -5,6 +5,9 @@
   {{ with .Params.video_url }}
     <div class="video-embed"><iframe src="{{ . }}" loading="lazy" allowfullscreen></iframe></div>
   {{ end }}
+  {{ with .Params.audio_file }}
+    <audio controls preload="none" src="{{ . | relURL }}"></audio>
+  {{ end }}
   <div class="content-body">
     {{ .Content }}
   </div>

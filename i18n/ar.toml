@@ -13,6 +13,9 @@ other = "الكتب"
 [nav_videos]
 other = "الفيديو"
 
+[nav_audio]
+other = "الصوتيات"
+
 [nav_gallery]
 other = "معرض الصور"
 

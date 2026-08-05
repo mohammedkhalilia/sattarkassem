@@ -1,0 +1,22 @@
+{{ define "main" }}
+<article class="section-page video-page">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ $pages := .Pages }}
+  {{ if $pages }}
+    <div class="video-list">
+      {{ range $pages.ByDate.Reverse }}
+        <div class="video-item">
+          <h2>{{ .Title }}</h2>
+          {{ if .Date }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>{{ end }}
+          {{ with .Params.video_url }}
+            <div class="video-embed"><iframe src="{{ . }}" loading="lazy" allowfullscreen></iframe></div>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  {{ else }}
+    <p class="empty-note">{{ T "no_content_yet" }}</p>
+  {{ end }}
+</article>
+{{ end }}

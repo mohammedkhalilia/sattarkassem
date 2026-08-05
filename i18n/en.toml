@@ -13,6 +13,9 @@ other = "Books"
 [nav_videos]
 other = "Videos"
 
+[nav_audio]
+other = "Audio"
+
 [nav_gallery]
 other = "Gallery"
 

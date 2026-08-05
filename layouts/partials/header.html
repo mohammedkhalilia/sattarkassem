@@ -4,7 +4,7 @@
     <nav class="main-nav" aria-label="Primary">
       <ul>
         <li><a href="{{ site.Home.RelPermalink }}">{{ T "nav_home" }}</a></li>
-        {{ range (slice "about" "articles" "books" "videos" "gallery" "quotes" "press" "tributes" "contact") }}
+        {{ range (slice "about" "articles" "books" "videos" "audio" "gallery" "quotes" "press" "tributes" "contact") }}
           {{ $section := . }}
           {{ with site.GetPage $section }}
             <li><a href="{{ .RelPermalink }}">{{ T (printf "nav_%s" $section) }}</a></li>
