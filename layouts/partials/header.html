@@ -1,10 +1,26 @@
-<header class="site-header">
+<header
+  class="site-header"
+  data-search
+  data-index-url="{{ (site.Home.OutputFormats.Get "json").RelPermalink }}"
+  data-no-results-text="{{ T "search_no_results" }}"
+  data-section-labels='{{ (dict
+    "about" (T "nav_about")
+    "articles" (T "nav_articles")
+    "books" (T "nav_books")
+    "videos" (T "nav_videos")
+    "audio" (T "nav_audio")
+    "gallery" (T "nav_gallery")
+    "quotes" (T "nav_quotes")
+    "press" (T "nav_press")
+    "tributes" (T "nav_tributes")
+  ) | jsonify }}'
+>
   <div class="header-inner">
     <a class="site-title" href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
     <nav class="main-nav" aria-label="Primary">
       <ul>
         <li><a href="{{ site.Home.RelPermalink }}">{{ T "nav_home" }}</a></li>
-        {{ range (slice "about" "articles" "books" "videos" "audio" "gallery" "quotes" "press" "tributes" "contact") }}
+        {{ range (slice "about" "articles" "books" "videos" "audio" "gallery" "quotes" "press" "tributes") }}
           {{ $section := . }}
           {{ with site.GetPage $section }}
             <li><a href="{{ .RelPermalink }}">{{ T (printf "nav_%s" $section) }}</a></li>
@@ -12,9 +28,22 @@
         {{ end }}
       </ul>
     </nav>
+    <div class="site-search">
+      <input
+        type="search"
+        class="search-input"
+        data-search-input
+        placeholder="{{ T "search_placeholder" }}"
+        aria-label="{{ T "search_placeholder" }}"
+        autocomplete="off"
+      >
+    </div>
     {{ partial "language-switcher.html" . }}
     <button type="button" class="theme-toggle" data-theme-toggle aria-label="{{ T "toggle_theme" }}">
       <span data-theme-icon aria-hidden="true">&#9789;</span>
     </button>
+  </div>
+  <div class="search-panel" data-search-results hidden>
+    <div class="search-panel-inner"></div>
   </div>
 </header>

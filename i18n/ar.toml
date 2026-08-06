@@ -28,9 +28,6 @@ other = "الصحافة"
 [nav_tributes]
 other = "كلمات تأبين"
 
-[nav_contact]
-other = "اتصل بنا"
-
 [download_pdf]
 other = "تحميل الملف الأصلي PDF"
 
@@ -57,3 +54,9 @@ other = "ابدأ القراءة"
 
 [toggle_theme]
 other = "تبديل المظهر"
+
+[search_placeholder]
+other = "بحث..."
+
+[search_no_results]
+other = "لا توجد نتائج."

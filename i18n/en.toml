@@ -28,9 +28,6 @@ other = "Press"
 [nav_tributes]
 other = "Tributes"
 
-[nav_contact]
-other = "Contact"
-
 [download_pdf]
 other = "Download original PDF"
 
@@ -60,3 +57,9 @@ other = "Toggle theme"
 
 [ai_translation_notice]
 other = "This English translation was produced with the assistance of AI and may not be 100% accurate."
+
+[search_placeholder]
+other = "Search..."
+
+[search_no_results]
+other = "No results found."

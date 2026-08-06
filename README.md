@@ -16,7 +16,6 @@ content/
     quotes/           Notable quotes
     press/            News coverage / media mentions
     tributes/         Public memorial messages
-    contact/
   en/                 English content — mirrors the same section names
                       and, where a translation exists, the same slug as
                       its Arabic counterpart (this is what lets Hugo pair

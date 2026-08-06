@@ -28,6 +28,9 @@ enableRobotsTXT = true
 [params]
   description = "The archive of the writings, books, and life of Dr. Abdul-Sattar Kassem — Palestinian author, academic, and political figure."
 
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
 [taxonomies]
   category = 'categories'
   tag = 'tags'
