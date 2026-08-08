@@ -63,3 +63,6 @@ other = "Search..."
 
 [search_no_results]
 other = "No results found."
+
+[total_articles]
+other = "Total articles: {{.Count}}"

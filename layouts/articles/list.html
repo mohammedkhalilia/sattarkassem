@@ -2,6 +2,7 @@
 <article class="section-page articles-page">
   <h1>{{ .Title }}</h1>
   {{ with .Content }}<div class="content-body">{{ . }}</div>{{ end }}
+  <p class="articles-total">{{ T "total_articles" (dict "Count" (len .Pages)) }}</p>
   {{ $categories := .Site.Taxonomies.categories }}
   {{ if $categories }}
     <ul class="category-grid">

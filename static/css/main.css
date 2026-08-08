@@ -484,6 +484,12 @@ hr {
 
 /* Articles / categories */
 
+.articles-total {
+  color: var(--color-muted);
+  font-size: 0.9rem;
+  margin-block: 0.5rem 0;
+}
+
 .category-grid {
   list-style: none;
   padding: 0;
