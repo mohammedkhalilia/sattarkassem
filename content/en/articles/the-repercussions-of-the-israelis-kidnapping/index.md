@@ -1,0 +1,61 @@
+---
+title: "The Repercussions of the Israelis' Kidnapping"
+date: 2014-06-18
+draft: false
+categories: ["Israeli-Palestinian Conflict"]
+tags: []
+original_language: "ar"
+original_file: "/originals/articles/%D8%AA%D8%AF%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA%20%D8%AE%D8%B7%D9%81%20%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%8A%D9%86.docx"
+source_name: "صوت الأقصى"
+source_url: "https://alaqsavoice.ps/post/137804/تداعيات-خطف-الإسرائيليين"
+translated_from: "the-repercussions-of-the-israelis-kidnapping"
+translation_status: "complete"
+---
+
+### by Dr. Abdul-Sattar Kassem
+
+The news of the kidnapping of settlers or Israeli soldiers broke a stunning silence in the West Bank, which had suffered from the stagnation of the Palestinian resistance for years. People in the West Bank had grown accustomed to lethargy and indolence, distracting themselves with consumer matters instead of national causes. People thought the breath of resistance had died in the West Bank, and that it had become merely a playground for the Israeli army and settlers. The soldiers' kidnapping operation came as a powerful blow that shook hearts and awakened national feelings and sentiments, instilling new hopes in people that blend love of homeland with the requirements of sacrifice and self-devotion. The kidnapping operation was vital in awakening the national conscience among many people, and the people still needs further shocks to shake off the dust accumulated over the years.
+
+**Facts About the Kidnapping**
+
+To avoid falling into flawed analysis, it is necessary to highlight the following facts, without which no analysis can be precise:
+
+1. The kidnapping operation is real, not merely an Israeli play staged for ulterior purposes. Israel declared the disappearance of the soldiers or settlers to be a kidnapping, and did not declare this until after examining its various criteria for classifying something as a kidnapping. Israel is not usually hasty in its announcements, and relies on its experts before politicians' tongues start issuing statements.
+
+2. We still know nothing, so far, about the party behind the kidnapping. Netanyahu declared that Hamas was behind it, but did not present proof, only circumstantial evidence. Circumstantial evidence is not sufficient for proof. Hamas has announced nothing, nor has anyone else in the Palestinian arena. We can speculate that Hamas is the one who carried out the kidnapping, given its considerable capabilities and the spread of its members across the West Bank. Hamas has previously announced that kidnapping Israelis constitutes a new strategy for it, aimed at freeing Palestinian prisoners from Zionist jails. It is currently the season of the Palestinian administrative detainees' strike, and kidnapping Israelis instills hope among Palestinians generally, and among the strikers especially. It is clear Israel will not respond to demands for releasing prisoners, and will not do so unless forced to. An exchange is a way of forcing Israel, and it has no alternative to an exchange when its own sons fall captive.
+
+3. Israel is floundering in its words and actions, and this is a victory for the kidnappers, since they have denied Israel any thread of information to build upon. Israeli leaders make statements without any factual basis. Netanyahu declares Hamas is behind it without possessing any information. Lieberman, for his part, says Israel will not exchange prisoners. This statement betrays naivety and ignorance, as though Lieberman had never read the history of prisoner exchange operations between Israel and Palestinians.
+
+4. The kidnappers are professional in security terms, in that they left nothing behind pointing to themselves, and made no statements that could help Israel track them. The kidnappers followed precise security standards unmatched in the Palestinian arena throughout the years of resistance against the occupation.
+
+**Security Diligence**
+
+If the kidnappers are Palestinian, the operation indicates a development in Palestinian security concepts, and a new security strategy relying on strict secrecy. Over time, the Palestinian resistance grew careless about secrecy and its importance in confronting the occupation, remaining exposed to Israeli and Arab security infiltrations, to the point that a Palestinian resistance fighter would inform on himself, especially by confiding his secrets to others out of a desire to boast and prove his heroism. The Palestinian people has paid a heavy price as a result of this security laxity, and Israel has been able to easily reach resistance fighters because of its infiltration of their ranks, and its knowledge of the finest details of the resistance fighters' activities.
+
+Years ago, Hamas and Islamic Jihad began a new security plan aimed at cleansing the resistance's ranks of agents and spies, and the two movements achieved clear success in this field, evident during the two wars Israel waged on the Gaza Strip, but the two movements have not yet managed to cleanse the ranks of the masses of these agents, especially since Hamas faces a great deal of criticism whenever it arrests a spy, on the grounds that it is arresting Palestinian civilians. Hamas tries to justify its conduct, but internal Palestinian bickering has provided protection for agents and spies, giving them guarantees of safety and encouraging them to work with Israel.
+
+The kidnapping operation, if Palestinians carried it out, indicates that Hamas's security sense has developed considerably. Hamas has previously kidnapped soldiers but failed because of security carelessness. Here I recall the kidnapping operation of soldier Waxman, where Hamas lost the operation because of a phone call. This time, the kidnappers did not use a cell phone, nor any electronic device, nor any means of communication of any other kind. Resistance fighters have come to fully understand that an electronic signal is no longer theirs the moment it leaves the device, and that all Palestinian means of communication are entirely penetrated by the Israelis, whether landline or electronic. It is also important to note that it is possible the kidnappers got rid of their own communication devices, fearing Israel might be able to locate the devices and thereby find the location of the kidnappers and the kidnapped.
+
+**Holding the Kidnapped**
+
+Holding the kidnapped is not an easy operation — it is as complex as the kidnapping operation itself. There is a need for a suitable location fit for human life, enjoying an environment that preserves secrecy. The location is supposed to be secret and far from people's eyes and from Israeli eavesdropping and listening devices. The location is supposed to be hygienic, so as not to damage the health of the kidnapped and the kidnappers, and to preserve their lives. It must also be equipped with sanitation, water, bathrooms, air conditioning, television, and so on. Importantly, the entrances to the location must not be exposed to view, and must be camouflaged in a way that creates confusion for onlookers.
+
+The Palestinian Authority once discovered a Hamas hideout in the village of Awarta, south of Nablus. The hideout was astonishing in its design and equipment, to the point that the bathroom moved electrically, without the onlooker suspecting it was movable. It was clear the place was prepared for kidnapping Israelis, but the Palestinian Authority did its duty toward Israeli security and got rid of the place. It was also reported that the Palestinian Authority discovered another similar location in the Jourah area of Hebron. This indicates Hamas was preparing and getting ready to implement its strategy of kidnapping Israeli soldiers. If Hamas is the one that kidnapped the settlers, it must have prepared the location in advance. Of course, an operation of this kind requires a long time of planning and preparation, or failure would be its lot. Several days have passed since the kidnapping, up to the time of writing this article, and there is no indication Israel has found a thread to build upon, which suggests the operation is tightly run, and that the kidnappers have managed matters well in hiding the captives. Had they not managed matters well, they would have killed the captives and rid themselves of the burden of holding them.
+
+**The West Bank and Gaza Under Retaliation**
+
+As usual, Israel will take harsh, savage measures against the people in the West Bank and Gaza Strip. The campaign has begun in the West Bank, raiding homes in the city of Hebron and some neighboring towns such as Dura, Bani Naim, and Yatta, and the squeeze will increase over the days, extending to the destruction and demolition of homes. Israel has also arrested eighty Hamas members, members of the Legislative Council whose term has expired especially. Israel is likely to reinstate checkpoints on the main roads between cities in order to restrict residents' movement and complicate their daily lives. Israel usually resorts to collective punishment to create a rift and a wide gap between the Palestinian public and the resistance. Israel and the Palestinian Authority always try to convey a message to people that the resistance is the cause of their suffering, and that were it not for the resistance, Israel would not carry out its repressive acts. In other words, the two work to place responsibility on the resistance, not the occupation. There are Palestinians who buy this fallacious logic, which places the sin on the homeland's own owner in favor of the homeland's usurper. The Palestinian Authority has long been keen on the assertion that the Palestinian people's security derives from Israel's security, and that if Palestinians want to live in calm, they must respect Israeli security. This is what the security apparatuses mean when they say they are defending Palestinian security.
+
+As for the Gaza Strip, Israel is likely to widen the circle of its targeting to include sites in the Strip. Many military sites belonging to the Palestinian resistance will be bombed, along with civilian sites and institutions as well. The circle may widen to include assassinations of political leaders from Hamas and Jihad.
+
+On another note, Egypt is likely to further intensify its siege of the Gaza Strip to strangle both Gaza and Hamas together. The Egyptian army is now clamping down on the Strip, and further pressure turns hearts against Hamas. But Hamas may find an opportunity to revive its former alliance with the forces of resistance in the region. Hamas has been harmed by some of its positions on certain crises in the region, and its relations with Iran and Hezbollah may return to what they once were.
+
+**The Effect on the People**
+
+The people of Palestine felt a sense of strength following the announcement of the kidnapping operation, even without certainty about the party behind it. The Palestinian people has been insulted and humiliated for years, no longer even able to walk freely on public roads in the West Bank, which have become a stage for settlers. The Israelis have gone to extremes in their aggression against the people and against Al-Aqsa, without Palestinians being able to respond or take revenge. This operation instilled a kind of spirit among Palestinians, and this spirit will be instilled even more clearly if it is confirmed to people that the kidnappers are Palestinian. Palestinians will pay a price because of the resulting Israeli assaults, but they are prepared to endure it for the sake of their dignity and honor.
+
+For Israel, the operation constitutes a great insult to the Israeli security apparatuses and the Israeli army. Israeli intelligence has been dealt a severe blow, proving that Israeli intelligence is not an octopus, and that all its measures and methods can be circumvented if a scientific, calculating Palestinian mind is available. The Israeli army's prestige has been struck, and Israel will suffer a great defeat if it fails to find the captives and is ultimately forced to accept a prisoner exchange.
+
+---
+
+**Source:** Translated from the original Arabic, ["تداعيات خطف الإسرائيليين"]({{< ref path="/articles/the-repercussions-of-the-israelis-kidnapping" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

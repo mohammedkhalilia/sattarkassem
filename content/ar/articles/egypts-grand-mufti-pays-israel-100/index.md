@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D9%81%D8%AA%D9%8A%20%D9%85%D8%B5%D8%B
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/94541/مفتي-مصر-يدفع-100-دولار-لإسرائيل"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

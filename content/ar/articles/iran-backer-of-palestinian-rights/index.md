@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%20%D8%B8%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/159982/إيران-ظهير-الحقوق-الفلسطينية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

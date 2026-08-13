@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D9%87%D8%B2%D9%84%D8%A9%20%D8%A7%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/155677/مهزلة-الإعلام-العربي"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

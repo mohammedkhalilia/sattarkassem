@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9%20%D8%B
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/180238/معادلة-عسكرية-جديدة-بين-سوريا-والصهاينة"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

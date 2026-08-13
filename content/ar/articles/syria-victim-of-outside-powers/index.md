@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%20%D8%B6%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/181260/سوريا-ضحية-القوى-الخارجية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

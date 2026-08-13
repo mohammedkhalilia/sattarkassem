@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%AD%D9%85%D9%84%D8%A9%20%D9%85%D9%82%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/25388/حملة-مقاضاة-بريطانيا"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%82%D8%A7%D8%B9%20%D8%A7%D9%84%D8%A7%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/28006/قاع-الانحدار-الفلسطيني"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

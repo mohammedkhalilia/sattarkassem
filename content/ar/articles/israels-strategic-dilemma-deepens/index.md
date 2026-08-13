@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D8%A3%D8%B2%D9%82%20%D8%A5%D8%B3%D8%B
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/83537/مأزق-إسرائيل-الاستراتيجي-يتعمق"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

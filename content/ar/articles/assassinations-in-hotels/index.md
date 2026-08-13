@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%D8%A7%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/50373/اغتيالات-في-الفنادق"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

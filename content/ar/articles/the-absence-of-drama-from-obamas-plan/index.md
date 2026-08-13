@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%BA%D9%8A%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/42529/غياب-الدراما-عن-خطة-أوباما"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

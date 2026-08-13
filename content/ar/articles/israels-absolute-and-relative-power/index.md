@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%82%D9%88%D8%A9%20%D8%A5%D8%B3%D8%B1%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/171967/قوة-إسرائيل-المطلقة-والنسبية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

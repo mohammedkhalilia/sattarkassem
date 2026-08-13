@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D8%A3%D9%85%D9%85%20%D8%A7%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/187450/الأمم-المتحدة-في-ميزان-ريما-خلف"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

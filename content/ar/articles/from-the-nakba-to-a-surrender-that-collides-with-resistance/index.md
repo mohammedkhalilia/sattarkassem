@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D9%86%20%D8%A7%D9%84%D9%86%D9%83%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/190954/من-النكبة-إلى-استسلام-يصطدم-بالمقاومة"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

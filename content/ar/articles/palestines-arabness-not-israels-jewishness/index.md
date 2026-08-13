@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%B9%D8%B1%D9%88%D8%A8%D8%A9%20%D9%81%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/130896/عروبة-فلسطين-لا-يهودية-إسرائيل"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

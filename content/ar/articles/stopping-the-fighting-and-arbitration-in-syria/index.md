@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%88%D9%82%D9%81%20%D8%A7%D9%84%D9%82%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/130669/وقف-القتال-والتحكيم-في-سوريا"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%AA%D8%BA%D9%8A%D9%8A%D8%A8%20%D9%82%D8%B
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/142614/تغييب-قضيىة-اللاجئين-عن-الخطاب-السياسي-الفلسطيني"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

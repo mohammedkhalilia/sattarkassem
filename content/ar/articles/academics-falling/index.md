@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/159550/أكاديميون-يتساقطون"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

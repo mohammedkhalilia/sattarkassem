@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%AA%D8%B1%D9%85%D8%A8%20%D9%88%D8%A7%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/197499/ترمب-والقدس-انتهاك-عروس-عروبتنا"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%81%D9%86%20%D8%B5%D9%86%D8%A7%D8%B9%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/192797/فن-صناعة-الأزمة"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

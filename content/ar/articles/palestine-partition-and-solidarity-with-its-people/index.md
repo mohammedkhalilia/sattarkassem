@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86...%20%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/165725/فلسطين-التقسيم-والتضامن-مع-شعبها"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

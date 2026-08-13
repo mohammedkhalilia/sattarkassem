@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%AF%D8%A7%D9%8A%D8%AA%D9%88%D9%86..%20%D8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/37215/دايتون-زعيم-فلسطين"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

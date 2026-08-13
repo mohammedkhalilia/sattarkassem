@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9%20%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/22562/مراجعة-لكتاب-الحياة-مفاوضات"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

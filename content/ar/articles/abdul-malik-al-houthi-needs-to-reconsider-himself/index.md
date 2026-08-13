@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D8%B7%D9%84%D9%88%D8%A8%20%D9%85%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/149424/مطلوب-من-عبد-الملك-الحوثي-مراجعة-نفسه"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

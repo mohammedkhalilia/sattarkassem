@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/27343/الأوروبيون-يكافئون-إسرائيل"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

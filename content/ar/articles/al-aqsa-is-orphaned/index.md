@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89%20%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/143888/الأقصى-يتيم"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

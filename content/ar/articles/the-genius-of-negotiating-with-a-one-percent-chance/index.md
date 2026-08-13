@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%B9%D8%A8%D9%82%D8%B1%D9%8A%D8%A9%20%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/62100/عبقرية-التفاوض-باحتمال-واحد-في-المية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

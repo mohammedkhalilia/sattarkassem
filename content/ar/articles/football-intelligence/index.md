@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%2
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/46035/مخابرات-كرة-القدم"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

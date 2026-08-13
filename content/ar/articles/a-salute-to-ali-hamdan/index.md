@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%AA%D8%AD%D9%8A%D8%A9%20%D8%A5%D9%84%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/44019/تحية-إلى-علي-حمدان"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

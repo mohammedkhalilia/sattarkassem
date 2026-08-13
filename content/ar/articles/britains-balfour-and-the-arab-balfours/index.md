@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A8%D9%84%D9%81%D9%88%D8%B1%20%D8%A7%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/25167/بلفور-البريطاني-وبلفورون-العرب"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

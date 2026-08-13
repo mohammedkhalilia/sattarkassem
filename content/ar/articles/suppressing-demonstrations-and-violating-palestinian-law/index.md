@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%82%D9%85%D8%B9%20%D8%A7%D9%84%D9%85%D8%B
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/204069/قمع-المظاهرات-وانتهاك-القوانين-الفلسطينية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

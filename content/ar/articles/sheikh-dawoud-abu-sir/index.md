@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%AF%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/141000/الشيخ-داود-أبو-سير"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

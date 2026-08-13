@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D8%A6%D8%A9%20%D8%B9%D8%A7%D9%85%20%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/168795/مئة-عام-على-سايكس-بيكو"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

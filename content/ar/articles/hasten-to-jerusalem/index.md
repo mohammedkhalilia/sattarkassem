@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%AD%D9%8A%D9%91%20%D8%B9%D9%84%D9%89%20%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/192486/حي-على-القدس"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

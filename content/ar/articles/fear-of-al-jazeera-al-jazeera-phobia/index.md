@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D8%AE%D9%88%D9%81%20%D9%85%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/38089/الخوف-من-الجزيرة-الجزيرة-فوبيا"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

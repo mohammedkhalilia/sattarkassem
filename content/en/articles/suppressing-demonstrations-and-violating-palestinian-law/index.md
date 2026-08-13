@@ -1,0 +1,37 @@
+---
+title: "Suppressing Demonstrations and Violating Palestinian Law"
+date: 2018-06-23
+draft: false
+categories: ["Palestinian Politics"]
+tags: []
+original_language: "ar"
+original_file: "/originals/articles/%D9%82%D9%85%D8%B9%20%D8%A7%D9%84%D9%85%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA%20%D9%88%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%20%D8%A7%D9%84%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9.docx"
+source_name: "صوت الأقصى"
+source_url: "https://alaqsavoice.ps/post/204069/قمع-المظاهرات-وانتهاك-القوانين-الفلسطينية"
+translated_from: "suppressing-demonstrations-and-violating-palestinian-law"
+translation_status: "complete"
+---
+
+### by Dr. Abdul-Sattar Kassem
+
+The Palestinian Authority committed two crimes when it suppressed the Ramallah demonstration in solidarity with the Gaza Strip. The first crime lay in unleashing the security services against the demonstrators, who behaved barbarically and brutally toward the sons of the Palestinian people; the second crime was that it violated Palestinian laws guaranteeing freedom of expression for all citizens.
+
+Regarding the first crime, the Palestinian Authority behaved extremely foolishly, doing itself harm before the Palestinian masses, both those taking part in the demonstration and those not. Instead of building itself a good image, the Authority behaved shamelessly, painting itself an extremely ugly picture that drew heated popular criticism. Here the saying applies to the Authority: "O God, let their own scheming be their undoing." The conduct was extremely foolish, indicating an absence of sound advice, guidance, and trustworthy advisers. It is clear the Authority acts with arrogance, without scientific study, without consulting experts on crowd behavior. This is the problem of those who monopolize power. In every Arab country there is a so-called "know-it-all," someone who knows everything and has no need of experts or learned advisers. In the Palestinian case, Mahmoud Abbas is the know-it-all, holding the reins of security, legislative, and executive affairs, and how numerous his mistakes and ill-considered actions are.
+
+The Palestinian Authority did the Palestinian people great harm when images appeared on television screens of citizens being beaten and some dragged through the street, and images of girls and women being beaten. Many in the world feel for Gaza, feel its suffering, and stand in solidarity with it, while Palestinian beats Palestinian and arrests him for standing in solidarity with Gaza. This is disgrace itself. And among the most severe images of disgrace is that this beating and repression coincided with Palestinian demonstrations held in support of Abbas — that is, in support of his measures against the Gaza Strip. Peoples take to the streets to defend Gaza and lift the siege, while Palestinian crowds take to the streets in support of the torment of the people of Gaza. This points powerfully to the weakness of Palestinian national culture.
+
+It appears the Authority reconsidered, however, at the Bethlehem demonstration, treating the demonstrators there in a brotherly manner and offering them water.
+
+As for the second crime, it lies in the Palestinian Authority's contempt for Palestinian law. Some say the Palestinian Authority is careful to apply the laws, applying them justly, without discrimination between one citizen and another. This is a lie, and the greatest proof of it is that the president of the Palestinian Authority himself violates the PLO's revolutionary law, violates the Palestinian Authority's Basic Law, suspends the work of the Legislative Council, and issues decree-laws without any legal basis, and no one holds him accountable. In doing so, he creates the very strife and problems that tear the Palestinian people apart. His violation of the laws is clear and needs no legal experts to establish, yet the police do not move against him to check his conduct and ensure sound governance for the people. How many times have people been arrested on the pretext of "creating strife," by order of the Palestinian attorney general, while the very head of law-violation and strife-creation remains far removed from arrest? In suppressing the demonstrations, the Palestinian Authority violated the law on freedom of opinion and expression, cast democratic values aside, and the attorney general did not move to arrest the violators.
+
+The Palestinian Authority says it did not intend to violate the laws, but merely intended to prevent disruption to citizens during the blessed Eid al-Fitr holiday, on the premise that the demonstrations obstructed traffic and the movement of citizens and pedestrians in streets crowded with shoppers. This justification is uglier than the offense itself. Our streets are chaos all the time, violations of traffic rules by cars and pedestrians are countless, and there is no police force, save for a rare few, working to organize traffic. The justification is naive, showing contempt for people's intelligence.
+
+The question is: if the Authority does not want to disrupt people in the streets of the West Bank, why does it work to disrupt the lives of the people of Gaza through its own measures? Are the people of the West Bank children of purity, while the people of Gaza are children of sin? Note that the West Bank's solidarity with Gaza came very late, and only after sharp criticism was directed at people in Ramallah, Nablus, and Hebron. A culture of Palestinian solidarity ought to have been entrenched through various educational, pedagogical, and media programs, making people understand that the hardship befalling part of the Palestinian people befalls everyone, and the good that befalls part befalls everyone. Regrettably, however, the culture of solidarity, mutual support, and collective work is largely absent from minds, and is not an educational priority for the Palestinian Authority. It is clear that, for the Authority, a fragmented people is far preferable to a cohesive one, because fragmentation grants the Authority freedom to make concessions and cooperate with the occupation. Based on this corrupt social philosophy, the assessment was that reconciliation would never happen, and that Palestinian national unity is not an official Palestinian goal.
+
+It was clear, before the various media outlets, that the demonstrations supporting Gaza proceeded within the norms of peaceful protest. The demonstrators assaulted no one, touched no private or public property, and spread no chaos in the street. It was the Authority that assaulted, the Authority that spread chaos in the street, the Authority that conveyed an ugly image of the Palestinian people to the world.
+
+The Palestinian Authority, the Zionists, the Western states, and some Arab states had hoped the siege, the harsh measures, and the wars against the Gaza Strip would incite the people of Gaza against Palestinian resistance, forcing it to give up its weapons — but this did not happen. What happened instead is that the people of the West Bank began taking to the streets to pressure the Authority not to take part in the siege on Gaza. The magic has turned against the magicians, and instead of their hope of eliminating the resistance being reinforced, they have come to fear the backlash instead.
+
+---
+
+**Source:** Translated from the original Arabic, ["قمع المظاهرات وانتهاك القوانين الفلسطينية"]({{< ref path="/articles/suppressing-demonstrations-and-violating-palestinian-law" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%B9%D9%83%D8%A7%20%D9%88%D9%88%D8%AD%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/24116/عكا-ووحدة-الشعب-الفلسطيني"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

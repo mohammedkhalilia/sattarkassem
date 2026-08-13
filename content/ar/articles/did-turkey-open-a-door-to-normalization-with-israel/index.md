@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%87%D9%84%20%D9%81%D8%AA%D8%AD%D8%AA%20%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/177142/هل-فتحت-تركيا-بابا-للتطبيع-مع-إسرائيل"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

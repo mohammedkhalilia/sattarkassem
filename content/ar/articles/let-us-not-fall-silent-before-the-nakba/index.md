@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%84%D9%8D%20%D9%86%D8%AE%D8%B1%D8%B3%20%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/17797/ل-نخرس-أمام-النكبة"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D8%B3%D9%88%D8%AF%D8%A9%20%D8%A7%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/24592/مسودة-اتفاق-القاهرة"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

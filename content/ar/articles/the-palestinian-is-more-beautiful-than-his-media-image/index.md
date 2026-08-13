@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/52029/الفلسطيني-أجمل-من-الصورة-الإعلامية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%AA%D8%B0%D9%83%D9%8A%D8%B1%20%D8%A8%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/171722/تذكير-بانتهاك-القوانين-واغتصاب-السلطة"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

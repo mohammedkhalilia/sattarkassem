@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/146836/العراقيل-الاجتماعية-أمام-الحراك-العربي"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

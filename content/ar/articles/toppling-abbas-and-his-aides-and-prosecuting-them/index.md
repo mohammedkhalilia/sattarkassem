@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A5%D8%B3%D9%82%D8%A7%D8%B7%20%D8%B9%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/185978/إسقاط-عباس-ومعاونيه-وملاحقتهم-قضائيا"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

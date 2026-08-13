@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%B9%D8%A8%D8%AB%D9%8A%D8%A9%20%D8%A7%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/181644/عبثية-العقوبات-الغربية-على-الدول"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

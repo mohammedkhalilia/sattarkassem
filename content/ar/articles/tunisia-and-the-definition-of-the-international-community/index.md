@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%AA%D9%88%D9%86%D8%B3%20%D9%88%D8%AA%D8%B
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/70375/تونس-وتعريف-المجتمع-الدولي"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

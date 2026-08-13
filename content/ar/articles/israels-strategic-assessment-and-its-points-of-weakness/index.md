@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D8%B1%2
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/185736/التقدير-الإستراتيجي-الإسرائيلي-وإسقاط-نقاط-الضعف"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

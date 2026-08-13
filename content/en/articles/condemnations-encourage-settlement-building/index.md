@@ -1,0 +1,29 @@
+---
+title: "Condemnations Encourage Settlement Building"
+date: 2017-02-02
+draft: false
+categories: ["Israeli-Palestinian Conflict"]
+tags: []
+original_language: "ar"
+original_file: "/originals/articles/%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA%20%D8%AA%D8%B4%D8%AC%D8%B9%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B7%D8%A7%D9%86.docx"
+source_name: "صوت الأقصى"
+source_url: "https://alaqsavoice.ps/post/185378/الإدانات-تشجع-الاستيطان"
+translated_from: "condemnations-encourage-settlement-building"
+translation_status: "complete"
+---
+
+### by Dr. Abdul-Sattar Kassem
+
+Israel confiscates the land and builds the houses, while we carry a stack of papers, chasing after them with condemnations and denunciations, and carry stacks of banknotes to buy plane tickets, searching for a savior for us across the four corners of the world. And this is how we defeat them: they build small houses to shelter households and families, while we sleep in five-star hotels. We are the more refined, the more civilized, the more learned and knowledgeable. They save their money and deny themselves indulgence, while we squander, overspend, and indulge our appetites amid the absence of our national conscience.
+
+Across all these long years, before Israel's establishment and after it, we have delivered rousing speeches and let loose a flood of absurd, trivial statements, without ever taking the practical steps needed to save our land and save ourselves. Before 1948, most of Palestine's feudal leaders sold land to the Zionists, and we ourselves contributed forcefully to building the settlements, as laborers; we conspired against the peasants, and the wealthy among us exploited their hardship and poverty to buy up their land and later smuggle it away. And after 1967, we showed no fear of God, neither for ourselves nor for the sons of our own people. Money came flowing into the West Bank and Gaza, and the poor benefited from only the meagerest trickle of it. The Joint Committee's funds were supposed to be allocated to financially support farmers and workers so they could build horizontal housing, and I challenge anyone to find a single worker in the West Bank or Gaza who received a loan of four thousand dinars to build a small house of two rooms, a kitchen, and a living room. Where did the money go? And where is the Authority's money now? All we see is more taxes on people, and more transaction fees. It is understood that the Authority wants to collect money to pay salaries — but the question is: what forced you to establish an authority when you knew perfectly well that the sources of financing lay in the hands of enemies, not in ours? And what forced you to employ this enormous number of staff when you cannot even pay their salaries? And do you not know that whoever depends on his enemy for financing does not truly want a free political will, does not want a homeland, or a state, or even a shack atop a mountain?
+
+Do you want to stop settlement construction? If the answer is yes, then we must first rid ourselves of the recognition of Israel, and of all the consequences that have followed from it since the Palestinian National Council's meeting in Algiers in 1988. The recognition of Israel and the signing of Oslo have brought upon us calamities, catastrophes, entanglements, divisions, internecine fighting, and ever more settlement building and Zionist arrogance. Has the time not come for us to reexamine ourselves and acknowledge our national sins? Or must we wait until we all end up outside our own homes, our homeland, our properties, our mountains, our valleys, our plains, our olive groves, and our neighborhoods? Until when? Were you God-fearing, I would appeal to you in His name, but you insist on committing abominations and continuing in your transgression.
+
+The second thing we must do concerns the land itself. I know you have handed the matter of the land over to Israel, and I would be mad to think you are free to act on the land even in Area A — but it remains possible to rebel and act immediately to register and subdivide the land, so that every person can deal freely with what he owns. People must be allowed to build on any plot of land without restriction, and must be encouraged to spread out. That is, the "five-dunum minimum" rule must be scrapped, and the fees for registering and subdividing land must be cut to nearly zero. Indeed, foreign financial support ought to be directed toward supporting construction and building. Agriculture must then be encouraged, and measures taken against anyone who fails to make use of his own land. We are not short of practical means to confront settlement building, particularly if we free ourselves of our security commitments toward the settlers and toward Israel generally. But this requires a radical political change, because the leadership currently in place — which is itself illegitimate — is unfit for the task, and it is the very leadership that has dragged us up to our ears into calamities and burdens.
+
+And please, do not issue condemnations, because condemnation carries two messages we do not want. The first message goes to Israel, and it says: do whatever you want, because all we are capable of is condemnation, denunciation, censure, warning, and threat — in other words, we tell them: rest assured, settle the land, and be certain of it. The second message goes to the Palestinian people, and it says: we do not deserve life, because we are a helpless, paralyzed people with neither power nor strength — and whoever finds strength within himself ought to keep it for himself, rather than use it where he cannot even applaud alone.
+
+---
+
+**Source:** Translated from the original Arabic, ["الإدانات تشجع الاستيطان"]({{< ref path="/articles/condemnations-encourage-settlement-building" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%82%D8%B6%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/169661/قضاء-الحكم-الذاتي-الفلسطيني"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%86%D8%A7%D9%84%D9%88%D8%A7%20%D9%85%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/199567/نالوا-من-أحمد-جرار-فسقط-رمزا-وشهيدا"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

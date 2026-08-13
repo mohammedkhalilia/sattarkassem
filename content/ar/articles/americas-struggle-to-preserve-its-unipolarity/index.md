@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%B5%D8%B1%D8%A7%D8%B9%20%D8%A3%D9%85%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/120069/صراع-أميركا-لبقاء-أحاديتها-القطبية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D8%B4%D8%B9%D9%84%20%D9%88%D8%A7%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/127998/مشعل-والمصالحة"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

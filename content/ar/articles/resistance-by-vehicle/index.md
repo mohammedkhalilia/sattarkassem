@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/23485/المقاومة-بالمركبات"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

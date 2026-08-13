@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%AD%D9%85%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/123243/حمامات-النساء-ومصيبة-الفساد"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

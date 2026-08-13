@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D9%86%20%D8%A3%D8%AD%D8%B1%D9%82%20%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/158935/من-أحرق-الطفل-علي-دوابشة"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

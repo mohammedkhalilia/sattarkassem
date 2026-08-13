@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%A9%20%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/85836/الحرية-في-الفكر-الإسلامي-دراسة-فكرية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

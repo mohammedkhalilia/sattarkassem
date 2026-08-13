@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AC%D8%AF%2
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/183310/المستجد-في-السياسة-الخارجية-الروسية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

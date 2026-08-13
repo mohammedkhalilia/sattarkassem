@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%B3%D9%86%D9%86%D8%AA%D8%B8%D8%B1%20%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/107330/سننتظر-الانتخابات-الإسرائيلية-القادمة"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

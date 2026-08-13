@@ -1,0 +1,35 @@
+---
+title: "Interests Above Humanity, O Gaza"
+date: 2008-11-27
+draft: false
+categories: ["Israeli-Palestinian Conflict"]
+tags: []
+original_language: "ar"
+original_file: "/originals/articles/%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD%20%D9%81%D9%88%D9%82%20%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9%20%D9%8A%D8%A7%20%D8%BA%D8%B2%D8%A9.docx"
+source_name: "صوت الأقصى"
+source_url: "https://alaqsavoice.ps/post/26577/المصالح-فوق-الإنسانية-يا-غزة"
+translated_from: "interests-above-humanity-oh-gaza"
+translation_status: "complete"
+---
+
+### by Dr. Abdul-Sattar Kassem
+
+Were whoever occupies others humane, he would never occupy at all — he occupies because he sees that his interests demand it. Israel occupied the land in 1967 not out of mercy for the Palestinians, nor in order to return the refugees to the land occupied in '48, but in order to bring Arabs and Palestinians to their knees — not merely at the level of already-kneeling rulers, but at the level of peoples. It occupied in order to erase Arab and Palestinian consciousness, and to become the sole decision-maker in the Arab-Islamic region, with the endorsement of peoples who were supposed to have been re-educated in a new way — one that shows contempt for Arab history, the holy sites, and the values of pride and dignity, and instead venerates the concepts of normalization, understanding the other, and recognizing his interests and his right to the holy land.
+
+But this does not mean that whoever falls under occupation, or endures it patiently, is innocent. Weakness breeds the greed of the greedy, and whoever weakens himself is, in effect, inviting others to ride him — and in this there is great injustice against oneself.
+
+I listen to many media outlets, hearing correspondents and analysts asking about the world that ought to rescue the distressed, about human values, and the values of human rights. The question is mostly marked by naivety, and perhaps the most naive correspondents of all are those who turn to the Arab regimes, appealing to them to lift the siege on Gaza. This world, save for a small few, besieged the Palestinian people from the moment Hamas won the Legislative Council elections, blocked money from reaching the Palestinian people, with the Arab regimes carrying the banner of the siege and imposing a ban on the entry of funds, leaving employees without salaries for months. The Arab regimes, Israel, the Western states, and every state taking orders from them hoped the people would rise up against Hamas, turn against it, and bring it down through Palestinian popular action, sparing the champions of democracy the embarrassment that would come from directly striking down democracy's own results.
+
+The world and the Arab regimes caught their breath as they awaited the end of the Arab-Zionist conflict, so they might finally rest from the burdens of the Palestinian cause, and showed great patience while luring the Palestinian people into abandoning its national rights and accepting civil rights under Zionist sovereignty. The world had achieved a great deal in this direction, and then Hamas came along to spoil the project and set matters back years. The Arab regimes were struck with disappointment, and so were Israel, America, and those with them. The siege remained, the pressure continued, aided by Palestinians who worked to manufacture events that increased pressure on Hamas and distracted it from implementing any useful, constructive program. Of course, Hamas bears part of the responsibility, in that it hesitated and contented itself with mere reactions.
+
+Israel and America released their grip on the West Bank, but pressure on Gaza continued, so that it would kneel before need just as the West Bank knelt. The pressure will continue today, tomorrow, and the day after. But they will not allow the tight siege to continue, because they learned a lesson from the destruction of the makeshift border between Palestine and Egypt, and I do not think they want to see that experience repeated. The era of the tight, airtight siege ended the day Gaza's crowds overran the border, but it will remain harsh, in the hope that it produces a popular explosion against Hamas and brings it down. The problem for those besieging Gaza now is not the human dimension, but knowing the fine line between a popular explosion that topples Hamas, and a popular explosion that topples the border. Which of the two will happen? They do not want an explosion against the border, so they open it a little; they want an explosion against Hamas, so they close it a lot. The problem, in their calculations, lies within this range between the little that is required and the much that is desired.
+
+In this equation, there are no human values, and those besieging Gaza give no thought to human values. They think of the resulting consequences, and think in terms of profits and losses. They might consider easing the siege if they sense, for instance, that harm might come to them because of media activity. These are calculations of profit and loss, unrelated to the grief and pain of the innocent. To those besieging Gaza — the Arab regimes, Israel, America, and those who follow their lead — people are mere tools; they use people's pain, grief, and suffering to achieve political ends and goals. People must suffer and be tormented, in the hope they are driven into the streets to tear apart Ismail Haniyeh, al-Zahar, and Said Siam, to pursue members of the Qassam Brigades, burn their homes, and push their women and children into the sea. People are the tools of those whom some now appeal to, asking them to be humane.
+
+There are Arab leaders demanding Israel lift the siege on Gaza, and King Abdullah of Jordan went so far as to send a few trucks loaded with consumer goods. The Arab leaders are liars, inciting Israel to intensify its pressure on Gaza and on all Palestinians. These are rulers who flog their own peoples — how could they not flog the Palestinian people? As for King Abdullah, he always rushes to gestures of this kind because the Jordanian street is sensitive to what happens in Palestine, not because Arab chivalry has taken hold of him. The Jordanian regime cannot afford to disown its own history, and it was not created, in the first place, except to be the buffer zone protecting the Zionists and Israel.
+
+Patience is painful, but salvation lies within it. Whoever cries "ouch" first has lost, and God has kept His promise to the patient. What the people of Gaza are waging is a battle against injustice through sacrifice — the loftiest of human meanings, one that does not trade pride for food. The Zionists will open the crossings, even if only partially, but the pressure must be directed at Egypt, so that it sheds the humiliation of Camp David, frees itself from Zionist constraints, and opens the border. And Egypt need not fear the people of Gaza — they have no intention of occupying it!
+
+---
+
+**Source:** Translated from the original Arabic, ["المصالح فوق الإنسانية يا غزة"]({{< ref path="/articles/interests-above-humanity-oh-gaza" lang="ar" >}}) by Dr. Abdul-Sattar Kassem.

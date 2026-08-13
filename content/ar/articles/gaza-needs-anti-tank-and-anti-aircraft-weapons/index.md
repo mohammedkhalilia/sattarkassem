@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%BA%D8%B2%D8%A9%20%D8%A8%D8%AD%D8%A7%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/131065/غزة-بحاجة-لمضادات-دبابات-وطائرات"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

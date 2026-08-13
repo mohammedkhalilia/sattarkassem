@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86%2
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/94912/التضامن-مع-الأسرى-الفلسطينيين"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

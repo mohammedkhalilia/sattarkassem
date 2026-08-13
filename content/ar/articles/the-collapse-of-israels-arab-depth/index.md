@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1%20%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/72051/انهيار-العمق-العربي-لإسرائيل"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

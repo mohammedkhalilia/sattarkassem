@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%B3%D9%81%D8%A7%D8%B1%D8%A7%D8%AA%20%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/171342/سفارات-فلسطين-فساد-وتسيب-أمني"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

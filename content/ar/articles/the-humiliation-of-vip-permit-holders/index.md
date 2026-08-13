@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A8%D9%87%D8%AF%D9%84%D8%A9%20%D8%A3%D8%B
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/58549/بهدلة-أصحاب-ال-في-آي-بي-vip"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

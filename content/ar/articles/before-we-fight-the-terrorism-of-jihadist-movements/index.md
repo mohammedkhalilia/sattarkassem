@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%82%D8%A8%D9%84%20%D8%A3%D9%86%20%D9%86%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/166224/قبل-أن-نحارب-إرهاب-الحركات-الجهادية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

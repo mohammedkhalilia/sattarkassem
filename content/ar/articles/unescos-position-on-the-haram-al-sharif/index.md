@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D9%88%D9%82%D9%81%20%D8%A7%D9%84%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/181343/موقف-اليونيسكو-من-الحرم-القدسي"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

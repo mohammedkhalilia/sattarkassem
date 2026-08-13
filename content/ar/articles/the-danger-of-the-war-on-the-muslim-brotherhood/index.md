@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%AE%D8%B7%D9%88%D8%B1%D8%A9%20%D8%A7%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/149564/خطورة-الحرب-على-الإخوان-المسلمين"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

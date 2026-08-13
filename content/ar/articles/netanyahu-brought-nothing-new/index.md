@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%86%D8%AA%D9%86%20%D9%8A%D8%A7%D9%87%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/35954/نتن-ياهو-لم-يأت-بجديد"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

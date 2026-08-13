@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%87%D8%AC%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/167301/هجرة-العقول-العربية-من-المسؤول"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

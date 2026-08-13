@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D8%AD%D8%B0%D8%A7%D8%A1%20%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/27466/الحذاء-العظيم"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

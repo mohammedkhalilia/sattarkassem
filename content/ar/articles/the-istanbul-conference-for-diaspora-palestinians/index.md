@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D8%A4%D8%AA%D9%85%D8%B1%20%D8%A7%D8%B
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/186901/مؤتمر-اسطنبول-لفلسطينيي-الشتات"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

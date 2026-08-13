@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%20%D9%88%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/40918/تركيا-وحل-القضية-الفلسطينية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

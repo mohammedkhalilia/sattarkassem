@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A3%D9%8A%D9%86%20%D8%A7%D9%84%D9%82%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/200749/أين-القدس-في-الزمجرة-النارية-العربية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

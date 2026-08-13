@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%B6%D8%A9%2
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/163151/انتفاضة-القدس"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D9%8A%D8%B2%D8%A7%D9%86%20%D8%A7%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/85128/ميزان-القوى-والبحث-عن-دولة-فلسطينية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

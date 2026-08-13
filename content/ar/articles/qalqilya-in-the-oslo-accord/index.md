@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%82%D9%84%D9%82%D9%8A%D9%84%D9%8A%D8%A9%2
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/34934/قلقيلية-في-اتفاق-أوسلو"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

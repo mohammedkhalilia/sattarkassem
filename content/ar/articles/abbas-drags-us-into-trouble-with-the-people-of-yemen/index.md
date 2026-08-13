@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%B9%D8%A8%D8%A7%D8%B3%20%D9%8A%D9%88%D8%B
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/151951/عباس-يورطنا-مع-أهل-اليمن"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

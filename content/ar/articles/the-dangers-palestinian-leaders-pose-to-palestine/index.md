@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A3%D8%AE%D8%B7%D8%A7%D8%B1%20%D9%82%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/43190/أخطار-قيادات-فلسطينية-على-فلسطين"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

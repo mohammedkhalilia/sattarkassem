@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84%20%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/77477/مستقبل-القضية-الفلسطينية"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

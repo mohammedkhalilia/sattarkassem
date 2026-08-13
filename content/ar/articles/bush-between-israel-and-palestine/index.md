@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A8%D9%88%D8%B4%20%D8%A8%D9%8A%D9%86%20%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/12175/بوش-بين-إسرائيل-وفلسطين"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

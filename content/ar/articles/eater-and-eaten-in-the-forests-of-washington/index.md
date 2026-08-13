@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A2%D9%83%D9%84%D9%8C%20%D9%88%D9%85%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/62590/آكل-ومأكول-في-غابات-واشنطن"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

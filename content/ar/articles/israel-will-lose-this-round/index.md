@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%2
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/12673/إسرائيل-ستخسر-الجولة"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

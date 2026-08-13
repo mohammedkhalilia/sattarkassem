@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%B9%D9%85%D9%84%D9%8A%D8%A9%20%D8%A7%D9%8
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/144827/عملية-القدس-قراءة-في-الأبعاد"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

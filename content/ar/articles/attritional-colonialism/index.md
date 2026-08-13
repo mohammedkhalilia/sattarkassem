@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/144668/الاستعمار-الاستنزافي"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم

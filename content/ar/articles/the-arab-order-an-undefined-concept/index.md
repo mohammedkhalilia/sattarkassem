@@ -9,7 +9,7 @@ original_file: "/originals/articles/%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85%20%D8%A
 source_name: "صوت الأقصى"
 source_url: "https://alaqsavoice.ps/post/174394/النظام-العربي-مفهوم-غير-معرف"
 translated_from: ""
-translation_status: "pending"
+translation_status: "complete"
 ---
 
 ### الدكتور عبد الستار قاسم
