@@ -1,0 +1,21 @@
+{{ define "main" }}
+<article class="single-page press-single">
+  <h1>{{ .Title }}</h1>
+  <div class="press-byline">
+    {{ with .Params.source_logo }}<img class="press-source-logo" src="{{ . | relURL }}" alt="{{ $.Params.source_name }}">{{ end }}
+    {{ if .Params.source_url }}
+      <a class="press-source-link" href="{{ .Params.source_url }}" target="_blank" rel="noopener noreferrer">{{ .Params.source_name }}</a>
+    {{ else }}
+      {{ with .Params.source_name }}<span class="press-source">{{ . }}</span>{{ end }}
+    {{ end }}
+    {{ if .Date }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>{{ end }}
+  </div>
+  {{ $thumb := .Params.thumbnail | default .Params.source_logo }}
+  {{ with $thumb }}
+    <img class="press-cover" src="{{ . | relURL }}" alt="{{ $.Title }}">
+  {{ end }}
+  <div class="content-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

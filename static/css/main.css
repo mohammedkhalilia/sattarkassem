@@ -1052,6 +1052,130 @@ body.lightbox-open {
   color: var(--color-muted);
 }
 
+/* Press */
+
+.press-grid {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  gap: 1.5rem;
+}
+
+.press-card a {
+  display: block;
+  height: 100%;
+  text-decoration: none;
+  color: var(--color-text);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: var(--shadow-card);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+.press-card a:hover {
+  border-color: var(--color-accent);
+  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-2px);
+}
+
+.press-thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: var(--color-bg);
+}
+
+.press-card-body {
+  padding: 1rem 1.1rem 1.2rem;
+}
+
+.press-source-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-block-end: 0.5rem;
+}
+
+.press-source-logo {
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: contain;
+  border-radius: 0.2rem;
+}
+
+.press-source {
+  font-size: 0.8rem;
+  font-family: var(--font-sans);
+  color: var(--color-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.press-card h2 {
+  font-family: var(--font-serif);
+  font-size: 1.1rem;
+  line-height: 1.4;
+  margin: 0 0 0.35rem;
+}
+
+.press-card time {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--color-muted);
+  margin-block-end: 0.5rem;
+}
+
+.press-snippet {
+  font-size: 0.92rem;
+  color: var(--color-muted);
+  margin: 0;
+}
+
+.press-byline {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-block-end: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.press-byline .press-source-logo {
+  width: 1.75rem;
+  height: 1.75rem;
+}
+
+.press-source-link {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  color: var(--color-accent);
+  text-decoration: none;
+  border-block-end: 1px solid transparent;
+}
+
+.press-source-link:hover {
+  border-block-end-color: var(--color-accent);
+}
+
+.press-byline time {
+  font-size: 0.9rem;
+  color: var(--color-muted);
+}
+
+.press-cover {
+  display: block;
+  width: 100%;
+  max-height: 24rem;
+  object-fit: cover;
+  border-radius: 0.5rem;
+  margin-block-end: 1.5rem;
+  box-shadow: var(--shadow-card);
+}
+
 .translations {
   margin-block-start: 2rem;
   padding-block-start: 1rem;

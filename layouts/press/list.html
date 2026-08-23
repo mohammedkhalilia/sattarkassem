@@ -1,0 +1,36 @@
+{{ define "main" }}
+<article class="section-page press-page">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ $pages := .Pages }}
+  {{ if $pages }}
+    <ul class="press-grid">
+      {{ range $pages.ByDate.Reverse }}
+        {{ $page := . }}
+        {{ $thumb := $page.Params.thumbnail | default $page.Params.source_logo }}
+        <li class="press-card">
+          <a href="{{ $page.RelPermalink }}">
+            {{ with $thumb }}
+              <img class="press-thumb" src="{{ . | relURL }}" alt="{{ $page.Title }}" loading="lazy">
+            {{ end }}
+            <div class="press-card-body">
+              <div class="press-source-row">
+                {{ with $page.Params.source_logo }}
+                  <img class="press-source-logo" src="{{ . | relURL }}" alt="{{ $page.Params.source_name }}" loading="lazy">
+                {{ end }}
+                {{ with $page.Params.source_name }}<span class="press-source">{{ . }}</span>{{ end }}
+              </div>
+              <h2>{{ $page.Title }}</h2>
+              {{ if $page.Date }}<time datetime="{{ $page.Date.Format "2006-01-02" }}">{{ $page.Date.Format "2006-01-02" }}</time>{{ end }}
+              {{ $snippet := $page.Params.summary | default $page.Summary }}
+              {{ with $snippet }}<p class="press-snippet">{{ . }}</p>{{ end }}
+            </div>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  {{ else }}
+    <p class="empty-note">{{ T "no_content_yet" }}</p>
+  {{ end }}
+</article>
+{{ end }}
