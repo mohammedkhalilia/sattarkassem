@@ -102,6 +102,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .content-body p, .chapter-page .content-body p {
   margin-block: 1.15em;
+  text-align: justify;
+  text-align-last: start;
 }
 
 a {
