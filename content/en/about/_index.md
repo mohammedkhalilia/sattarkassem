@@ -3,7 +3,7 @@ title: "Biography"
 photo: "/images/about/sattar_in_garden.jpg"
 ---
 
-Dr. Abdul-Sattar Tawfiq Kassem Al-Khader Khalilieh was a Palestinian writer, thinker, and academic, and one of the most prominent voices to oppose both the Israeli occupation and the policies of the Palestinian Authority — a stance that brought him a long record of persecution and detention from both sides over the course of his life.
+Dr. Abdul-Sattar Kassem was a Palestinian writer, thinker, and academic, and one of the most prominent voices to oppose both the Israeli occupation and the policies of the Palestinian Authority — a stance that brought him a long record of persecution and detention from both sides over the course of his life.
 
 ### Early Life and Education
 
