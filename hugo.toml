@@ -6,6 +6,10 @@ defaultContentLanguageInSubdir = true
 
 enableRobotsTXT = true
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-SPZMQTB971'
+
 [languages]
   [languages.ar]
     label = 'العربية'
