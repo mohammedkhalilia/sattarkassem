@@ -63,3 +63,6 @@ other = "لا توجد نتائج."
 
 [total_articles]
 other = "إجمالي عدد المقالات: {{.Count}}"
+
+[meta_category_description]
+other = "مقالات الدكتور عبد الستار قاسم عن {{.Term}} ({{.Count}} مقالة)."

@@ -66,3 +66,6 @@ other = "No results found."
 
 [total_articles]
 other = "Total articles: {{.Count}}"
+
+[meta_category_description]
+other = "Dr. Abdul-Sattar Kassem's articles about {{.Term}} ({{.Count}} articles)."

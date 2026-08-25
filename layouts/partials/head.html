@@ -2,8 +2,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {{- $pageTitle := print (cond .IsHome "" (print .Title " &middot; ")) site.Title | safeHTML }}
 {{- $desc := site.Params.description }}
-{{- with .Params.summary }}{{ $desc = . }}{{ end }}
-{{- if not .Params.summary }}{{ with .Summary }}{{ $desc = . | plainify }}{{ end }}{{ end }}
+{{- if eq .Kind "term" }}
+  {{- $desc = i18n "meta_category_description" (dict "Term" .Title "Count" (len .Pages)) }}
+{{- else }}
+  {{- with .Params.summary }}{{ $desc = . }}{{ end }}
+  {{- if not .Params.summary }}{{ with .Summary }}{{ $desc = . | plainify }}{{ end }}{{ end }}
+{{- end }}
 {{- $desc = $desc | plainify | replaceRE `^\s*(by Dr\. Abdul-Sattar Kassem|الدكتور عبد الستار قاسم)\s*` "" | truncate 160 }}
 {{- $image := .Params.photo | default "/images/about/sattar_in_garden.jpg" | absURL }}
 <title>{{ $pageTitle }}</title>

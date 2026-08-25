@@ -19,6 +19,7 @@ enableRobotsTXT = true
     title = 'عبد الستار قاسم'
     [languages.ar.params]
       direction = 'rtl'
+      description = "أرشيف كتابات ومؤلفات وسيرة الدكتور عبد الستار قاسم، الكاتب والأكاديمي والشخصية السياسية الفلسطينية."
 
   [languages.en]
     label = 'English'
@@ -28,6 +29,7 @@ enableRobotsTXT = true
     title = 'Abdul-Sattar Kassem'
     [languages.en.params]
       direction = 'ltr'
+      description = "The archive of the writings, books, and life of Dr. Abdul-Sattar Kassem — Palestinian author, academic, and political figure."
 
 [params]
   description = "The archive of the writings, books, and life of Dr. Abdul-Sattar Kassem — Palestinian author, academic, and political figure."
