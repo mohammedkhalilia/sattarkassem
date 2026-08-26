@@ -37,6 +37,6 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', '{{ . }}', { 'content_group': '{{ site.Language.Lang }}' });
+  gtag('config', '{{ . }}', { 'language': '{{ site.Language.Lang }}' });
 </script>
 {{ end }}{{ end }}
