@@ -7,6 +7,9 @@
   </header>
   <div class="book-layout">
     <div class="book-intro content-body">{{ .Content }}</div>
+    {{ if and (eq .Language.Lang "en") (eq .Params.original_language "ar") }}
+      <p class="ai-translation-notice">{{ T "ai_translation_notice" }}</p>
+    {{ end }}
     {{ with .Params.cover }}
       <div class="book-cover-col">
         <img class="book-cover" src="{{ . | relURL }}" alt="{{ $.Title }}">

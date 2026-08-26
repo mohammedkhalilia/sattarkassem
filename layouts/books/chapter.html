@@ -17,6 +17,9 @@
     <p class="chapter-book-link"><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></p>
     <h1>{{ .Title }}</h1>
     <div class="content-body">{{ .Content }}</div>
+    {{ if and (eq .Language.Lang "en") (eq .Params.original_language "ar") }}
+      <p class="ai-translation-notice">{{ T "ai_translation_notice" }}</p>
+    {{ end }}
     {{ $siblings := .Parent.Pages.ByWeight }}
     {{ $current := $.RelPermalink }}
     {{ $index := -1 }}
