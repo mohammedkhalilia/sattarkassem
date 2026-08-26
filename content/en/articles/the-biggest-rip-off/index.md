@@ -2,7 +2,7 @@
 title: "The Biggest Rip-off"
 date: 2010-04-19
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["Corruption and Public Funds"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A3%D9%83%D8%A8%D8%B1%20%D8%AE%D8%A7%D8%B2%D9%88%D9%82.doc"

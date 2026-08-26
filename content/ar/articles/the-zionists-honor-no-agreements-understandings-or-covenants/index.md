@@ -2,7 +2,7 @@
 title: "الصهاينة لا يلتزمون باتفاقيات أو تفاهمات أو مواثيق"
 date: 2018-08-18
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%B5%D9%87%D8%A7%D9%8A%D9%86%D8%A9%20%D9%84%D8%A7%20%D9%8A%D9%84%D8%AA%D8%B2%D9%85%D9%88%D9%86%20%D8%A8%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%88%20%D8%AA%D9%81%D8%A7%D9%87%D9%85%D8%A7%D8%AA%20%D8%A3%D9%88%20%D9%85%D9%88%D8%A7%D8%AB%D9%8A%D9%82.docx"

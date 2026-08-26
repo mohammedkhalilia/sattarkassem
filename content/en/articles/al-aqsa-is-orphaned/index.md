@@ -2,7 +2,7 @@
 title: "Al-Aqsa Is Orphaned"
 date: 2014-11-06
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Jerusalem and Al-Aqsa"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89%20%D9%8A%D8%AA%D9%8A%D9%85.docx"

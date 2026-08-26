@@ -2,7 +2,7 @@
 title: "نابلس ستعود"
 date: 2004-03-10
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المقاومة: استراتيجية وانتفاضات"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%86%D8%A7%D8%A8%D9%84%D8%B3%20%D8%B3%D8%AA%D8%B9%D9%88%D8%AF.doc"

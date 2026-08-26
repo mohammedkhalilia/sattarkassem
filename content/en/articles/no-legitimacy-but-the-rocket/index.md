@@ -2,7 +2,7 @@
 title: "No Legitimacy But the Legitimacy of the Rocket"
 date: 2013-06-05
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Resistance: Strategy and Uprisings"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%84%D8%A7%20%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9%20%D8%A5%D9%84%D8%A7%20%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B5%D8%A7%D8%B1%D9%88%D8%AE.docx"

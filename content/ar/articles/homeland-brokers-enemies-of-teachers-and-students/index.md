@@ -2,7 +2,7 @@
 title: "سماسرة الوطن أعداء المعلم وأعداء الطالب"
 date: 2013-11-23
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الفساد والمال العام"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B3%D9%85%D8%A7%D8%B3%D8%B1%D8%A9%20%D8%A7%D9%84%D9%88%D8%B7%D9%86%20%D8%A3%D8%B9%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85%20%D9%88%D8%A3%D8%B9%D8%AF%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8.docx"

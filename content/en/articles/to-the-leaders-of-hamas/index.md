@@ -2,7 +2,7 @@
 title: "To the Brothers, Leaders of Hamas"
 date: 2007-08-14
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A5%D9%84%D9%89%20%D8%A7%D9%84%D8%A5%D8%AE%D9%88%D8%A9%20%D9%82%D8%A7%D8%AF%D8%A9%20%D8%AD%D9%85%D8%A7%D8%B3.doc"

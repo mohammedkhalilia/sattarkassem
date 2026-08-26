@@ -2,7 +2,7 @@
 title: "نقاط ضعف المفاوض الفلسطيني في القاهرة"
 date: 2014-08-23
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%86%D9%82%D8%A7%D8%B7%20%D8%B6%D8%B9%D9%81%20%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9.doc"

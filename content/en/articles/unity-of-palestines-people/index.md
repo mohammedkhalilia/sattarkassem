@@ -2,7 +2,7 @@
 title: "The Unity of Palestine's People"
 date: 2012-12-01
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%88%D8%AD%D8%AF%D8%A9%20%D8%B4%D8%B9%D8%A8%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc"

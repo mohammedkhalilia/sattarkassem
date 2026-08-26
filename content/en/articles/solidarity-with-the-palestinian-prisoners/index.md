@@ -2,7 +2,7 @@
 title: "Solidarity with the Palestinian Prisoners"
 date: 2012-05-06
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Resistance: Strategy and Uprisings"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D9%89%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86.docx"

@@ -2,7 +2,7 @@
 title: "القدس تنتقم"
 date: 2017-01-14
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["القدس والأقصى"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D9%82%D8%AF%D8%B3%20%D8%AA%D9%86%D8%AA%D9%82%D9%85.docx"

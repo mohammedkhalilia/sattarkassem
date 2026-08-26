@@ -2,7 +2,7 @@
 title: "قمع المظاهرات وانتهاك القوانين الفلسطينية"
 date: 2018-06-23
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%82%D9%85%D8%B9%20%D8%A7%D9%84%D9%85%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA%20%D9%88%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%20%D8%A7%D9%84%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9.docx"

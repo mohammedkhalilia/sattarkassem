@@ -2,7 +2,7 @@
 title: "تحرير أسرى فلسطين"
 date: 2007-07-23
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المقاومة: استراتيجية وانتفاضات"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1%20%D8%A3%D8%B3%D8%B1%D9%89%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc"

@@ -2,7 +2,7 @@
 title: "حمامات النساء ومصيبة الفساد"
 date: 2013-11-02
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الفساد والمال العام"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AD%D9%85%D8%A7%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1%20%D9%88%D9%85%D8%B5%D9%8A%D8%A8%D8%A9%20%D8%A7%D9%84%D9%81%D8%B3%D8%A7%D8%AF.docx"

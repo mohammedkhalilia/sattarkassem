@@ -2,7 +2,7 @@
 title: "The Palestinian Dialoguers Are Liars"
 date: 2007-06-04
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%A7%D9%88%D8%B1%D9%88%D9%86%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86%20%D9%83%D8%A7%D8%B0%D8%A8%D9%88%D9%86.doc"

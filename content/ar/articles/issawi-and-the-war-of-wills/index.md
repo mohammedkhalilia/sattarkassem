@@ -2,7 +2,7 @@
 title: "العيساوي وحرب الإرادات"
 date: 2013-04-24
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["حروب غزة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%B9%D9%8A%D8%B3%D8%A7%D9%88%D9%8A%20%D9%88%D8%AD%D8%B1%D8%A8%20%D8%A7%D9%84%D8%A5%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA.doc"

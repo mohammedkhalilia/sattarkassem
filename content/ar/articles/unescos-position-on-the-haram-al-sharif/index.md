@@ -2,7 +2,7 @@
 title: "موقف اليونيسكو من الحرم القدسي"
 date: 2016-10-22
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["القدس والأقصى"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D9%88%D9%82%D9%81%20%D8%A7%D9%84%D9%8A%D9%88%D9%86%D9%8A%D8%B3%D9%83%D9%88%20%D9%85%D9%86%20%D8%A7%D9%84%D8%AD%D8%B1%D9%85%20%D8%A7%D9%84%D9%82%D8%AF%D8%B3%D9%8A.docx"

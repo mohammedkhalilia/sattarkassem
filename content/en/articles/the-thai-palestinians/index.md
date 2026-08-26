@@ -2,7 +2,7 @@
 title: "The 'Thai' Palestinians"
 date: 2011-06-16
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86%20%D8%A7%D9%84%D8%AA%D8%A7%D9%8A%D9%84%D8%A7%D9%86%D8%AF%D9%8A%D9%88%D9%86.doc"

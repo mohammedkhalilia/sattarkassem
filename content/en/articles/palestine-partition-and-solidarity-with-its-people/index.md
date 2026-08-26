@@ -2,7 +2,7 @@
 title: "Palestine... Partition and Solidarity with Its People"
 date: 2015-12-01
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Negotiations and the Oslo Accords"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86...%20%D8%A7%D9%84%D8%AA%D9%82%D8%B3%D9%8A%D9%85%20%D9%88%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86%20%D9%85%D8%B9%20%D8%B4%D8%B9%D8%A8%D9%87%D8%A7.docx"

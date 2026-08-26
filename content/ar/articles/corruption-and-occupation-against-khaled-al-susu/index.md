@@ -2,7 +2,7 @@
 title: "الفساد والاحتلال ضد خالد السوسو"
 date: 2003-01-25
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الفساد والمال العام"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D9%81%D8%B3%D8%A7%D8%AF%20%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84%20%D8%B6%D8%AF%20%D8%AE%D8%A7%D9%84%D8%AF%20%D8%A7%D9%84%D8%B3%D9%88%D8%B3%D9%88.doc"

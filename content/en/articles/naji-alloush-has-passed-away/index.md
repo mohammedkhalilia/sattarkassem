@@ -2,7 +2,7 @@
 title: "Naji Alloush Has Passed Away"
 date: 2012-07-29
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%86%D8%A7%D8%AC%D9%8A%20%D8%B9%D9%84%D9%88%D8%B4%20%D9%81%D9%8A%20%D8%B0%D9%85%D8%A9%20%D8%A7%D9%84%D9%84%D9%87.docx"

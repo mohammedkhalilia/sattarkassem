@@ -2,7 +2,7 @@
 title: "Toppling Abbas and His Aides and Prosecuting Them"
 date: 2017-02-16
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A5%D8%B3%D9%82%D8%A7%D8%B7%20%D8%B9%D8%A8%D8%A7%D8%B3%20%D9%88%D9%85%D8%B9%D8%A7%D9%88%D9%86%D9%8A%D9%87%20%D9%88%D9%85%D9%84%D8%A7%D8%AD%D9%82%D8%AA%D9%87%D9%85%20%D9%82%D8%B6%D8%A7%D8%A6%D9%8A%D8%A7.docx"

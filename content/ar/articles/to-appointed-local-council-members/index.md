@@ -2,7 +2,7 @@
 title: "إلى رؤساء وأعضاء المجالس المحلية المعينين"
 date: 2004-04-08
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A5%D9%84%D9%89%20%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1%20%D9%88%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1%20%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84%D8%B3%20%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D8%A9.doc"

@@ -2,7 +2,7 @@
 title: "لٍ نخرس أمام النكبة"
 date: 2008-05-15
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المقاومة: استراتيجية وانتفاضات"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%84%D9%8D%20%D9%86%D8%AE%D8%B1%D8%B3%20%D8%A3%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D9%86%D9%83%D8%A8%D8%A9.docx"

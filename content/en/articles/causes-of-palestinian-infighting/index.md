@@ -2,7 +2,7 @@
 title: "The Causes of Palestinian Infighting"
 date: 2007-05-22
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%AA%D8%A7%D9%84%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc"

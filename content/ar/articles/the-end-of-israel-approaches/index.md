@@ -2,7 +2,7 @@
 title: "نهاية إسرائيل تقترب"
 date: 2015-01-22
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المقاومة: استراتيجية وانتفاضات"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%86%D9%87%D8%A7%D9%8A%D8%A9%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%20%D8%AA%D9%82%D8%AA%D8%B1%D8%A8.docx"

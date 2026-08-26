@@ -2,7 +2,7 @@
 title: "The Draft Cairo Agreement"
 date: 2008-10-22
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D8%B3%D9%88%D8%AF%D8%A9%20%D8%A7%D8%AA%D9%81%D8%A7%D9%82%20%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9.docx"

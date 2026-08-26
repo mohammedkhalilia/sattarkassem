@@ -2,7 +2,7 @@
 title: "يجب أن ندافع عن أنفسنا"
 date: 2010-04-12
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المقاومة: استراتيجية وانتفاضات"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%8A%D8%AC%D8%A8%20%D8%A3%D9%86%20%D9%86%D8%AF%D8%A7%D9%81%D8%B9%20%D8%B9%D9%86%20%D8%A3%D9%86%D9%81%D8%B3%D9%86%D8%A7.doc"

@@ -2,7 +2,7 @@
 title: "مراجعة لكتاب الحياة مفاوضات"
 date: 2008-09-02
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9%20%D9%84%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9%20%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA.docx"

@@ -2,7 +2,7 @@
 title: "Jerusalem Is Protected by Its People"
 date: 2012-02-22
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Jerusalem and Al-Aqsa"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D9%82%D8%AF%D8%B3%20%D9%8A%D8%AD%D9%85%D9%8A%D9%87%D8%A7%20%D8%A3%D9%87%D9%84%D9%87%D8%A7.doc"

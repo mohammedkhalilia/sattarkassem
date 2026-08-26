@@ -2,7 +2,7 @@
 title: "Israel's Strategic Dilemma Deepens"
 date: 2011-09-13
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Resistance: Strategy and Uprisings"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D8%A3%D8%B2%D9%82%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%20%D9%8A%D8%AA%D8%B9%D9%85%D9%82.docx"

@@ -2,7 +2,7 @@
 title: "Hamas's Underground Tunnel"
 date: 2012-09-25
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B3%D8%B1%D8%AF%D8%A7%D8%A8%20%D8%AD%D9%85%D8%A7%D8%B3.doc"

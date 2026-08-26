@@ -2,7 +2,7 @@
 title: "The Assassination of Engineer al-Zawari"
 date: 2017-01-02
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Resistance: Strategy and Uprisings"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%20%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1%D9%8A.docx"

@@ -2,7 +2,7 @@
 title: "فلسطين في زيارة البابا"
 date: 2009-05-24
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%D8%A7.docx"

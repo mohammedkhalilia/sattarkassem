@@ -2,7 +2,7 @@
 title: "Palestine for a Dollar"
 date: 2011-07-12
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["Corruption and Public Funds"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D8%A8%D8%AF%D9%88%D9%84%D8%A7%D8%B1.doc"

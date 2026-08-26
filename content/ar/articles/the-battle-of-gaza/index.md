@@ -2,7 +2,7 @@
 title: "معركة غزة"
 date: 2008-12-30
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["حروب غزة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D8%B9%D8%B1%D9%83%D8%A9%20%D8%BA%D8%B2%D8%A9.doc"

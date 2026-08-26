@@ -2,7 +2,7 @@
 title: "تدمير نابلس"
 date: 2004-06-06
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المقاومة: استراتيجية وانتفاضات"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D8%AF%D9%85%D9%8A%D8%B1%20%D9%86%D8%A7%D8%A8%D9%84%D8%B3.doc"

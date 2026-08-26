@@ -2,7 +2,7 @@
 title: "الأمن لإسرائيل ولا أمن لفلسطين"
 date: 2018-07-29
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%88%D9%84%D8%A7-%D8%A3%D9%85%D9%86-%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.docx"

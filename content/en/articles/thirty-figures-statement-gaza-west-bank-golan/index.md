@@ -2,7 +2,7 @@
 title: "A Statement Signed by Thirty Figures from Gaza, the West Bank, and the Golan"
 date: 2005-03-07
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A8%D9%8A%D8%A7%D9%86%20%D9%88%D9%82%D8%B9%D9%87%20%D8%AB%D9%84%D8%A7%D8%AB%D9%88%D9%86%20%D9%85%D9%86%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%A7%D8%AA%20%D8%BA%D8%B2%D8%A9%20%D9%88%D8%A7%D9%84%D8%B6%D9%81%D8%A9.doc"

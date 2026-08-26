@@ -2,7 +2,7 @@
 title: "نكبتنا في أنفسنا"
 date: 2008-05-15
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%86%D9%83%D8%A8%D8%AA%D9%86%D8%A7%20%D9%81%D9%8A%20%D8%A3%D9%86%D9%81%D8%B3%D9%86%D8%A7.doc"

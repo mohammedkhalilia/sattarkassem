@@ -2,7 +2,7 @@
 title: "من أحرق الطفل علي دوابشة؟"
 date: 2015-08-04
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المقاومة: استراتيجية وانتفاضات"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D9%86%20%D8%A3%D8%AD%D8%B1%D9%82%20%D8%A7%D9%84%D8%B7%D9%81%D9%84%20%D8%B9%D9%84%D9%8A%20%D8%AF%D9%88%D8%A7%D8%A8%D8%B4%D8%A9%D8%9F.docx"

@@ -2,7 +2,7 @@
 title: "سفارات فلسطين.. فساد وتسيب أمني"
 date: 2016-03-15
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الفساد والمال العام"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B3%D9%81%D8%A7%D8%B1%D8%A7%D8%AA%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86..%20%D9%81%D8%B3%D8%A7%D8%AF%20%D9%88%D8%AA%D8%B3%D9%8A%D8%A8%20%D8%A3%D9%85%D9%86%D9%8A.docx"

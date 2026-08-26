@@ -2,7 +2,7 @@
 title: "Where Did Israel Bomb Sudan From?"
 date: 2009-03-27
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Gaza Wars"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D9%86%20%D8%A3%D9%8A%D9%86%20%D9%82%D8%B5%D9%81%D8%AA%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%20%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86.docx"

@@ -2,7 +2,7 @@
 title: "معادلة صاروخية جديدة"
 date: 2012-03-16
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["حروب غزة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9%20%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%D9%8A%D8%A9%20%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9.doc"

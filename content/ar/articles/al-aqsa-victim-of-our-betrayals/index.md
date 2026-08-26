@@ -2,7 +2,7 @@
 title: "الأقصى ضحية خياناتنا"
 date: 2013-09-24
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["القدس والأقصى"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89%20%D8%B6%D8%AD%D9%8A%D8%A9%20%D8%AE%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%D9%86%D8%A7.doc"

@@ -2,7 +2,7 @@
 title: "ستعودون للقدس فاتحين"
 date: 2010-06-20
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["القدس والأقصى"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B3%D8%AA%D8%B9%D9%88%D8%AF%D9%88%D9%86%20%D9%84%D9%84%D9%82%D8%AF%D8%B3%20%D9%81%D8%A7%D8%AA%D8%AD%D9%8A%D9%86.doc"

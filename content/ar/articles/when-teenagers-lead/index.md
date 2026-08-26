@@ -2,7 +2,7 @@
 title: "عندما يقود المراهقون"
 date: 2014-03-18
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B9%D9%86%D8%AF%D9%85%D8%A7%20%D9%8A%D9%82%D9%88%D8%AF%20%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%87%D9%82%D9%88%D9%86.doc"

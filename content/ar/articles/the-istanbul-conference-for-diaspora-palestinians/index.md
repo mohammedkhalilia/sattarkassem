@@ -2,7 +2,7 @@
 title: "مؤتمر اسطنبول لفلسطينيي الشتات"
 date: 2017-03-11
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D8%A4%D8%AA%D9%85%D8%B1%20%D8%A7%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84%20%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%20%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%AA.docx"

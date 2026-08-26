@@ -2,7 +2,7 @@
 title: "تهجير الفلسطينيين"
 date: 2007-10-21
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المقاومة: استراتيجية وانتفاضات"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D9%87%D8%AC%D9%8A%D8%B1%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86.doc"

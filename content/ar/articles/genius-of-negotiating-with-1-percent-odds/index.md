@@ -2,7 +2,7 @@
 title: "عبقرية التفاوض باحتمال 1%"
 date: 2010-08-27
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B9%D8%A8%D9%82%D8%B1%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6%20%D8%A8%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%201%25.doc"

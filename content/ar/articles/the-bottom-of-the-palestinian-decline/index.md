@@ -2,7 +2,7 @@
 title: "قاع الانحدار الفلسطيني"
 date: 2008-12-25
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%82%D8%A7%D8%B9%20%D8%A7%D9%84%D8%A7%D9%86%D8%AD%D8%AF%D8%A7%D8%B1%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.docx"

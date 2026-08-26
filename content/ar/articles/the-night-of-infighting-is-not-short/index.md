@@ -2,7 +2,7 @@
 title: "ليل الاقتتال ليس قصيرا"
 date: 2006-12-15
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الانقسام والمصالحة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%AA%D8%A7%D9%84%20%D9%84%D9%8A%D8%B3%20%D9%82%D8%B5%D9%8A%D8%B1%D8%A7.doc"

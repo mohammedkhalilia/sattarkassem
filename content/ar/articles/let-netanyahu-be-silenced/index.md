@@ -2,7 +2,7 @@
 title: "لِ يخرس نتنياهو"
 date: 2011-03-07
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%84%D9%90%20%D9%8A%D8%AE%D8%B1%D8%B3%20%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88.docx"

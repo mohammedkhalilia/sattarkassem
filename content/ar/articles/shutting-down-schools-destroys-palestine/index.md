@@ -2,7 +2,7 @@
 title: "تعطيل المدارس تدمير لفلسطين"
 date: 2006-10-13
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الفساد والمال العام"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D8%B9%D8%B7%D9%8A%D9%84%20%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3%20%D8%AA%D8%AF%D9%85%D9%8A%D8%B1%20%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc"

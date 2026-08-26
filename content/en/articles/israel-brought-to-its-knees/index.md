@@ -2,7 +2,7 @@
 title: "Israel Brought to Its Knees"
 date: 2008-07-17
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Resistance: Strategy and Uprisings"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%20%D8%AA%D8%AC%D8%AB%D9%88.doc"

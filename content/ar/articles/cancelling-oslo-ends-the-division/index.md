@@ -2,7 +2,7 @@
 title: "إلغاء أوسلو ينهي الانقسام"
 date: 2011-02-23
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A5%D9%84%D8%BA%D8%A7%D8%A1%20%D8%A3%D9%88%D8%B3%D9%84%D9%88%20%D9%8A%D9%86%D9%87%D9%8A%20%D8%A7%D9%84%D8%A7%D9%86%D9%82%D8%B3%D8%A7%D9%85.doc"

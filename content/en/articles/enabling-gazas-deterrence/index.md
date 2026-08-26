@@ -2,7 +2,7 @@
 title: "Enabling Gaza's Deterrence"
 date: 2012-03-11
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Gaza Wars"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D9%85%D9%83%D9%8A%D9%86%20%D8%BA%D8%B2%D8%A9%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B1%D8%AF%D8%B9.doc"

@@ -2,7 +2,7 @@
 title: "American and Israeli Stupidity"
 date: 2009-03-20
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Negotiations and the Oslo Accords"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%BA%D8%A8%D8%A7%D8%A1%20%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%20%D9%88%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A.doc"

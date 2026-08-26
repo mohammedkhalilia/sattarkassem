@@ -2,7 +2,7 @@
 title: "لا تقلقوا على الرواتب"
 date: 2012-07-06
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الفساد والمال العام"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%84%D8%A7%20%D8%AA%D9%82%D9%84%D9%82%D9%88%D8%A7%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AA%D8%A8.doc"

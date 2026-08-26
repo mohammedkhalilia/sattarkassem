@@ -2,7 +2,7 @@
 title: "Israeli Dates Spoil the Fast"
 date: 2006-09-28
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Resistance: Strategy and Uprisings"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%AA%D9%85%D8%B1%20%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%20%D9%8A%D9%81%D8%B3%D8%AF%20%D8%A7%D9%84%D8%B5%D9%88%D9%85.doc"

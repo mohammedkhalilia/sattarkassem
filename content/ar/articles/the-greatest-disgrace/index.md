@@ -2,7 +2,7 @@
 title: "الخزي الأكبر"
 date: 2007-06-19
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%AE%D8%B2%D9%8A%20%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1.doc"

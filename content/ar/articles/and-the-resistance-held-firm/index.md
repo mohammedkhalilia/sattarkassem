@@ -2,7 +2,7 @@
 title: "وصمدت المقاومة"
 date: 2009-01-07
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المقاومة: استراتيجية وانتفاضات"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%88%D8%B5%D9%85%D8%AF%D8%AA%20%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9.doc"

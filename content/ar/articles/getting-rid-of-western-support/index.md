@@ -2,7 +2,7 @@
 title: "التخلص من الدعم الغربي"
 date: 2006-02-05
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الفساد والمال العام"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%AA%D8%AE%D9%84%D8%B5%20%D9%85%D9%86%20%D8%A7%D9%84%D8%AF%D8%B9%D9%85%20%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A.doc"

@@ -2,7 +2,7 @@
 title: "أرقصوا لعباس: راح ع أميركا، إجا من أميركا"
 date: 2014-03-20
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A3%D8%B1%D9%82%D8%B5%D9%88%D8%A7%20%D9%84%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%B1%D8%A7%D8%AD%20%D8%B9%20%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7%D8%8C%20%D8%A5%D8%AC%D8%A7%20%D9%85%D9%86.doc"

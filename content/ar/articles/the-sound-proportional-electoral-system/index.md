@@ -2,7 +2,7 @@
 title: "النظام الانتخابي النسبي السليم"
 date: 2009-10-28
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الانتخابات الفلسطينية"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D9%8A%20%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D9%85.doc"

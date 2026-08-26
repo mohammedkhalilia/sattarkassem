@@ -2,7 +2,7 @@
 title: "The Movement of Palestine's Youth"
 date: 2013-03-27
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D8%AD%D8%B1%D9%83%20%D8%B4%D8%A8%D8%A7%D8%A8%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc"

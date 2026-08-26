@@ -2,7 +2,7 @@
 title: "Hasten to Jerusalem"
 date: 2017-08-10
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Jerusalem and Al-Aqsa"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AD%D9%8A%D9%91%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%82%D8%AF%D8%B3.docx"

@@ -2,7 +2,7 @@
 title: "The Substitute Israel"
 date: 2017-10-14
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Negotiations and the Oslo Accords"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%20%D8%A7%D9%84%D8%B1%D8%AF%D9%8A%D9%81%D8%A9.docx"

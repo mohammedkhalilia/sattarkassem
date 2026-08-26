@@ -2,7 +2,7 @@
 title: "معالم الحرب القادمة"
 date: 2008-01-28
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["حروب غزة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D8%B9%D8%A7%D9%84%D9%85%20%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9.doc"

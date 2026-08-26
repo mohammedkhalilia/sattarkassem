@@ -2,7 +2,7 @@
 title: "أبو مازن يتحدى مشاعر شعب فلسطين"
 date: 2012-07-11
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A3%D8%A8%D9%88%20%D9%85%D8%A7%D8%B2%D9%86%20%D9%8A%D8%AA%D8%AD%D8%AF%D9%89%20%D9%85%D8%B4%D8%A7%D8%B9%D8%B1%20%D8%B4%D8%B9%D8%A8%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc"

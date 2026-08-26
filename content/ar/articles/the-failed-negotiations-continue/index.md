@@ -2,7 +2,7 @@
 title: "استمرار المفاوضات الفاشلة"
 date: 2014-04-14
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA%20%D8%A7%D9%84%D9%81%D8%A7%D8%B4%D9%84%D8%A9.docx"

@@ -2,7 +2,7 @@
 title: "Your Choice in Oslo Is Your Choice in Cairo"
 date: 2014-09-22
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AE%D9%8A%D8%A7%D8%B1%D9%83%D9%85%20%D9%81%D9%8A%20%D8%A3%D9%88%D8%B3%D9%84%D9%88%20%D8%AE%D9%8A%D8%A7%D8%B1%D9%83%D9%85%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9.docx"

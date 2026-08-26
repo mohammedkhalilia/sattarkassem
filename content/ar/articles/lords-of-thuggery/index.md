@@ -2,7 +2,7 @@
 title: "أمراء الزعرنة"
 date: 2006-01-03
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الانقسام والمصالحة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A3%D9%85%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B2%D8%B9%D8%B1%D9%86%D8%A9.doc"

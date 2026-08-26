@@ -2,7 +2,7 @@
 title: "شراء الحقوق الفلسطينية"
 date: 2008-06-12
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الفساد والمال العام"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B4%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%82%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9.doc"

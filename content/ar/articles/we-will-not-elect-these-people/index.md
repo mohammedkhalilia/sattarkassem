@@ -2,7 +2,7 @@
 title: "لن ننتخب هؤلاء:-"
 date: 2006-01-13
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الانتخابات الفلسطينية"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%84%D9%86%20%D9%86%D9%86%D8%AA%D8%AE%D8%A8%20%D9%87%D8%A4%D9%84%D8%A7%D8%A1%20-.doc"

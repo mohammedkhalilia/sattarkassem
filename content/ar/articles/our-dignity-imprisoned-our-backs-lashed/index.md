@@ -2,7 +2,7 @@
 title: "حياؤنا  محبوس وظهرنا محلوس"
 date: 2013-04-16
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AD%D9%8A%D8%A7%D8%A4%D9%86%D8%A7%20%D9%85%D8%AD%D8%A8%D9%88%D8%B3%20%D9%88%D8%B8%D9%87%D8%B1%D9%86%D8%A7%20%D9%85%D8%AD%D9%84%D9%88%D8%B3.doc"

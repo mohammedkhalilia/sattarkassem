@@ -2,7 +2,7 @@
 title: "الكذب على اللاجئين"
 date: 2013-05-15
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D9%83%D8%B0%D8%A8%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86.docx"

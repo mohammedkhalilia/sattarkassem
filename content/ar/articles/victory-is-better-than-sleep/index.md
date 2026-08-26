@@ -2,7 +2,7 @@
 title: "الانتصار خير من النوم"
 date: 2017-08-06
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المقاومة: استراتيجية وانتفاضات"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1%20%D8%AE%D9%8A%D8%B1%20%D9%85%D9%86%20%D8%A7%D9%84%D9%86%D9%88%D9%85.docx"

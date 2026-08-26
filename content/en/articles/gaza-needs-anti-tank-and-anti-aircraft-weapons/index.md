@@ -2,7 +2,7 @@
 title: "Gaza Needs Anti-Tank and Anti-Aircraft Weapons"
 date: 2014-03-01
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Gaza Wars"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%BA%D8%B2%D8%A9%20%D8%A8%D8%AD%D8%A7%D8%AC%D8%A9%20%D9%84%D9%85%D8%B6%D8%A7%D8%AF%D8%A7%D8%AA%20%D8%AF%D8%A8%D8%A7%D8%A8%D8%A7%D8%AA%20%D9%88%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA.docx"

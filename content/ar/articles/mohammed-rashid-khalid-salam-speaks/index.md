@@ -2,7 +2,7 @@
 title: "محمد رشيد (خالد سلام) يتكلم"
 date: 2012-05-24
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الفساد والمال العام"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D8%AD%D9%85%D8%AF%20%D8%B1%D8%B4%D9%8A%D8%AF%20%28%D8%AE%D8%A7%D9%84%D8%AF%20%D8%B3%D9%84%D8%A7%D9%85%29%20%D9%8A%D8%AA%D9%83%D9%84%D9%85.doc"

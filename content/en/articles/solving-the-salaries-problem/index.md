@@ -2,7 +2,7 @@
 title: "Solving the Salaries Problem"
 date: 2006-09-14
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["Corruption and Public Funds"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AD%D9%84%20%D9%85%D8%B4%D9%83%D9%84%D8%A9%20%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%AA%D8%A8.doc"

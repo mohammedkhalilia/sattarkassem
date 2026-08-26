@@ -2,7 +2,7 @@
 title: "انتفاضة القدس"
 date: 2015-10-20
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["القدس والأقصى"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%86%D8%AA%D9%81%D8%A7%D8%B6%D8%A9%20%D8%A7%D9%84%D9%82%D8%AF%D8%B3.docx"

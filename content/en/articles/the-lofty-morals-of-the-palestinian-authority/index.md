@@ -2,7 +2,7 @@
 title: "The Lofty Morals of the Palestinian Authority"
 date: 2009-10-05
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82%20%D8%A7%D9%84%D8%B1%D9%81%D9%8A%D8%B9%D8%A9%20%D9%84%D9%84%D8%B3%D9%84%D8%B7%D8%A9%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9.docx"

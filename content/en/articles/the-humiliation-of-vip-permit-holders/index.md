@@ -2,7 +2,7 @@
 title: "The Humiliation of VIP Permit Holders"
 date: 2010-06-19
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["Corruption and Public Funds"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A8%D9%87%D8%AF%D9%84%D8%A9%20%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8%20%D8%A7%D9%84%20%D9%81%D9%8A%20%D8%A2%D9%8A%20%D8%A8%D9%8A%20%28VIP%29.docx"

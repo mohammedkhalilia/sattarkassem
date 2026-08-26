@@ -2,7 +2,7 @@
 title: "إف 35 لإسرائيل"
 date: 2008-10-01
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["حروب غزة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A5%D9%81%2035%20%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84.doc"

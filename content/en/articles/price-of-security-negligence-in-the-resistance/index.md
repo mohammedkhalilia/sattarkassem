@@ -2,7 +2,7 @@
 title: "The Resistance's Own Security Failures Are Costing Us"
 date: 2003-03-15
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Resistance: Strategy and Uprisings"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7%D8%A1%20%D8%A8%D9%83%D8%AB%D8%B1%D8%A9%20%D9%8A%D8%AA%D8%AA%D8%A7%D8%A8%D8%B9%D9%88%D9%86.doc"

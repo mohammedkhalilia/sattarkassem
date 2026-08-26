@@ -2,7 +2,7 @@
 title: "الإصرار على بقاء غزة محتلة"
 date: 2008-04-16
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["حروب غزة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%A5%D8%B5%D8%B1%D8%A7%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%A8%D9%82%D8%A7%D8%A1%20%D8%BA%D8%B2%D8%A9%20%D9%85%D8%AD%D8%AA%D9%84%D8%A9.docx"

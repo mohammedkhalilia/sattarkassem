@@ -2,7 +2,7 @@
 title: "زيادة على رواتب الموظفين"
 date: 2010-08-23
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الفساد والمال العام"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9%20%D8%B9%D9%84%D9%89%20%D8%B1%D9%88%D8%A7%D8%AA%D8%A8%20%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86.docx"

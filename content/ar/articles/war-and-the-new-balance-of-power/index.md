@@ -2,7 +2,7 @@
 title: "الحرب وميزان القوى الجديد"
 date: 2010-05-27
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["حروب غزة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D9%88%D9%85%D9%8A%D8%B2%D8%A7%D9%86%20%D8%A7%D9%84%D9%82%D9%88%D9%89%20%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.doc"

@@ -2,7 +2,7 @@
 title: "I Spend My Money Defending Israel's Security"
 date: 2013-05-25
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Negotiations and the Oslo Accords"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A3%D9%86%D8%A7%20%D8%A3%D9%86%D9%81%D9%82%20%D8%AF%D9%81%D8%A7%D8%B9%D8%A7%20%D8%B9%D9%86%20%D8%A3%D9%85%D9%86%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84.doc"

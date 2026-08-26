@@ -2,7 +2,7 @@
 title: "الأحرار يصنعون الخبز يا عباس"
 date: 2006-10-17
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%A3%D8%AD%D8%B1%D8%A7%D8%B1%20%D9%8A%D8%B5%D9%86%D8%B9%D9%88%D9%86%20%D8%A7%D9%84%D8%AE%D8%A8%D8%B2%20%D9%8A%D8%A7%20%D8%B9%D8%A8%D8%A7%D8%B3.doc"

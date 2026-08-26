@@ -2,7 +2,7 @@
 title: "Palestine in the New Balance of Power"
 date: 2008-08-22
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Negotiations and the Oslo Accords"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D9%81%D9%8A%20%D9%85%D9%8A%D8%B2%D8%A7%D9%86%20%D8%A7%D9%84%D9%82%D9%88%D9%89%20%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.doc"

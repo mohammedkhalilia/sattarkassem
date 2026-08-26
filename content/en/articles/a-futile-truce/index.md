@@ -2,7 +2,7 @@
 title: "A Futile Truce"
 date: 2008-04-30
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Gaza Wars"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D9%87%D8%AF%D8%A6%D8%A9%20%D8%A8%D9%84%D8%A7%20%D8%AC%D8%AF%D9%88%D9%89.doc"

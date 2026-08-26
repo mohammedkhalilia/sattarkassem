@@ -2,7 +2,7 @@
 title: "We Are Teenagers Amusing Ourselves"
 date: 2006-09-04
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%86%D8%AD%D9%86%20%D9%85%D8%B1%D8%A7%D9%87%D9%82%D9%88%D9%86%20%D9%86%D8%AA%D9%84%D9%87%D9%89.doc"

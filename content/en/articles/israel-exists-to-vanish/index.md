@@ -2,7 +2,7 @@
 title: "Israel Exists to Vanish"
 date: 2014-01-27
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Resistance: Strategy and Uprisings"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D8%B3%D8%B1%D8%A6%D9%8A%D9%84%20%D9%88%D8%AC%D8%AF%D8%AA%20%D9%84%D8%AA%D8%B2%D9%88%D9%84.docx"

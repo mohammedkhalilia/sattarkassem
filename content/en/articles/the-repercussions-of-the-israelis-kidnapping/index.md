@@ -2,7 +2,7 @@
 title: "The Repercussions of the Israelis' Kidnapping"
 date: 2014-06-18
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Gaza Wars"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D8%AF%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA%20%D8%AE%D8%B7%D9%81%20%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%8A%D9%86.docx"

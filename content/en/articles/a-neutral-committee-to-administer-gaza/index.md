@@ -2,7 +2,7 @@
 title: "A Neutral Committee to Administer Gaza"
 date: 2005-07-16
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%84%D8%AC%D9%86%D8%A9%20%D9%85%D8%AD%D8%A7%D9%8A%D8%AF%D8%A9%20%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D9%82%D8%B7%D8%A7%D8%B9%20%D8%BA%D8%B2%D8%A9.doc"

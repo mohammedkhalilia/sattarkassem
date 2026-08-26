@@ -2,7 +2,7 @@
 title: "الدكتور وزير المالية المحترم"
 date: 2009-02-02
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الفساد والمال العام"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1%20%D9%88%D8%B2%D9%8A%D8%B1%20%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%B1%D9%85.doc"

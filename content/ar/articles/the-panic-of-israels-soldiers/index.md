@@ -2,7 +2,7 @@
 title: "هلع جنود إسرائيل"
 date: 2007-09-11
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المقاومة: استراتيجية وانتفاضات"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%87%D9%84%D8%B9%20%D8%AC%D9%86%D9%88%D8%AF%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84.doc"

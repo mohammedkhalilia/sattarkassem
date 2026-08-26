@@ -2,7 +2,7 @@
 title: "We Do Not Respect Election Results"
 date: 2013-07-05
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["Palestinian Elections"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%86%D8%AD%D9%86%20%D9%84%D8%A7%20%D9%86%D8%AD%D8%AA%D8%B1%D9%85%20%D9%86%D8%AA%D8%A7%D8%A6%D8%AC%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA.doc"

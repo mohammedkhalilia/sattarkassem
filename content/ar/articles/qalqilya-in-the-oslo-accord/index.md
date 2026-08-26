@@ -2,7 +2,7 @@
 title: "قلقيلية في اتفاق أوسلو"
 date: 2009-05-31
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%82%D9%84%D9%82%D9%8A%D9%84%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%A7%D8%AA%D9%81%D8%A7%D9%82%20%D8%A3%D9%88%D8%B3%D9%84%D9%88.docx"

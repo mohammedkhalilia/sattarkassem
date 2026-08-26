@@ -2,7 +2,7 @@
 title: "دايتون.. زعيم فلسطين"
 date: 2009-07-04
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AF%D8%A7%D9%8A%D8%AA%D9%88%D9%86..%20%D8%B2%D8%B9%D9%8A%D9%85%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.docx"

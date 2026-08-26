@@ -2,7 +2,7 @@
 title: "الهجوم على حزب التحرير"
 date: 2011-07-20
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الانقسام والمصالحة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85%20%D8%B9%D9%84%D9%89%20%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1.doc"

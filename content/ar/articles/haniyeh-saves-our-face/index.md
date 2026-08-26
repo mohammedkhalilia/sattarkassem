@@ -2,7 +2,7 @@
 title: "هنية ينقذ ماء وجوهنا"
 date: 2012-02-11
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الانقسام والمصالحة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%87%D9%86%D9%8A%D8%A9%20%D9%8A%D9%86%D9%82%D8%B0%20%D9%85%D8%A7%D8%A1%20%D9%88%D8%AC%D9%88%D9%87%D9%86%D8%A7.doc"

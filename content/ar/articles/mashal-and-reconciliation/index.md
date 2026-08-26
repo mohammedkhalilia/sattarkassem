@@ -2,7 +2,7 @@
 title: "مشعل والمصالحة"
 date: 2014-01-15
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الانقسام والمصالحة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D8%B4%D8%B9%D9%84%20%D9%88%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD%D8%A9.docx"

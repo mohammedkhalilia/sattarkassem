@@ -2,7 +2,7 @@
 title: "تمويل إقامة الوطن القومي اليهودي"
 date: 2009-03-19
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D9%85%D9%88%D9%8A%D9%84%20%D8%A5%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%88%D8%B7%D9%86%20%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A%20%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%8A.doc"

@@ -2,7 +2,7 @@
 title: "Halting Negotiations Is Like Returning to Them"
 date: 2013-07-21
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Negotiations and the Oslo Accords"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%88%D9%82%D9%81%20%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA%20%D9%83%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9%20%D8%A5%D9%84%D9%8A%D9%87%D8%A7.doc"

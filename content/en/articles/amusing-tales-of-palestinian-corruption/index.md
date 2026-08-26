@@ -2,7 +2,7 @@
 title: "Amusing Tales of Palestinian Corruption"
 date: 2004-02-25
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["Corruption and Public Funds"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D9%86%20%D8%B7%D8%B1%D8%A7%D8%A6%D9%81%20%D8%A7%D9%84%D9%81%D8%B3%D8%A7%D8%AF%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc"

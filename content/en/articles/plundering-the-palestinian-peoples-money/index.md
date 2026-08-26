@@ -2,7 +2,7 @@
 title: "Plundering the Palestinian People's Money"
 date: 2011-01-22
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["Corruption and Public Funds"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%86%D9%87%D8%A8%20%D8%A3%D9%85%D9%88%D8%A7%D9%84%20%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc"

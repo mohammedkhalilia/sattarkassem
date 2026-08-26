@@ -2,7 +2,7 @@
 title: "Abbas and a Palestinian Passport"
 date: 2013-01-07
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B9%D8%A8%D8%A7%D8%B3%20%D9%88%D8%AC%D9%88%D8%A7%D8%B2%20%D8%B3%D9%81%D8%B1%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc"

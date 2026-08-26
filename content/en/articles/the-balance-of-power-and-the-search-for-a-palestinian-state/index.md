@@ -2,7 +2,7 @@
 title: "The Balance of Power and the Search for a Palestinian State"
 date: 2011-10-15
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D9%8A%D8%B2%D8%A7%D9%86%20%D8%A7%D9%84%D9%82%D9%88%D9%89%20%D9%88%D8%A7%D9%84%D8%A8%D8%AD%D8%AB%20%D8%B9%D9%86%20%D8%AF%D9%88%D9%84%D8%A9%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9.docx"

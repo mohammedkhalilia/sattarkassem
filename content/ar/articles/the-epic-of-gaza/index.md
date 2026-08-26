@@ -2,7 +2,7 @@
 title: "ملحمة غزة"
 date: 2009-12-25
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["حروب غزة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D9%84%D8%AD%D9%85%D8%A9%20%D8%BA%D8%B2%D8%A9.doc"

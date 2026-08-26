@@ -2,7 +2,7 @@
 title: "Palestinian High Tide, Israeli Low Tide"
 date: 2014-07-09
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Resistance: Strategy and Uprisings"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D9%85%D8%AF%D9%91%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%20%D9%88%D8%A7%D9%84%D8%AC%D8%B2%D9%92%D8%B1%20%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A.doc"

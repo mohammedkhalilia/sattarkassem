@@ -22,6 +22,14 @@
   --cat-color-8: hsl(45 50% 90%);
   --cat-color-9: hsl(190 35% 91%);
   --cat-color-10: hsl(345 40% 93%);
+  --cat-color-11: hsl(60 45% 91%);
+  --cat-color-12: hsl(95 35% 91%);
+  --cat-color-13: hsl(165 35% 91%);
+  --cat-color-14: hsl(250 30% 93%);
+  --cat-color-15: hsl(300 30% 93%);
+  --cat-color-16: hsl(320 40% 92%);
+  --cat-color-17: hsl(175 30% 91%);
+  --cat-color-18: hsl(15 45% 91%);
 }
 
 :root[data-theme="dark"] {
@@ -69,6 +77,14 @@
     --cat-color-8: hsl(45 32% 21%);
     --cat-color-9: hsl(190 25% 21%);
     --cat-color-10: hsl(345 28% 23%);
+    --cat-color-11: hsl(60 32% 21%);
+    --cat-color-12: hsl(95 25% 20%);
+    --cat-color-13: hsl(165 25% 20%);
+    --cat-color-14: hsl(250 22% 23%);
+    --cat-color-15: hsl(300 22% 23%);
+    --cat-color-16: hsl(320 28% 23%);
+    --cat-color-17: hsl(175 22% 20%);
+    --cat-color-18: hsl(15 32% 21%);
   }
 }
 
@@ -450,6 +466,14 @@ hr {
 .term-header.cat-8 { --card-tint: var(--cat-color-8); }
 .term-header.cat-9 { --card-tint: var(--cat-color-9); }
 .term-header.cat-10 { --card-tint: var(--cat-color-10); }
+.term-header.cat-11 { --card-tint: var(--cat-color-11); }
+.term-header.cat-12 { --card-tint: var(--cat-color-12); }
+.term-header.cat-13 { --card-tint: var(--cat-color-13); }
+.term-header.cat-14 { --card-tint: var(--cat-color-14); }
+.term-header.cat-15 { --card-tint: var(--cat-color-15); }
+.term-header.cat-16 { --card-tint: var(--cat-color-16); }
+.term-header.cat-17 { --card-tint: var(--cat-color-17); }
+.term-header.cat-18 { --card-tint: var(--cat-color-18); }
 
 /* Lists */
 

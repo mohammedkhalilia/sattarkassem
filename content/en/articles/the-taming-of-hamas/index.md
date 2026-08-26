@@ -2,7 +2,7 @@
 title: "Taming Hamas"
 date: 2012-02-08
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D8%B1%D9%88%D9%8A%D8%B6%20%D8%AD%D9%85%D8%A7%D8%B3.doc"

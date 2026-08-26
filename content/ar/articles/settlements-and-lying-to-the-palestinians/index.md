@@ -2,7 +2,7 @@
 title: "الاستيطان والكذب على شعب فلسطين"
 date: 2013-07-10
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B7%D8%A7%D9%86%20%D9%88%D8%A7%D9%84%D9%83%D8%B0%D8%A8%20%D8%B9%D9%84%D9%89%20%D8%B4%D8%B9%D8%A8%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86.doc"

@@ -2,7 +2,7 @@
 title: "عرفات هو المسؤول الأول عن الفساد والفوضى"
 date: 2004-07-17
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الفساد والمال العام"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B9%D8%B1%D9%81%D8%A7%D8%AA%20%D9%87%D9%88%20%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%20%D8%B9%D9%86%20%D8%A7%D9%84%D9%81%D8%B3%D8%A7%D8%AF.doc"

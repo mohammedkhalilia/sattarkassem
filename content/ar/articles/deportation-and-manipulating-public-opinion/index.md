@@ -2,7 +2,7 @@
 title: "الإبعاد والتلاعب بالرأي العام"
 date: 2003-09-14
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المقاومة: استراتيجية وانتفاضات"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%A5%D8%A8%D8%B9%D8%A7%D8%AF%20%D9%88%D8%A7%D9%84%D8%AA%D9%84%D8%A7%D8%B9%D8%A8%20%D8%A8%D8%A7%D9%84%D8%B1%D8%A3%D9%8A%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85.doc"

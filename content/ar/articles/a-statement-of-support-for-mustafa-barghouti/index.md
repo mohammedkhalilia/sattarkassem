@@ -2,7 +2,7 @@
 title: "بيان دعم للدكتور مصطفى البرغوثي"
 date: 2004-12-18
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الانتخابات الفلسطينية"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A8%D9%8A%D8%A7%D9%86%20%D8%AF%D8%B9%D9%85%20%D9%84%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1%20%D9%85%D8%B5%D8%B7%D9%81%D9%89%20%D8%A7%D9%84%D8%A8%D8%B1%D8%BA%D9%88%D8%AB%D9%8A.doc"

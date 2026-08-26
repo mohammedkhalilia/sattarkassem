@@ -2,7 +2,7 @@
 title: "Trump's Deal Is Doomed to Fail"
 date: 2018-07-07
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Negotiations and the Oslo Accords"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B5%D9%81%D9%82%D8%A9%20%D8%AA%D8%B1%D8%A7%D9%85%D8%A8%20%D8%B3%D8%A7%D9%82%D8%B7%D8%A9%20%D8%AD%D8%AA%D9%85%D8%A7.docx"

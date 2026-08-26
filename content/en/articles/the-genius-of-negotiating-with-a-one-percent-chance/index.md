@@ -2,7 +2,7 @@
 title: "The Genius of Negotiating with a One-Percent Chance"
 date: 2010-08-28
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B9%D8%A8%D9%82%D8%B1%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6%20%D8%A8%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%20%D9%88%D8%A7%D8%AD%D8%AF%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%85%D9%8A%D8%A9.docx"

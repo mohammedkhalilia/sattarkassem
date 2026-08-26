@@ -2,7 +2,7 @@
 title: "تمزيق اتفاقية أوسلو"
 date: 2011-02-10
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D9%85%D8%B2%D9%8A%D9%82%20%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9%20%D8%A3%D9%88%D8%B3%D9%84%D9%88.doc"

@@ -2,7 +2,7 @@
 title: "الشعب سبب الانقسام"
 date: 2011-03-16
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الانقسام والمصالحة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%20%D8%B3%D8%A8%D8%A8%20%D8%A7%D9%84%D8%A7%D9%86%D9%82%D8%B3%D8%A7%D9%85.doc"

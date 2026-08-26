@@ -2,7 +2,7 @@
 title: "F-35 Jets for Israel"
 date: 2008-10-01
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Gaza Wars"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A5%D9%81%2035%20%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84.doc"

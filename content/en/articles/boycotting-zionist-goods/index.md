@@ -2,7 +2,7 @@
 title: "Boycotting Zionist Goods"
 date: 2010-05-25
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Resistance: Strategy and Uprisings"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B6%D8%A7%D8%A6%D8%B9%20%D8%A7%D9%84%D8%B5%D9%87%D9%8A%D9%88%D9%86%D9%8A%D8%A9.doc"

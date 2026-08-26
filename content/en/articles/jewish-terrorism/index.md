@@ -2,7 +2,7 @@
 title: "Jewish Terrorism"
 date: 2015-03-31
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Resistance: Strategy and Uprisings"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%20%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%8A.docx"

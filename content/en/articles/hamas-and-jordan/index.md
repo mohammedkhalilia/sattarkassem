@@ -2,7 +2,7 @@
 title: "Hamas and Jordan"
 date: 2007-08-21
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AD%D9%85%D8%A7%D8%B3%20%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86.doc"

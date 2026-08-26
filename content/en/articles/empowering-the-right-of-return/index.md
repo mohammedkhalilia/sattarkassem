@@ -2,7 +2,7 @@
 title: "Empowering the Right of Return"
 date: 2011-05-16
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Negotiations and the Oslo Accords"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D9%85%D9%83%D9%8A%D9%86%20%D8%AD%D9%82%20%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9.doc"

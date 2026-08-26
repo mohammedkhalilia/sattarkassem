@@ -2,7 +2,7 @@
 title: "Liberating Palestine Awaits Reconciliation"
 date: 2012-02-28
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D9%8A%D9%86%D8%AA%D8%B8%D8%B1%20%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD%D8%A9.doc"

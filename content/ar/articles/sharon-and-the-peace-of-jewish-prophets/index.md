@@ -2,7 +2,7 @@
 title: "شارون وسلام أنبياء اليهود"
 date: 2004-04-14
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B4%D8%A7%D8%B1%D9%88%D9%86%20%D9%88%D8%B3%D9%84%D8%A7%D9%85%20%D8%A3%D9%86%D8%A8%D9%8A%D8%A7%D8%A1%20%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF.doc"

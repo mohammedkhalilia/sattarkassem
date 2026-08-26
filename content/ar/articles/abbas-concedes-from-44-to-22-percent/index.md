@@ -2,7 +2,7 @@
 title: "عباس يتنازل من 44% إلى 22%"
 date: 2011-07-02
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B9%D8%A8%D8%A7%D8%B3%20%D9%8A%D8%AA%D9%86%D8%A7%D8%B2%D9%84%20%D9%85%D9%86%2044%25%20%D8%A5%D9%84%D9%89%2022%25.doc"

@@ -2,7 +2,7 @@
 title: "The Guardians of the Homeland Feud"
 date: 2003-04-25
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AD%D9%85%D8%A7%D8%A9%20%D8%A7%D9%84%D9%88%D8%B7%D9%86%20%D9%8A%D8%AA%D9%86%D8%A7%D8%B2%D8%B9%D9%88%D9%86.doc"

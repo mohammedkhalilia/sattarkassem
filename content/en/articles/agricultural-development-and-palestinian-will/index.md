@@ -2,7 +2,7 @@
 title: "Agricultural Development and Liberating the Palestinian Will"
 date: 2011-11-17
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["Corruption and Public Funds"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1%20%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%20%D9%88%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A5%D8%B1%D8%A7%D8%AF%D8%A9.doc"

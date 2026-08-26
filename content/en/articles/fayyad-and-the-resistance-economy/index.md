@@ -2,7 +2,7 @@
 title: "Fayyad and the Resistance Economy"
 date: 2012-04-25
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%81%D9%8A%D8%A7%D8%B6%20%D9%88%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%20%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85.docx"

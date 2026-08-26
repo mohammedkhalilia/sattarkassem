@@ -2,7 +2,7 @@
 title: "الحرب آتية"
 date: 2007-07-12
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["حروب غزة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D8%A2%D8%AA%D9%8A%D8%A9.doc"

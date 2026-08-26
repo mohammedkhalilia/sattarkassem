@@ -2,7 +2,7 @@
 title: "كيري وشرعنة تدنيس الأقصى"
 date: 2015-10-29
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["القدس والأقصى"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%83%D9%8A%D8%B1%D9%8A%20%D9%88%D8%B4%D8%B1%D8%B9%D9%86%D8%A9%20%D8%AA%D8%AF%D9%86%D9%8A%D8%B3%20%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89.docx"

@@ -2,7 +2,7 @@
 title: "A Report on Prisoners Held by the Authority"
 date: 2005-04-21
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%20%D8%AD%D9%88%D9%84%20%D8%A3%D8%B3%D8%B1%D9%89%20%D9%84%D8%AF%D9%89%20%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9.doc"

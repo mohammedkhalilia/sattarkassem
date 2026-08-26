@@ -2,7 +2,7 @@
 title: "Fleeing to Israel"
 date: 2008-08-07
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%B1%20%D8%A5%D9%84%D9%89%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84.doc"

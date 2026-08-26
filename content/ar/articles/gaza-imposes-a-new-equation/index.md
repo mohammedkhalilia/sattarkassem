@@ -2,7 +2,7 @@
 title: "غزة تفرض معادلة جديدة"
 date: 2008-01-23
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["حروب غزة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%BA%D8%B2%D8%A9%20%D8%AA%D9%81%D8%B1%D8%B6%20%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9%20%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9.doc"

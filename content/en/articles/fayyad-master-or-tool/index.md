@@ -2,7 +2,7 @@
 title: "Fayyad: Master or Tool?"
 date: 2010-04-08
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%81%D9%8A%D8%A7%D8%B6%20%D8%B3%D9%8A%D8%AF%20%D8%A3%D9%85%20%D8%A3%D8%AF%D8%A7%D8%A9.doc"

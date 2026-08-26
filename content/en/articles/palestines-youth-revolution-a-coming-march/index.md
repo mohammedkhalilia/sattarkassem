@@ -2,7 +2,7 @@
 title: "Palestine's Youth Revolution: A Coming March"
 date: 2011-05-31
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["PA Leadership: Arafat and Abbas"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AB%D9%88%D8%B1%D8%A9%20%D8%B4%D8%A8%D8%A7%D8%A8%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D8%B2%D8%AD%D9%81%20%D9%82%D8%A7%D8%AF%D9%85.doc"

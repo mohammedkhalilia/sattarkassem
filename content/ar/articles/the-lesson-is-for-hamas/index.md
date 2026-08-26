@@ -2,7 +2,7 @@
 title: "العبرة لحماس"
 date: 2006-01-28
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الانقسام والمصالحة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%B9%D8%A8%D8%B1%D8%A9%20%D9%84%D8%AD%D9%85%D8%A7%D8%B3.doc"

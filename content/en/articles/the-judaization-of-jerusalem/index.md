@@ -2,7 +2,7 @@
 title: "The Judaization of Jerusalem"
 date: 2012-03-13
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Jerusalem and Al-Aqsa"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%AA%D9%87%D9%88%D9%8A%D8%AF%20%D8%A7%D9%84%D9%82%D8%AF%D8%B3.doc"

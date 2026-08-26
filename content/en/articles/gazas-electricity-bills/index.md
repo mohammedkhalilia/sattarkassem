@@ -2,7 +2,7 @@
 title: "Gaza's Electricity Bills"
 date: 2010-07-04
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["Corruption and Public Funds"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%81%D9%88%D8%A7%D8%AA%D9%8A%D8%B1%20%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1%20%D8%BA%D8%B2%D8%A9.docx"

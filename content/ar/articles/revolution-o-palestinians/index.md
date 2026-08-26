@@ -2,7 +2,7 @@
 title: "الثورة أيها الفلسطينيون"
 date: 2010-02-23
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9%20%D8%A3%D9%8A%D9%87%D8%A7%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86.doc"

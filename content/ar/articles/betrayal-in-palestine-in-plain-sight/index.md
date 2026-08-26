@@ -2,7 +2,7 @@
 title: "الخيانة في فلسطين عينك عينك"
 date: 2006-09-26
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%86%D8%A9%20%D9%81%D9%8A%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D8%B9%D9%8A%D9%86%D9%83%20%D8%B9%D9%8A%D9%86%D9%83.doc"

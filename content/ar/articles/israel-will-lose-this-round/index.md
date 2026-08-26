@@ -2,7 +2,7 @@
 title: "إسرائيل ستخسر الجولة"
 date: 2008-01-22
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["حروب غزة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%20%D8%B3%D8%AA%D8%AE%D8%B3%D8%B1%20%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A9.docx"

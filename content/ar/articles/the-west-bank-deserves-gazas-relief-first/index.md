@@ -2,7 +2,7 @@
 title: "الضفة أولى بإغاثة غزة"
 date: 2010-01-08
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الانقسام والمصالحة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%B6%D9%81%D8%A9%20%D8%A3%D9%88%D9%84%D9%89%20%D8%A8%D8%A5%D8%BA%D8%A7%D8%AB%D8%A9%20%D8%BA%D8%B2%D8%A9.docx"

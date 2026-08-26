@@ -2,7 +2,7 @@
 title: "في ذكرى مجزرة صبرا وشاتيلا"
 date: 2014-09-21
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المقاومة: استراتيجية وانتفاضات"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%81%D9%8A%20%D8%B0%D9%83%D8%B1%D9%89%20%D9%85%D8%AC%D8%B2%D8%B1%D8%A9%20%D8%B5%D8%A8%D8%B1%D8%A7%20%D9%88%D8%B4%D8%A7%D8%AA%D9%8A%D9%84%D8%A7.doc"

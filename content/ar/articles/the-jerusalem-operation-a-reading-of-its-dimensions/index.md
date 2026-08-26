@@ -2,7 +2,7 @@
 title: "عملية القدس.. قراءة في الأبعاد"
 date: 2014-11-23
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["القدس والأقصى"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B9%D9%85%D9%84%D9%8A%D8%A9%20%D8%A7%D9%84%D9%82%D8%AF%D8%B3..%20%D9%82%D8%B1%D8%A7%D8%A1%D8%A9%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF.docx"

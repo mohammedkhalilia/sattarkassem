@@ -2,7 +2,7 @@
 title: "الحرب على حماس"
 date: 2008-01-19
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الانقسام والمصالحة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D8%B9%D9%84%D9%89%20%D8%AD%D9%85%D8%A7%D8%B3.docx"

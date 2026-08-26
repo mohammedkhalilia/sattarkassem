@@ -2,7 +2,7 @@
 title: "Between Discipline and Demagoguery"
 date: 2006-02-02
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A8%D9%8A%D9%86%20%D8%A7%D9%84%D8%A7%D9%86%D8%B6%D8%A8%D8%A7%D8%B7%20%D9%88%D8%A7%D9%84%D8%BA%D9%88%D8%BA%D8%A7%D8%A6%D9%8A%D8%A9.doc"

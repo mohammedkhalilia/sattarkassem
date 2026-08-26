@@ -2,7 +2,7 @@
 title: "الفلسطينيون ضحايا الخيانة"
 date: 2012-09-30
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["قيادة السلطة: عرفات وعباس"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86%20%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7%20%D8%A7%D9%84%D8%AE%D9%8A%D8%A7%D9%86%D8%A9.doc"

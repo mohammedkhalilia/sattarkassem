@@ -2,7 +2,7 @@
 title: "The Return Marches: An Effective Weapon Weakened by Discontinuation"
 date: 2018-04-07
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Resistance: Strategy and Uprisings"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%E2%80%8B%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9..%20%D8%B3%D9%84%D8%A7%D8%AD%20%D9%85%D8%A4%D8%AB%D8%B1%20%D9%8A%D8%B6%D8%B9%D9%81%D9%87%20%D8%A7%D9%84%D8%A7%D9%86%D9%82%D8%B7%D8%A7%D8%B9.docx"

@@ -2,7 +2,7 @@
 title: "What's New in Haniyeh's Speech"
 date: 2013-10-21
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%20%D9%81%D9%8A%20%D8%AE%D8%B7%D8%A7%D8%A8%20%D9%87%D9%86%D9%8A%D8%A9.docx"

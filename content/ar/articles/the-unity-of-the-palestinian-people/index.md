@@ -2,7 +2,7 @@
 title: "وحدة الشعب الفلسطيني"
 date: 2010-06-14
 draft: false
-categories: ["السياسة الفلسطينية"]
+categories: ["الانقسام والمصالحة"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D9%88%D8%AD%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%20%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A.doc"

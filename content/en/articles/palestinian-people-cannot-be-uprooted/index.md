@@ -2,7 +2,7 @@
 title: "The People of Palestine Cannot Be Uprooted"
 date: 2018-07-17
 draft: false
-categories: ["Israeli-Palestinian Conflict"]
+categories: ["Resistance: Strategy and Uprisings"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%B4%D8%B9%D8%A8-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86-%D8%B9%D8%B5%D9%8A-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D9%84%D8%A7%D8%B9.docx"

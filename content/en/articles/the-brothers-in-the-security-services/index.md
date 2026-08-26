@@ -2,7 +2,7 @@
 title: "The Brothers in the Security Services"
 date: 2008-08-18
 draft: false
-categories: ["Palestinian Politics"]
+categories: ["The Divide and Reconciliation"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%A3%D8%AE%D9%88%D8%A9%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9%20%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9.doc"

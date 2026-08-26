@@ -2,7 +2,7 @@
 title: "الإدانات تشجع الاستيطان"
 date: 2017-02-02
 draft: false
-categories: ["الصراع الفلسطيني الإسرائيلي"]
+categories: ["المفاوضات واتفاقيات أوسلو"]
 tags: []
 original_language: "ar"
 original_file: "/originals/articles/%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D9%86%D8%A7%D8%AA%20%D8%AA%D8%B4%D8%AC%D8%B9%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B7%D8%A7%D9%86.docx"
