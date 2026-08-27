@@ -7,7 +7,7 @@ layout: "chapter"
 original_language: "ar"
 original_file: "/originals/books/the-road-to-defeat/11.doc"
 translated_from: "chapter-11"
-translation_status: "not_started"
+translation_status: "complete"
 ---
 
-<!-- Paste the chapter body here. -->
+
