@@ -31,6 +31,9 @@ other = "كلمات تأبين"
 [download_pdf]
 other = "تحميل الملف الأصلي PDF"
 
+[download_book_pdf]
+other = "تحميل الكتاب كاملاً (PDF)"
+
 [read_in]
 other = "اقرأ بلغة {{.Language}}"
 

@@ -31,6 +31,9 @@ other = "Tributes"
 [download_pdf]
 other = "Download original PDF"
 
+[download_book_pdf]
+other = "Download the Full Book (PDF)"
+
 [read_in]
 other = "Read in {{.Language}}"
 

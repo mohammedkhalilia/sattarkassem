@@ -7,21 +7,27 @@
   </header>
   <div class="book-layout">
     <div class="book-intro content-body">{{ .Content }}</div>
-    {{ if and (eq .Language.Lang "en") (eq .Params.original_language "ar") }}
-      <p class="ai-translation-notice">{{ T "ai_translation_notice" }}</p>
-    {{ end }}
     {{ with .Params.cover }}
       <div class="book-cover-col">
         <img class="book-cover" src="{{ . | relURL }}" alt="{{ $.Title }}">
       </div>
     {{ end }}
   </div>
-  {{ with .Pages.ByWeight }}
-    {{ with index . 0 }}
-      <p class="book-start-reading">
-        <a class="book-start-reading-link" href="{{ .RelPermalink }}">{{ T "start_reading" }} &larr;</a>
-      </p>
-    {{ end }}
+  {{ $chapters := .Pages.ByWeight }}
+  {{ $firstChapter := "" }}
+  {{ if gt (len $chapters) 0 }}{{ $firstChapter = index $chapters 0 }}{{ end }}
+  {{ if or $firstChapter .Params.pdf }}
+    <div class="book-actions">
+      {{ with $firstChapter }}
+        <a class="book-action-link" href="{{ .RelPermalink }}">{{ T "start_reading" }} &larr;</a>
+      {{ end }}
+      {{ with $.Params.pdf }}
+        <a class="book-action-link" href="{{ . | relURL }}">{{ T "download_book_pdf" }}</a>
+      {{ end }}
+    </div>
+  {{ end }}
+  {{ if and (eq .Language.Lang "en") (eq .Params.original_language "ar") }}
+    <p class="ai-translation-notice">{{ T "ai_translation_notice" }}</p>
   {{ end }}
 </article>
 {{ end }}
