@@ -12,6 +12,7 @@
 {{- $image := .Params.photo | default "/images/about/sattar_in_garden.jpg" | absURL }}
 <title>{{ $pageTitle }}</title>
 <meta name="description" content="{{ $desc }}">
+{{ if .Params.noindex }}<meta name="robots" content="noindex, nofollow">{{ end }}
 <link rel="canonical" href="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ site.Title }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
