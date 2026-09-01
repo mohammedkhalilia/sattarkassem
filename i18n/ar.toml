@@ -37,6 +37,9 @@ other = "تحميل الكتاب كاملاً (PDF)"
 [download_book_epub]
 other = "تحميل الكتاب كاملاً (EPUB)"
 
+[read_on_kotobee]
+other = "اقرأ على Kotobee"
+
 [read_in]
 other = "اقرأ بلغة {{.Language}}"
 
