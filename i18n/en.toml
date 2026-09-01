@@ -40,6 +40,9 @@ other = "Download the Full Book (EPUB)"
 [read_on_kotobee]
 other = "Read on Kotobee"
 
+[read_on_kindle]
+other = "Read on Kindle"
+
 [read_in]
 other = "Read in {{.Language}}"
 

@@ -30,6 +30,9 @@
       {{ with $.Params.kotobee }}
         <a class="book-action-link" href="{{ . }}" target="_blank" rel="noopener">{{ T "read_on_kotobee" }}</a>
       {{ end }}
+      {{ with $.Params.kindle }}
+        <a class="book-action-link" href="{{ . }}" target="_blank" rel="noopener">{{ T "read_on_kindle" }}</a>
+      {{ end }}
     </div>
   {{ end }}
   {{ if and (eq .Language.Lang "en") (eq .Params.original_language "ar") }}
