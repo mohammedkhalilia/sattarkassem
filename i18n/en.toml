@@ -34,6 +34,9 @@ other = "Download original PDF"
 [download_book_pdf]
 other = "Download the Full Book (PDF)"
 
+[download_book_epub]
+other = "Download the Full Book (EPUB)"
+
 [read_in]
 other = "Read in {{.Language}}"
 

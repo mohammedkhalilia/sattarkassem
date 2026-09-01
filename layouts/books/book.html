@@ -24,6 +24,9 @@
       {{ with $.Params.pdf }}
         <a class="book-action-link" href="{{ . | relURL }}">{{ T "download_book_pdf" }}</a>
       {{ end }}
+      {{ with $.Params.epub }}
+        <a class="book-action-link" href="{{ . | relURL }}">{{ T "download_book_epub" }}</a>
+      {{ end }}
     </div>
   {{ end }}
   {{ if and (eq .Language.Lang "en") (eq .Params.original_language "ar") }}
